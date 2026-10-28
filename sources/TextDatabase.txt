@@ -1,0 +1,517 @@
+819	ER_RETRY	通信エラーが発生しました。
+電波状況のよいところで
+リトライしてください。	ER_MASTER_WRITE	データ書き込みエラーが発生しました。
+端末内の容量を空けるなどして
+リトライしてください。	ER_NG_USER	エラーが発生しました。
+この状態が続くようでしたら
+サポートまでご連絡ください。	ER_SERVER	サーバーのメンテナンス中です。
+しばらく時間をおいてから
+再接続してください。	ER_NG_NAME	入力されたお名前に、このアプリで
+表示できない文字が含まれています。
+お手数ですが、別のお名前を入力して
+ください。	ER_BACK2TOP	ゲームデータが更新されました!
+トップメニューに戻ります。	ER_VER	app storeから
+アプリケーションの更新を
+おこなってください。	ER_VER_ANDROID	Playストアから
+アプリケーションの更新を
+おこなってください。	ER_REBOOT	エラーが発生しました。
+アプリケーションを再起動してください。	DLG_ERR_NOUSER	フレンド申請に失敗しました。
+（エラーコード = 2008）	DLG_ERR_CANCEL	通信エラーが発生しました。
+（エラーコード = {0}）	DLG_ERR_PLA	お使いの機種は動作対象外です。
+申し訳ありませんが、虹色水晶を
+購入することはできません。	DLG_ERR_OK_ONLY	エラーが発生しました。	DLG_ERR_GOOGLE	GooglePlayへの接続に失敗しました。
+（エラーコード = {0}）	DLG_WAIT_CONNECT	通信中です。少々お待ちください・・・	DLG_QUIT_APPLICATION	アプリケーションを終了しますか？
+	DLG_RETURN_TITLE	タイトル画面に戻りますか？
+	DLG_DONT_GAMEPLAY	利用規約に同意しないとゲームを遊べません。	NONE	なし	BTN_SIR	了解	BTN_OK	OK	BTN_DECIDE	決定	BTN_DECIDE2	決定！	BTN_CANCEL	キャンセル	BTN_HAI	はい	BTN_IIE	いいえ	BTN_GACHA	プレイする	BTN_OTHER	他を選ぶ	BTN_USE	使う!	BTN_RECON	再接続	BTN_BUY	購入	BTN_CLOSE	閉じる	BTN_TOP	戻る	BTN_OPEN	開く	BTN_DELETE	削除	BTN_REVIEW	レビュー！	BTN_REVIEW_CANCEL	今はしない	BTN_INDUCTION_OK	見る！	BTN_INDUCTION_CANCEL	今は見ない	BTN_GIVEN	もらう	BTN_CHECK	確認	CMN_ATO	あと	CMN_DAY	日	CMN_HOUR	時間	CMN_MIN	分	STAFF_NAME	運営スタッフ	LD_CHECK	ユーザーデータを問い合わせ中…	LD_LEVEL	クエスト情報をダウンロード中…	LD_GACHA	プレイデータを通信中…	LD_DOWNLOAD	最新データをダウンロード中…	LD_UPDATE	プレイデータを更新中…	LD_UNIT	ユニットデータをダウンロード中…	LD_FRIEND	フレンド情報を更新中…	LD_PRESENT	プレゼント情報を確認中…	LD_RETRY	通信リトライ中…	COMING_SOON	　なし	CURRENCY	￥	CURRENCY2	$	COM_WAIT	ゲームサーバーに接続中…	RR_01	★	RR_02	★★	RR_03	★★★	RR_04	★★★★	RR_05	★★★★★	RR_06	★★★★★★	RR_UN	？？？	INST_FIRST	ロード・トゥ・ドラゴンの世界へようこそ！
+ボクの名前はドラ助っていうんだ！
+これから冒険の仕方についてお話させてもらうね。
+
+さっそくだけど、まずキミの名前をおしえてよ！	INST_NAME_INPUT	あなたのニックネームを入力してね！	INST_DEFAULT	Player	INST_ING	最新データをダウンロード中です。	INST_END	ダウンロードが完了しました。	INST_NAME_CHECK	プレイヤー名は
+「{0}」
+でよろしいですか？	INST_NAME_ERROR	大変申し訳ありませんが、
+その名前を使用することはできません。
+お手数をおかけしますが、
+再度別の名前をご入力ください。	INST_CODE_ERROR	大変申し訳ありませんが、
+入力された招待IDは存在しません。	INST_WELCOME	あらためまして、
+ようこそロード・トゥ・ドラゴンの世界へ！
+
+それじゃさっそく、キミのパートナーになる戦士を
+４人の中から１人選んでね！	INST_CHAR_SELECT	
+気になるキャラクターの絵にタッチしてね！	INST_CHAR_0	火の剣士：アレン
+攻守ともに安定した堅実さが特徴の剣士だよ！
+ライフが多いから、初心者にオススメ！
+	INST_CHAR_1	闇の戦士：カイン
+攻撃力に特化した、強さが特徴の戦士だよ！
+その分ライフは低めだから、やや中級者向けだね！
+	INST_CHAR_2	水の狩人：ルカ
+ライフ・攻撃力・回復力のバランスが良くて、
+どんな状況にも対応出来るから、初心者にオススメ！
+	INST_CHAR_3	光の魔法使い：マリア
+回復力に特化しててサポートに向いているよ！
+攻撃力が低いから、やや上級者向けだね！
+	INST_CHAR_CHECK	
+このキャラクターでいいのかな？	INST_OTOMO_CHECK	キミの選んだ戦士に
+２人のお供を付けておいたよ！
+
+この子たちでいいのかな？	INST_FRIEND_MESSAGE_1	クエストに出るときは、
+４人目の仲間を選ぶんだけど・・・
+今回はボクが信頼する
+{0}
+に付いて行って貰うことにするね！	INST_FRIEND_MESSAGE_2	さぁ、これで準備が整ったよ！
+
+この世界を救うにはキミの力が必要なんだ！
+戦士たちを導いて、悪いドラゴンをやっつけてね！
+それじゃあいくよ！	INST_BATTLE_RESULT	すごい！
+あんなに強いドラゴンをやっつけるなんて！
+
+次の戦いでも勝てるように、
+新たな戦士を召喚してみようよ！	INST_GOOD_LUCK	わぁ！凄い戦士を召喚したね！
+戦士たちは「レベルアップ合成」や「進化合成」で
+強くする事もできるから、いろいろ試してみて！
+
+それじゃまたね！ばいばーい！	MT_AREA_N	エリアセレクト	MT_AREA_E	エリアセレクト	MT_AREA_S	エリアセレクト	MT_QUEST_SEL	クエストセレクト	MT_QUEST_RESULT	クエストリザルト	MT_HELPER	助っ人セレクト	MT_QUEST_CONFIRM	最終確認	MT_UNIT_MENU	ユニット	MT_UNIT_PARTY	ユニット編成	MT_UNIT_PARTY_LIST	ユニット選択	MT_UNIT_LVUP_BASE	ベースユニット選択	MT_UNIT_LVUP	レベルアップ合成	MT_UNIT_LVUP_LIST	素材ユニット選択	MT_UNIT_EVO_BASE	進化ユニット選択	MT_UNIT_EVO	進化合成	MT_UNIT_EVO_LIST	素材ユニット選択	MT_UNIT_SPCOMP_BASE	ベースユニット選択	MT_UNIT_SPCOMP	デラックス合成	MT_UNIT_SPCOMP_LIST	素材ユニット選択	MT_UNIT_SELL	売却ユニット選択	MT_UNIT_LIST	ユニット一覧	MT_UNIT_DETAIL	ユニット詳細	MT_SHOP_MENU	ショップ	MT_SHOP_QUARTZ	虹色水晶の購入	MT_SHOP_QUARTZ_DESC	ゲーム内の様々なところでご利用できる
+便利なアイテムです	MT_SHOP_NOAH	虹色水晶をもらう	MT_SHOP_NOAH_DESC	対象アプリインストールで虹色水晶を
+獲得することができます。	MT_SHOP_AP	スタミナ回復	MT_SHOP_AP_DESC	スタミナをすぐに全回復できます	MT_SHOP_BOX	ユニットBOX拡張	MT_SHOP_BOX_DESC	ユニット最大所持数をふやします	MT_SHOP_FRIEND	フレンド枠拡張	MT_SHOP_FRIEND_DESC	最大フレンド数をふやします	MT_GACHA_MENU	ガチャ	MT_GACHA_NORMAL	ノーマルガチャ	MT_GACHA_NORMAL_10	ノマガチャ×10	MT_GACHA_RESULT	ガチャ結果	MT_GACHA_RARE	レアガチャ	MT_FRIEND_MENU	フレンド	MT_FRIEND_LIST	フレンドリスト	MT_FRIEND_LIST_SELP	プレゼント選択	MT_FRIEND_POST	フレンド通知	MT_FRIEND_APPLY	フレンド申請	MT_FRIEND_INVITE	フレンド招待	MT_FRIEND_SEARCH	フレンド検索	MT_ETC	そのほか	MT_ETC_PRESENT	プレゼント確認	MT_ETC_ZUKAN	ユニット図鑑	MT_ETC_INFO	お知らせ	MT_ETC_OPTION	オプション設定	MT_ETC_SUPPORT	サポート	MT_ETC_SETTLEMENT	資金決済法について	MT_ETC_THANKS	謝辞	MT_ETC_CREDIT	クレジット	MT_ETC_TITLE	タイトルに戻る	MT_LOGIN	ログイン	MT_UNIT_OVER	ユニット超過	MT_INFORMATION_SITE	ロードラ情報	MT_FAMITSU	ファミ通App	MT_FAMITSU_DESC	ファミ通App『ロード・トゥ・ドラゴン』攻略ページへ	MT_HELP_MENU	ヘルプ	MT_HELP_RULE	ゲームルール	MT_HELP_UNIT	ユニットについて	MT_HELP_OTHER	そのほか	MT_ETC_TRANS	機種移行	MT_CREATE_PASS	パスワード発行	MT_ENTER_PASS	パスワード入力	MT_ETC_LAST_DATA	最新データの取得	MT_ETC_CHANGE_NAME	ニックネーム変更	MT_ETC_QUARTZCHECK	虹色水晶の確認	MT_ETC_EVENT	イベント/アップデート情報	MT_ETC_COMMUNITY	コミュニティ	MT_ETC_AGREEMENT	利用規約	MT_ETC_PERSONAL_INFO	個人情報	MS_AREA_N	プレイするエリアをえらんでください。	MS_AREA_E	プレイするエリアをえらんでください。	MS_AREA_S	プレイするエリアをえらんでください。	MS_HELPER	クエストに同行する助っ人をえらんでください。	MS_QUEST_CONFIRM	クエストに出発する前の最終確認です。	MS_QUEST_SEL	プレイするクエストをえらんでください。	MS_QUEST_RESULT	クエストクリアおめでとうございます！	MS_UNIT_MENU	ユニットに関するメニューです。	MS_UNIT_PARTY	入れ替えるユニットにタッチしてください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_PARTY_LIST	パーティに加えるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_LVUP_BASE	強化するユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_LVUP	ベースユニットを強化します。素材ユニットは消失します。	MS_UNIT_LVUP_LIST	素材となるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_EVO_BASE	進化させるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_EVO	ベースユニットを進化させます。素材ユニットは消失します。	MS_UNIT_EVO_LIST	素材となるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_SPCOMP_BASE	デラックス強化するユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_SPCOMP	ベースユニットをデラックス強化します。素材ユニットは消失します。	MS_UNIT_SPCOMP_LIST	素材となるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_SELL	売却するユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_LIST	所持しているユニットの一覧です。タッチするとユニットをお気に入り登録できます。ユニットを長押しすると詳細をチェックできます。	MS_UNIT_DETAIL	ユニットの詳細です。	MS_SHOP_MENU	虹色水晶の購入ができます。	MS_SHOP_QUARTZ	購入する虹色水晶を選択してください。	MS_SHOP_AP	虹色水晶を消費して、スタミナを全回復します。	MS_SHOP_BOX	虹色水晶を消費して、ユニットBOXの拡張を行います。	MS_SHOP_FRIEND	虹色水晶を消費して、フレンド枠の拡張を行います。	MS_GACHA_MENU	ガチャをプレイしてユニットを獲得できます。	MS_GACHA_NORMAL	ノーマルガチャをプレイ！	MS_GACHA_NORMAL_10	ノーマルガチャを10回まとめてプレイ！おまけも貰えるよ！	MS_GACHA_RESULT	ノーマルガチャを10回まとめてプレイ！おまけも貰えるよ！	MS_GACHA_RARE	レアガチャをプレイ！	MS_FRIEND_MENU	フレンドに関するメニューです。	MS_FRIEND_LIST	フレンドの一覧です。	MS_FRIEND_LIST_SELP	フレンドにおくるプレゼントをえらんでください。	MS_FRIEND_POST	フレンドへのお誘いを確認出来ます。	MS_FRIEND_APPLY	フレンドの申請状況を確認出来ます。	MS_FRIEND_INVITE	フレンド招待を確認出来ます。	MS_FRIEND_SEARCH	ユーザーIDを指定してフレンド申請ができます。	MS_ETC	ゲーム中のさまざまな情報を確認できます。	MS_ETC_PRESENT	プレゼントの確認ができます。	MS_ETC_ZUKAN	ユニット図鑑	MS_ETC_INFO	お知らせ	MS_ETC_OPTION	オプション設定	MS_ETC_SUPPORT	サポート	MS_ETC_SETTLEMENT	資金決済法について	MS_ETC_THANKS	謝辞	MS_ETC_CREDIT	クレジット	MS_WAITFOR	少々お待ちください・・・	MS_LOGIN	ログイン	MS_UNIT_OVER	ユニット超過	MS_INFORMATION	ロード・トゥ・ドラゴンの攻略情報	MS_HELP_MENU	ゲーム中に出てくる項目の説明を表示します。	MS_HELP_RULE	ゲームルールについての説明です。	MS_HELP_UNIT	ユニットについての説明です。	MS_HELP_OTHER	そのほかの項目についての説明です。	MS_TRANS	セーブデータを他の端末に移動します。	MS_CREATE_PASS	セーブデータを移動する際に使用するIDの確認とパスワードの発行ができます。	MS_ENTER_PASS	これまで使用していたIDとパスワードを入力してデータの移動ができます。	MS_ETC_CHANGE_NAME	ニックネームを変更できます。	MH_AREA_N	ノーマルエリアの選択を行う画面です。
+プレイしたいエリア名にタッチしてください。\n
+[d9419a][エリアの変更][-]
+イベントエリアに変更する場合は、右上の
+「イベントエリアへ」をタッチしてください。	MH_AREA_E	イベントエリアの選択を行う画面です。
+プレイしたいエリア名をタッチしてください。\n
+[d9419a][エリアの変更][-]
+ノーマルエリアに変更する場合は、右上の
+「ノーマルエリアへ」をタッチしてください。	MH_AREA_E_TO_SPECIAL	イベントエリアの選択を行う画面です。
+プレイしたいエリア名をタッチしてください。\n
+[d9419a][エリアの変更][-]
+SPエリアに変更する場合は、右上の
+「SPエリアへ」をタッチしてください。	MH_AREA_S	SPエリアの選択を行う画面です。
+プレイしたいエリア名をタッチしてください。\n
+[d9419a][エリアの変更][-]
+ノーマルエリアに変更する場合は、右上の
+「ノーマルエリアへ」をタッチしてください。	MH_HELPER	[d9419a][助っ人セレクト][-]
+クエストに同行する助っ人を選択する画面です。一緒に行く助っ人を選んでください。\n
+[d9419a][更新][-]
+右上の更新ボタンをタッチすると、選択出来る助っ人が更新されます。	MH_QUEST_CONFIRM	クエスト出発前の最終確認画面です。
+「クエスト出発！」をタッチしてください。\n
+[d9419a][表示の変更][-]
+表示変更ボタンで表示内容を変更できます。
+[d9419a][ユニットの変更][-]
+ユニットにタッチをすると変更ができます。
+[d9419a][チャレンジ目標][-]
+各クエストのチャレンジ目標を確認できます。	MH_QUEST_SEL	クエスト選択を行う画面です。\nプレイしたいクエスト名にタッチしてください。\n
+[d9419a][クエスト][-]
+「距離」はクエストの長さ、\n「スタミナ」は消費スタミナ数を表します。	MH_QUEST_RESULT	（ダイアログ非表示）	MH_UNIT_MENU	ユニットに関するメニュー画面です。
+
+パーティ編成を変更したい場合は[d9419a][ユニット編成][-]を
+ユニットのレベルアップが行いたい場合は
+[d9419a][レベルアップ合成][-]を選択してください。	MH_UNIT_PARTY	ユニット編成に関する画面です。
+
+ユニットのアイコンにタッチする事で、他のユニットと入れ替える事ができます。
+
+[d9419a][表示の変更][-]
+表示変更ボタンでユニットに関する表示情報内容を変更できます。	MH_UNIT_PARTY_LIST	[d9419a][ユニット選択][-]
+パーティに加えるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_LVUP_BASE	[d9419a][ベースユニット選択][-]
+強化するユニットをえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_LVUP	[d9419a][レベルアップ合成][-]
+ベースユニットを強化します。「まとめて追加」ボタンで素材ユニットを選んでください。合成された素材ユニットは消失します。	MH_UNIT_LVUP_LIST	[d9419a][素材ユニット選択][-]
+素材となるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_EVO_BASE	[d9419a][進化ユニット選択][-]
+進化させるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_EVO	[d9419a][進化合成][-]
+ベースユニットを進化させます。「まとめて追加」ボタンで素材ユニットを選んでください。合成された素材ユニットは消失します。	MH_UNIT_EVO_LIST	[d9419a][素材ユニット選択][-]
+素材となるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_SPCOMP_BASE	[d9419a][ベースユニット選択][-]
+デラックス強化するユニットをえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_SPCOMP	[d9419a][デラックス合成][-]
+ベースユニットをデラックス強化します。合成された素材ユニットは消失します。	MH_UNIT_SPCOMP_LIST	[d9419a][素材ユニット選択][-]
+素材となる「DX合成用よりしろ」をえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_SELL	[d9419a][売却ユニット選択][-]
+売却するユニットをえらんでください。ユニットを長押しすると詳細を確認できます。	MH_UNIT_LIST	[d9419a][ユニット一覧][-]
+所持しているユニットの一覧です。ユニットを長押しすると詳細を確認できます。タッチをするとユニットをお気に入り登録できます。お気に入りにすると誤ってユニットを売却する事などを防げます。	MH_UNIT_DETAIL	[d9419a][ユニット詳細][-]
+ユニットの詳細です。
+
+[d9419a][ストーリー][-]
+各ユニットのストーリーを読むことが出来ます。	MH_SHOP_MENU	虹色水晶の購入や、虹色水晶を使用して
+ゲーム内の様々な拡張が行えます！
+※購入した虹色水晶が反映されない場合は、しばらく時間をおいてから再度ご確認ください。	MH_SHOP_QUARTZ	[d9419a][虹色水晶の購入][-]
+虹色水晶の購入個数をえらび「購入」ボタンをタッチしてください。	MH_SHOP_AP	（ダイアログ非表示）	MH_SHOP_BOX	（ダイアログ非表示）	MH_SHOP_FRIEND	（ダイアログ非表示）	MH_GACHA_MENU	ガチャをプレイしてユニットを獲得できます。
+
+[d9419a][ノーマルガチャ][-]
+１００フレンドポイントで1回プレイできます。
+[d9419a][ノーマルガチャ×10][-]
+１０００フレンドポイントで1回プレイできます。
+[d9419a][レアガチャ][-]
+虹色水晶5個で、1回プレイできます。	MH_GACHA_NORMAL	（ダイアログ非表示）	MH_GACHA_RARE	（ダイアログ非表示）	MH_FRIEND_MENU	フレンドに関するメニュー画面です。	MH_FRIEND_LIST	フレンドの一覧です。
+
+[d9419a][プレゼント][-]
+「プレゼント」ボタンをタッチでフレンドに、ユニットをプレゼントできます。
+[d9419a][フレンド解除][-]
+「フレンド解除」ボタンでフレンドの解除を行えます。	MH_FRIEND_LIST_SELP	[d9419a][プレゼント][-]
+フレンドにおくるユニットをタッチしてください。プレゼント対象外のユニットは選択出来ません。プレゼントしたユニットは消失します。	MH_FRIEND_POST	他のプレイヤーからのフレンドへのお誘いを確認出来る画面です。フレンドになる場合は「フレンド承諾」、ならない場合は「フレンド拒否」ボタンをタッチしてください。
+
+フレンドになると、助っ人としてクエストに同行した際、フレンドポイントが多くもらえます。	MH_FRIEND_APPLY	フレンドの申請状況を確認できます。「申請とりけし」ボタンで申請をとりけす事ができます。	MH_FRIEND_INVITE	（ダイアログ非表示）	MH_FRIEND_SEARCH	ユーザーIDを指定してフレンド申請ができます。フレンドのIDを入力し「ＯＫ」ボタンをタッチしてください。	MH_ETC	ゲーム中のさまざまな情報に関するメニュー画面です。	MH_ETC_PRESENT	[d9419a][プレゼント確認][-]
+プレゼントの確認ができます。最大50件まで保持できますが、開封期間の過ぎたプレゼントは消えてしまうのでご注意ください。	MH_ETC_ZUKAN	[d9419a][ユニット図鑑][-]
+これまでに獲得したユニットを確認できます。	MH_ETC_INFO	（ダイアログ非表示）	MH_ETC_OPTION	（ダイアログ非表示）	MH_ETC_SUPPORT	（ダイアログ非表示）	MH_ETC_THANKS	（ダイアログ非表示）	MH_ETC_CREDIT	（ダイアログ非表示）	MH_WAITFOR	（ダイアログ非表示）	MH_LOGIN	（ダイアログ非表示）	MH_UNIT_OVER	（ダイアログ非表示）	MH_INFORMATION	（ダイアログ非表示）	MH_HELP_MENU	[d9419a][ヘルプ][-]
+ゲーム中に出てくるさまざまな項目の説明を表示します。	MH_HELP_RULE	[d9419a][ゲームルール][-]
+ゲームルールについての説明です。
+知りたい項目にタッチしてください。
+更に詳しい情報を知りたい場合は、
+「そのほか」＞「攻略情報」をご確認ください。	MH_HELP_UNIT	[d9419a][ユニットについて][-]
+ユニットについての説明です。
+知りたい項目にタッチしてください。
+更に詳しい情報を知りたい場合は、
+「そのほか」＞「攻略情報」をご確認ください。	MH_HELP_OTHER	[d9419a][そのほか][-]
+そのほかの項目についての説明です。
+知りたい項目にタッチしてください。機種移行の方法などアプリに関する詳しい情報を知りたい場合は、「そのほか」＞「サポート」をご確認ください。	MH_TRANS	[d9419a][機種移行][-]
+セーブデータを他の端末に移行できます。
+移行手順の詳細は「そのほか」＞「サポート」からご確認ください。	MH_CREATE_PASS	[d9419a][パスワード発行][-]
+セーブデータを移行する際に使用するユーザーIDの確認とパスワードの発行ができます。
+発行する場合は、「移行元の機種」から「発行」ボタンをタッチしてください。IDとパスワードは「移行先の機種」で使います。忘れずにお控えください。	MH_ENTER_PASS	[d9419a][パスワード入力][-]
+使用していたユーザーIDと「移行元の機種」で発行したパスワードを「移行先の機種」に入力する事によりデータの移行ができます。移行する場合は、ユーザーIDとパスワードを入力し「移行」ボタンをタッチしてください。	MH_ETC_CHANGE_NAME	[d9419a][ニックネーム変更][-]
+ニックネームを変更できます。変更する場合は、入力欄をタッチし好きなニックネームに変更後、「ＯＫ」ボタンで確定してください。	MMA_AP	スタミナ：	MMH_FP	FP：	MMH_RANK	ランク：	MMU_LV	Lv	MML_FRIEND	フレンド	MML_HELPER	助っ人	MML_SORT0	デフォルト	MML_SORT1	入手順	MML_SORT2	体力順	MML_SORT3	攻撃力順	MML_SORT4	回復力順	MML_SORT5	武器順	MML_SORT6	レベル順	MML_SORT7	レア度順	MMA_DAYS	あと{0}日	MMA_HOUR	あと{0}時間	MMA_MINUTES	あと{0}分	MMA_SECOND	あと{0}秒	MMA_BS1	スタミナ半減	MMA_BS2	ゴールド２倍	MMA_BS3	EXP２倍	MMA_BS4	初期ソウル２倍	MMA_BS5	ドロップ率２倍	MMQ_NO_SP	今はプレイできるクエストが
+ありません。	MMQ_KIND_N	ノーマルクエスト	MMQ_KIND_S	イベントクエスト	MMA_RESET_MENU	クエストデータが更新されました!	MMQ_SUBJUGATION	討伐数	RT_DISTANCE	距離	RT_STAMINA	スタミナ	MMQ_MEDAL	ドラ助メダル獲得数	MMQ_NUM_MEDAL	獲得合計:	MMQ_NUM	個	MMQ_CHALLENGE_PRESENT	目標達成プレゼント	MMQ_REQUIRED_MEDAL	個獲得で	MMQ_CHALLENGE_CLEAR	目標達成	MMQ_CHALLENGE_MEDALS	個達成!!	MMQ_CHALLENGE_INFO	「そのほか」→「プレゼント確認」
+から受け取ることが出来ます。	MMQ_CHALLENGE_CLEAR_NUM	現在のチャレンジ目標達成数	MMQ_CHALLENGE_COMPLETE	おめでとう！
+チャレンジ目標を全て達成したよ！	RT_UPDATE	更新	USER_LVUP_AP_UP	スタミナが[d9419a]{0}[-]アップ！！	USER_LVUP_FL_UP	フレンド数上限が[d9419a]{0}[-]アップ！！	USER_LVUP_AP_RECOVER	スタミナが全回復！！	MMU_ADD	追加	MMU_CHANGE_DISPLAY	表示変更	MMU_SORT	ソート	RT_QC_BUTTON	クエスト出発!	DLG_NOST	スタミナが不足しています。
+回復するまで待つか、
+虹色水晶を使うと回復できます。	DLG_QNA	大変申し訳ありませんが
+現在このクエストは
+プレイすることができません。	DLG_LEADER_NOT_CHANGE	このクエストは
+リーダーユニットが解放条件です。
+リーダーユニットの変更はできません。	DLG_STLACK	スタミナの最大値が不足しているため、
+クエストを受託することができません。	QR_GET_REWARD_STONE	[d9419a]虹色水晶 {0}個[-]
+プレゼントとして送ります！	QR_GET_REWARD_GOLD	[d9419a]{0}G[-]
+プレゼントとして送ります！	QR_GET_REWARD_FP	[d9419a]{0}FP[-]
+プレゼントとして送ります！	QR_GET_REWARD_UNIT	[d9419a]{0}[-]
+プレゼントとして送ります！	QR_REWARD	報酬	QR_EXP	獲得EXP　　　:	QR_NETX_EXP	次のランクまであと	QR_MONNEY	獲得金額　　　:	QR_MATERIAL	依代獲得	QR_SOUL_TO_MATERIAL	残りのソウルをよりしろの経験値に変換します	QR_SOUL	ソウル　:	QR_MATERIAL_EXP	よりしろ経験値	QR_GET_UNIT	獲得ユニット	QR_RANK_UP	ランクアップ！！！	QR_CLEAR_BONUS	クリアボーナス	QR_CHALLENGE_CLEAR	チャレンジ目標達成！	QR_GET_MEDAL	ドラ助メダル[59e5c7] 1個[-]獲得！	QR_HELPER	今回の助っ人プレイヤー	QR_FRIEND_MESSAGE	フレンドになるとメリットが増えますよ！
+フレンド申請しますか？	DLG_BUY_STONE	虹色水晶[d9419a]{0}個[-]を￥[29cca9]{1}[-]で購入します。
+よろしいですか？	DLG_BOUGHT_STONE	虹色水晶{0}個を購入しました。	DLG_LIMIT_STONE	購入上限を超えてしまいます。（所持上限数９９９）	DLG_AP_RECOVER	虹色水晶を[d9419a]1つ[-]消費してスタミナを全回復します。
+よろしいですか？	DLG_AP_NO_QUARTZ	虹色水晶を持っていません。
+ショップへ移動します。	DLG_AP_AP_FULL	スタミナは全快しています!
+回復はしませんでした。	DLG_AP_RECOVERD	スタミナが全回復しました!	DLG_UT_CONFIRM	虹色水晶を[d9419a]1つ[-]消費して
+ユニットBOXを[29cca9]{0}つ[-]拡張します。
+よろしいですか？	DLG_UT_NO_QUARTZ	虹色水晶を持っていません。
+ショップへ移動します。	DLG_UT_MAX	ユニットBOXが最大です。
+これ以上は増やせません!	DLG_UT_SUCCESS	ユニットBOXが[29cca9]{0}[-]になりました!	DLG_FR_CONFIRM	虹色水晶を[d9419a]1つ[-]消費して
+フレンド枠を[29cca9]{0}つ[-]拡張します。
+よろしいですか？	DLG_FR_NO_QUARTZ	虹色水晶を持っていません。
+ショップへ移動します。	DLG_FR_MAX	フレンド枠が最大です。
+これ以上増やせません!	DLG_FR_SUCCESS	フレンド枠が[29cca9]{0}[-]になりました!	RT_SELL_UNIT_COUNT	所持ユニット数	RT_SELL_COUNT	売却数	RT_SELL_PRICE	売却金額	RT_SELL_BUTTON	売却	DLG_SELL_CONFIRM	[d9419a]{0}体[-]のユニットを売却します。
+売却して得られる金額は
+[29cca9]{1}[-]です。	DLG_SELL_RECOVER_AP	「[d9419a]スタミナ回復ユニット[-]」の売却によって
+スタミナが[29cca9]{0}[-]回復しました！	RT_status	ステータス	RT_btn_adds	まとめて追加	RT_LVUP_COUNT	選択数	RT_LVUP_PRICE	合成金額	RT_LVUP_TOTAL_EXP	得られる経験値	RT_BASE_UNIT	ベースユニット	RT_MATERIAL_UNIT	素材ユニット	RT_LEVELUP	レベルアップ！	DLG_LVUP_ERR_COST	所持金が足りません!
+[d9419a]{0}[-]ゴールド必要です。	LVUP_TIPS_01	[d9419a][ユニット][-]
+「レベルアップ合成」で
+ユニット同士を合成して強化出来るよ！
+強いユニットでパーティを組もう！	LVUP_TIPS_02	[d9419a][レベルアップ合成][-]
+強化したいユニットにタッチ！	LVUP_TIPS_03	[d9419a][素材ユニットの選択][-]
+「まとめて追加」ボタンをタッチして
+素材にするユニットを選択しよう！	LVUP_TIPS_04	[d9419a][素材ユニット選択][-]
+ユニットにタッチして
+素材にするユニットを選択しよう！
+選択したら「決定」にタッチ！	LVUP_TIPS_05	[d9419a][レベルアップ合成][-]
+素材ユニットが決まったら
+「合成！」ボタンにタッチ！！
+※素材ユニットは消失します。	UNITEVO_POINT	得られる進化pt	RT_MAX_EXP	経験値	UNITEVO_POINT_REQUIRED	必要進化pt	DLG_EVO_ERR_COST	[eaa7e0]所持金不足[-]	DLG_EVO_ERR_LEVEL	[d9419a]レベル[-]が足りません！
+最大レベルで進化可能になります。	DLG_EVO_ERR_ATTRIBUTE	[d9419a]覚醒pt[-]が足りません！
+最大覚醒ptで進化可能になります！
+
+※[d9419a]覚醒pt[-]はクエスト中のエネミーを
+撃破する事で溜まっていきます！	DLG_EVO_ERR_POINT	[eaa7e0]進化pt不足[-]	DLG_EVO_OK	合成!	EVO_TIPS_01	[d9419a][進化合成][-]
+レベルが最大になったユニットは
+進化合成で進化できるかも！？
+レベルアップ＆進化を目指そう！	SPCOMP_TIPS_01	[d9419a][デラックス合成][-]
+「デラックス合成」では
+特殊なよりしろを合成することで
+ユニットのパラメータが上昇するよ！	SPCOMP_TIPS_02	[d9419a][デラックス合成][-]
+「デラックス合成用」のよりしろを
+素材として選ぼう！
+種類によって効果が違うよ！	SPCOMP_TIPS_03	[d9419a][デラックス合成][-]
+素材ユニットが決まったら
+「合成！」ボタンにタッチ！！
+※素材ユニットは消失します。	SPCOMP_BONUS_LIFE	HP	SPCOMP_BONUS_ATTACK	攻撃力	SPCOMP_BONUS_HEAL	回復力	SPCOMP_BONUS_LIMIT	合成上限	RT_ActiveSkill	アクティブスキル	RT_PartySkill	パーティスキル	RT_atk	攻撃力	RT_expamount	経験値	RT_heal	回復	RT_hp	HP	RT_maxLv	最大Lv	RT_nextLv	あと	RT_Story	ストーリー	RT_Shurendo	覚醒pt	RT_Evolution	進化pt	RT_PowerUpLimit	強化限界	UT_ZUKAN	図鑑No.	UT_SKILL	スキル：	UT_LSKILL	リーダースキル：	UT_LEADER	Leader	UT_NEW	New!	UT_SELL	売却!	UT_SELECT	選択中	UT_NO	No.	UT_LV	LV.	UT_STATUS	ステータス	UT_ACTIVE_SKILL	アクティブスキル	UT_PARTY_SKILL	パーティースキル	UT_CHALLENGE	チャレンジ目標	UT_PANEL_SKILL	パネルスキル	DIALOG_SELECT	選択	DIALOG_UNIT_DETAIL	詳細表示	DIALOG_FAVO_SIGNUP	お気に入りに登録	DIALOG_FAVO_REMOVE	お気に入りを解除	DIALOG_CHANGE	変更	RT_PanelSkill	パネルスキル	RT_gachaInfo	[d9419a]ガチャのお知らせ[-]	RT_gachaInfotext	ガチャをプレイしてユニットをゲット！
+
+レアガチャで超レアなユニットをゲットしよう！
+「そのほか」→「お知らせ」で
+レアガチャの内容をチェックできるよ！	GACHA_FRIEND_POINT	100フレンドポイントで1プレイ！	GACHA_FRIEND_POINT_10	1000フレンドポイントで1プレイ！	GACHA_CRYSTAL_POINT	虹色水晶5個で1プレイ！	GACHA_PLAY	プレイ！	GC1_DESC1	ノーマルガチャ	GC1_DESC2	クエストをクリアして貯まった
+FP（フレンドポイント）で
+ガチャをプレイ!
+1回[d9419a]{0}[-]FP / 現在[29cca9]{1}[-]FP	GC1_DESC3	あと[29cca9]{0}回[-]プレイできます。	GC1_ERR	ノーマルガチャをプレイするためには
+FP（フレンドポイント）が
+[d9419a]{0}[-]必要です。
+あなたはいま、
+[29cca9]{1}[-]FP持っています。	GC2_DESC1	レアガチャ	GC2_DESC2	虹色水晶を使ってガチャをプレイ!
+1回[d9419a]{0}個[-] / 持っている虹色水晶[29cca9]{1}個[-]	GC2_DESC3	あと[29cca9]{0}回[-]プレイできます。	GC2_ERR	レアガチャをプレイするための
+虹色水晶が足りません。
+[d9419a]{0}個[-]必要です!	GC3_DESC1	ノーマルガチャ×10	GC3_DESC2	クエストをクリアして貯まった
+FP（フレンドポイント）で
+ガチャをプレイ！
+1回[d9419a]{0}[-]FP / 現在[29cca9]{1}[-]FP	GC3_DESC3	あと[29cca9]{0}回[-]プレイできます。	GC3_ERR	ノーマルガチャ×10をプレイするためにはFP（フレンドポイント）が
+[d9419a]{0}[-]必要です。
+現在[29cca9]{1}[-]FP持っています。	GC3_HIT	当たりゲット！！
+１度だけFP無しで、
+ノーマルガチャ×10がプレイ可能！	GC3_OMAKE	おまけとしてユニットをプレゼント!
+
+「そのほか」→「プレゼント確認」
+から受け取ることが出来ます。	GC3_MENU_BUTTON	ノーマルガチャ×10	DLG_FR_NONE	フレンドが登録されていません。
+クエストをプレイして
+フレンドを増やそう！	DLG_PRESENT	[29cca9]{0}[-]さんに
+{1}をおくります。	DLG_FR_REJECT	[d9419a]{0}[-]さんを
+フレンドから外します。	FRD_MIN	分前	FRD_HOUR	時間前	FRD_DAYS	日前	FRD_LAST_LOGIN	最終ログイン	FRD_RELEASE_FRIEND	フレンド解除	FRD_NUM_FRIEND	登録フレンド数	RT_RANK	ランク	RT_PRESENT	プレゼント	DLG_FF_NOF	フレンドが見つかりません。
+別のコードでお試しください。	DLG_FF_FULL	フレンド申請の上限に達しているため
+これ以上の申請は出来ません。	DLG_FF_DONE	フレンド申請を行ないました。	DLG_FF_ALREADY	{0}さんはすでに
+フレンド登録済みです。	FRD_MESSAGE_1	友達のIDを入力してフレンド登録しよう！	FRD_MESSAGE_2	『ロード・トゥ・ドラゴン』をみんなで遊ぼう！	FRD_MESSAGE_3	Twitterやfacebookでの呼びかけはこちら！	FRD_MESSAGE_3_NOFB	Twitterでの呼びかけはこちら！	FRD_REVIEW_1	レビューページはこちら！	FRD_REVIEW_2	レビューする	FRD_REVIEW_3	虹色水晶をゲット！	FRD_SEARCH_RESULT	検索結果	FRD_FOUND_USER	お探しのユーザー様が見つかりました。	DLG_NO_POST	いまはフレンドへのお誘いが
+届いていないようです。	DLG_POST_CONFIRM	[29cca9]{0}[-]さんを
+フレンドに登録します。	DLG_POST_REJECT	[d9419a]{0}[-]さんからの
+お誘いを断ります。	DLG_POST_BATCH	フレンドへのお誘いを
+フレンド枠の上限まで承認します。	DLG_POST_FULL1	フレンド数が上限に達しているため
+承認することが出来ませんでした。	DLG_POST_FULL2	相手のフレンド数が上限に達した
+ため、承認することが出来ません
+でした。	DLG_POST_ERR	エラーが発生したため
+承認することが出来ませんでした。	DLG_POST_PASS	フレンド数が上限に達している
+方は承認できませんでした。	DLG_POST_REJECT_ALL	全てのお誘いを断ります。	FRD_CONSENT_ALL	一括承諾	FRD_FRIEND_CONSENT	フレンド承諾	FRD_FRIEND_REFUSAL	フレンド拒否	DLG_NO_APPLY	フレンド申請を
+していません。	DLG_APPLY_CONFIRM	[d9419a]{0}[-]さんへの
+フレンド申請を取り下げます。	DLG_APPLY_BATCH	すべてのフレンド申請を
+取り下げます。	FRD_APPLY_CANCEL_ALL	一括申請取消	FRD_APPLY_CANCEL	申請とりけし	DLG_FRIEND_MAX	フレンド申請エラー
+
+既にフレンド登録の上限に達しているため、
+これ以上の申請ができません。
+
+[d9419a]虹色水晶を１個使って[-]、フレンド枠を５つ
+拡張することができます。
+
+フレンド枠を拡張しますか？
+[29cca9]現在：{0} ⇒ 拡張後：{1}[-]
+	DLG_FRIEND_LIMIT	フレンド申請エラー
+
+これ以上フレンド登録ができない状態です。
+
+大変申し訳ありませんが、拡張の上
+限にも達しているため、今回の助っ
+人プレイヤーへの申請はできません。
+
+	DLG_FRIEND_TITLE	フレンド申請完了	DLG_FRIEND_POST	{0}さんにフレンド
+申請を送りました。	DLG_FRIEND_POINT	[d9419a]{0}[-]FPゲット!
+（{1}/{2}）	DLG_ALREADY_POINT	FPは増えませんでした。
+同じ助っ人からFPがもらえるのは１日に１回です。	DLG_REV_FRIEND	すでに{0}さんからの
+フレンド申請が届いています。	DLG_FRIEND	{0}さんを
+フレンドに登録しました。	PRESENT_RECEIVING	受信日:	PRESENT_LIMIT	開封期限:	DLG_NO_PRESENT	プレゼントは
+届いていないようです。	DLG_PRESENT_UN1	運営スタッフから
+プレゼントが届きました。
+[d9419a]{0}[-]G	DLG_PRESENT_UN2	運営スタッフから
+プレゼントが届きました。
+虹色水晶 [d9419a]{0}[-]個	DLG_PRESENT_UN3	運営スタッフから
+プレゼントが届きました。
+[d9419a]{0}[-]FP	DLG_PRESENT_UN4	運営スタッフから
+プレゼントが届きました。
+ユニット：[d9419a]{0}[-]	DLG_PRESENT_UNIT	フレンドの{0}さんから
+プレゼントが届きました。
+ユニット：[d9419a]{1}[-]	DLG_PRESENT_GOLD_NG	所持ゴールドの上限を超えてしまうためプレゼントを開封できません。	DLG_PRESENT_STONE_NG	虹色水晶の所持数上限を超えてしまうためプレゼントを開封できません。	DLG_PRESENT_FP_NG	フレンドポイントの上限を超えてしまうためプレゼントを開封できません。	DLG_PRESENT_UNIT_NG	所持ユニット数の上限を超えてしまうためプレゼントを開封できません。	DLG_PRESENT_BATCH	届いているプレゼントをまとめて受け取ります。	DLG_PRESENT_BATCH_NG	所持数の上限を超えたため、いくつかのプレゼントは受け取れませんでした。	DLG_PRESENT_DONE	受け取り済みです。	BTN_RECV	受け取る	CHALLENGE_PRESENT_1	「{0}」を
+プレゼント！	CHALLENGE_PRESENT_2	「{0}」を
+GET！	CHALLENGE_PRESENT_COIN	「[d9419a]{0}[-]G」を
+プレゼント！	CHALLENGE_PRESENT_FP	「[d9419a]{0}[-]FP」を
+プレゼント！	CHALLENGE_PRESENT_STONE	「虹色水晶 [d9419a]{0}[-]個」を
+プレゼント！	MODELSHIFT_YOUR_ID	あなたのユーザーID	MODELSHIFT_YOUR_PW	あなたのパスワード	MODELSHIFT_ISSUE	発行	MODELSHIFT_SHIFT_ID	移行するユーザーID	MODELSHIHT_SHIFT	移行	RENAME_INFO	■名前入力の注意事項■
+
+全ての文章を表示出来ない場合があります。
+また、公序良俗に反した表現や、
+個人情報の記載などは行わないようにお願いします。	INFORMATION_TITLE	運営からのお知らせ	ENCY_UNIT_TYPES	獲得ユニット種類	OPTION_BGM	BGM	OPTION_SE	SE	OPTION_GUIDE	ガイド	DUMMY_HELPER0	むさしのゴンザレス	DUMMY_HELPER1	くまさむらい	DUMMY_HELPER2	Takuma.Endo	SKILL_1	パーティーのたいりょくを\n500かいふくする。\n\nしょうひソウル３	SKILL_LEVEL	習得レベル	SKILL_SOUL	消費ソウル	RETIRE	クエストを諦めますか？	CONTINUE	虹色水晶が足りません。\n購入しますか？	CAVEQUEST_NAME_NOCLEAR	「？？？？？」	CAVEQUEST_NAME_CLEARED	「{0}」	CAVEQUEST_DIFFICULTY	★	CAVEQUEST_FIND_STAIRS	階段発見！	CAVEQUEST_DIFFICULTY1	難易度：	CAVEQUEST_NEXT_FLOOR	次の階へ進みますか？	CAVEQUEST_MESSAGE1	※取得した魔導書は
+クリア後に全て獲得出来ます。	QUICK_UI	敵ターン遅延	DRAGONKILL_UI	竜殺し	DEATHKILL_UI	死神殺し	UNITENEMYKILL_UI	ユニットエネミー殺し	DEFENCE_UI	鉄壁の防御！	CRITICAL_UI	全力の一撃！	COUNTER_UI	反撃！	CHASEATTACK_UI	追撃！	TWOSWORD_UI	双撃！	GRAVITY_ATK_UI	遅延発生	FIRE_KILL_UI	火属性殺し	WATER_KILL_UI	水属性殺し	DARK_KILL_UI	闇属性殺し	LIGHT_KILL_UI	光属性殺し	NONE_KILL_UI	無属性殺し	SOUL_HUNT_UI	ソウル奪取	MOVING_PANEL_UI	強制移動発生！	QUICK_BRAST_UI	速攻！	SERIAL_KILLER_UI	パーティー攻撃力上昇	DELAY_ATTACK	一斉攻撃！	ATTRIBUTE_SOUL	ソウル獲得	CHASE_SUPPORT	追撃ダメージ上昇！	SERIAL_LIFE_UI	最大ライフ上昇	HEART_CALL_S	{0}発動	HEART_CALL_E	{0}解除	TIME_STOP_UI	時間停止	TIME_START_UI	時間再生	SKILL_ZERO_UI	スキルゼロ	RECOVER_UI	リカバリー	SLOT_ZERO1_UI	抽選開始	SLOT_ZERO2_UI	一斉攻撃！	SLOT_ZERO3_UI	11141738183	SLOT_ZERO4_UI	限定解除ヲ承認	LIFE_GUARD_UI	デッド・ガード	GUARDIAN_UI	ガーディアン・ヒール	DRAGON_INJ1_UI	エネミー竜化	DRAGON_INJ2_UI	これが貴様の罪の対価だ	RESURRECTION1_UI	蘇生	RESURRECTION2_UI	輪廻解放	GODBURST1_UI	神の裁きを受けよ！！	GOD_REFLECT_UI	攻撃反射	DRAGON_SLAYER_UI	ドラゴン・スレイヤー	SKILL_ABSORB_UI	スキル・アブソーブ	PANEL_HEALER_UI	パネル・ヒーラー	DELAY_HEAL	ホーリースコール	TWO_PLATOONS_UI	ツープラトンアタック	ELEMENT_FORCE_UI	エレメントフォース	TREASURE_HUNT_UI	トレジャー・ハント	DAMAGE_DRAIN_UI	ドレインフィールド　発動	SERIAL_HEAL_UI	回復量上昇	MOVE_ENHANCE_UI	パワー・ステップ	ATTRIBUTE_CHANGE_S	属性変更　発動	ATTRIBUTE_CHANGE_E	属性変更　解除	POWER_OF_LOVE_S	パワー・オブ・ラブ　発動	POWER_OF_LOVE_E	パワー・オブ・ラブ　解除	TURN_ENHANCE_S	ボルテージ発動	TURN_ENHANCE_E	ボルテージ解除	DAMAGE_ENHANCE_S	逆境　攻撃力上昇	DAMAGE_ENHANCE_E	逆境　解除	ATTACK_ENHANCE_S	バーサーク･フィールド	ATTACK_ENHANCE_E	バーサーク・フィールド解除	SOUL_ZERO1_UI	ソウル・オブ・ゼロ 発動	SOUL_ZERO2_UI	ソウル・オブ・ゼロ 解放	SP_EXEC	[71f9e7]パネルスキル発動！[-]	SP_DEFENCE_DOWN	[71f9e7]エネミー防御力低下[-]	SP_LIFE_RECOVER	[71f9e7]ライフ回復[-]	SP_SOUL_GET	[71f9e7]ソウル獲得[-]	SP_GRAVITY	[71f9e7]敵ターン遅延[-]	SP_ATTACK_UP	[71f9e7]パーティー攻撃力上昇[-]	SP_SHUFFLE	[71f9e7]シャッフル[-]	SP_ATTRIBUTE_UP	[71f9e7]属性補正上昇[-]	SP_DAMAGE	[71f9e7]エネミーダメージ[-]	SP_CURSE	[71f9e7]エネミーカーズ[-]	SP_ARCANE	[71f9e7]ダメージ吸収[-]	SP_LIMIT_ENHANCE_S	[71f9e7]限界突破　発動[-]	SP_LIMIT_ENHANCE_E	[71f9e7]限界突破　解除[-]	SP_LIMIT_SUPERATTACK_S	[71f9e7]全身全霊　発動[-]	SP_LIMIT_SUPERATTACK_E	[71f9e7]全身全霊　解除[-]	SP_BATTLE_EVASION	[71f9e7]戦闘回避[-]	SP_LIMIT_LIFERECOVER_FIX_S	[71f9e7]回復の雫　発動[-]	SP_LIMIT_LIFERECOVER_FIX_E	[71f9e7]回復の雫　解除[-]	SP_LIFE_UP	[71f9e7]最大ライフ上昇[-]	BM_TURN	ターン	BM_QUEST_INFO	クエスト情報	BM_OPTION	オプション	BM_RETIRE	クエストリタイア	BM_QUEST_NAME	クエスト名	BM_BOSS_DISTANCE	ボスまでの残りマス数	BM_CHALLENGE_CONDITION	チャレンジ目標達成条件	BM_DISTANCE	あと　      マス	BM_SKILL_SOUL	消費ソウル　　　　soul
+
+使用しますか？	BM_DESTRUCTION_BOOK	魔道書がいっぱいです！！
+捨てる魔道書を選択してください。	BM_HAVE_BOOK	いまもっている魔道書	BM_CONTINUE_MESSAGE	虹色水晶を1個消費して、
+コンティニューしますか？
+
+虹色水晶を、　　個所持しています。	TUTORIAL_1	プレイヤは道を作って先に進みます。\n下の8枚のパネルを押すと道が出来ます。\n実際にやってみましょう。	TUTORIAL_2	test	TUTORIAL_3	下のパネルを連結させて攻撃しよう!	TUTORIAL_4	なかなか筋が良いですね。	TUTORIAL_5	強敵です！\n同じパネルを繋げると与えるダメージが増加しますよ！	TUTORIAL_6	ユニットを手に入れましたね。	MOVE_EVENT1	さぁ、いよいよ冒険の始まりだよ！
+道を作って戦士を導いてあげてね。
+
+さっそく下の8枚のパネルの中の
+光ってるパネルにタッチしてみよう！	MOVE_EVENT2	そうそう、その調子！
+道が出来て戦士が前に進む事が出来たよ。
+
+それじゃまた光ってるパネルにタッチして
+もっと戦士を前進させてあげよう！	ENEMY_EVENT	むむむ、悪いモンスターだ！
+
+モンスターと戦士が接触すると
+バトルが始まるよ！
+さっそく行ってみよう！	BATTLE_START_EVENT1	モンスターとのバトルだよ！
+戦士に攻撃の指示を出すんだ！
+
+下の光っている剣のマークの
+パネルにタッチしてみて！	BATTLE_START_EVENT2	わっ！倒したと思ったらまたモンスターだ！
+さっきのやつより強いかもしれない！
+
+今度は、下の光っている弓のマークの
+パネルを指でつないでみて！	BATTLE_WIN_EVENT	スゴイ！圧勝だ！
+モンスターをやっつけたよ！
+
+こんな風に、武器のマークに応じて
+攻撃する戦士が変わるんだね！	BATTLE_START_EVENT3	よし！今度は一気に
+4枚のパネルを指でつないでみよう！
+
+下の光っている杖のマークの
+パネルを4枚つないで魔法攻撃だ！	UNIT_GET_EVENT	あ、魔導書を手に入れたんだね！
+
+ステージをクリアすると、
+魔導書から戦士を召喚出来るよ。
+クリア後が楽しみだね！	MOVE_FREE_EVENT	よし！
+すこし安全な場所にきたみたいだ！
+
+下の8枚のパネルの中の
+好きなものにタッチして、先に進もう！	BOSS_SERACH	この気配！
+いよいよドラゴンに
+近づいてきたみたいだ！！
+
+気をつけてね！	BOSS_PANEL_ADVICE	わー！ドラゴンがあらわれたよ！
+
+強敵だけど、今のキミなら大丈夫！
+一気に全てのパネルをつなげて
+攻撃するんだ！	SOUL_LECTURE_1	あっ！そういえば大事な事を
+言い忘れてた！
+
+「Soul」っていう所を見ながら
+パネルをタッチして進んでみてね！	SOUL_LECTURE_2	数字が少なくなったね！
+
+見のがしちゃったかもしれないから
+もう一回見てみよう！
+左にある「Soul」っていうところだよ！	SOUL_LECTURE_3	わー、ま、まずい！
+
+これはキミの「ソウル」の量なんだ！
+0になると大変なんだけど
+少なくなってきちゃった！	ENEMY_ENCOUNT_1	ぬぬぬ、こんな時に悪いモンスターが！
+
+ソウルはバトルでも減っちゃうんだ！
+ソウルの数字を見ながら
+光ってる2枚のパネルをつなげて攻撃してみて！	BATTLE_END_EVENT_1	バトルには勝てたけど……。
+
+ソウルがもう残ってないから
+なんとかしないとなぁ……。
+とにかく先に進んでみよっか。	ENEMY_SERCH_1	あ、またモンスターだ！
+やっつければソウルが貰えるかも！
+
+よーし！やっつけてみよう！	ENEMY_ENCOUNT_2	ばばーん！じつはとっておきの方法があるよ！
+
+同じ武器マークをつなげて攻撃すると
+ソウルが減らないんだ！
+光ってるパネルをつなげて攻撃してみて！	BATTLE_END_EVENT_2	やったー！ソウルが回復したよ！
+
+こんなふうにバトルでは同じ武器マークを
+つなげることが大事なんだ！
+モンスターをやっつければソウルは回復するよ！	MOVE_POWERUP_1	あ、あとね
+目の前にある色のついた地面だけど
+これをふむとすごくイイことがあるんだ！
+
+光ってるパネルにタッチして進んでみて！	MOVE_POWERUP_2	よーしっ！
+
+じつは、色のついた地面を通った分
+このクエスト中は戦士たちが強くなるんだ！
+見つけたらどんどんふんでいこう！	BOSS_BATTLE	わー！へんなドラゴンがでてきた！
+
+でも大丈夫！さっきやったみたいに
+パネルをつなげればソウルを減らさずに
+やっつけられるからね！	TIPS_01	[d9419a][TIPS][-]
+「レベルアップ合成」で
+ユニットを強くすることが出来るよ！
+みんなを育てて強敵に挑もう！	TIPS_02	[d9419a][TIPS][-]
+白いユニット「よりしろ」は
+クエストクリア後に必ず貰えるよ！
+レベルアップ合成の素材にしよう！	TIPS_03	[d9419a][TIPS][-]
+残ったソウルは
+「よりしろ」の経験値になるよ！
+ソウルを貯めてクリアしよう！	TIPS_04	[d9419a][TIPS][-]
+レベルが最大になったユニットは
+進化出来るかも！？
+「進化合成」で確認してみよう！	TIPS_05	[d9419a][TIPS][-]
+なるべく多くの敵を倒して
+たくさんのユニットをゲットしよう！	LOGINBONUS_1_1	{0}ゴールド、プレゼント！
+[その他]→[プレゼント確認]で受け取れます。	LOGINBONUS_1_2	フレンドポイントを{0}ポイント、プレゼント！
+[その他]→[プレゼント確認]で受け取れます。	LOGINBONUS_1_3	虹色水晶を{0}個、プレゼント！
+[その他]→[プレゼント確認]で受け取れます。	LOGINBONUS_1_4	「{0}」をプレゼント！
+[その他]→[プレゼント確認]で受け取れます。	LOGINBONUS_2_1	連続ログイン{0}回目！
+
+パーティメンバーのライフがアップ！	LOGINBONUS_2_2	連続ログイン{0}回目！
+
+パーティメンバーの攻撃力がアップ！	LOGINBONUS_2_3	連続ログイン{0}回目！
+
+パーティメンバーの回復力がアップ！	LOGINBONUS_2_4	連続ログイン{0}回目！
+
+進化合成時、進化ポイントボーナス！	LOGINBONUS_2_5	連続ログイン{0}回目！
+
+クエスト開始時のソウル値がアップ！	LOGINBONUS_2_6	連続ログイン{0}回目！
+
+クエスト中のクリティカル率がアップ！	LOGINBONUS_2_7	連続ログイン{0}回目！
+
+クエスト中の魔導書獲得確率がアップ！	LOGINBONUS_2_8	連続ログイン{0}回目！
+
+クエストクリア時の獲得ゴールドがアップ！	LOGINBONUS_2_9	連続ログイン{0}回目！
+
+クエストクリア時の獲得経験値がアップ！	LOGINBONUS_2_10	連続ログイン{0}回目！
+
+クエストクリア時の獲得FPがアップ！	LOGINFRIEND_POINT_00	{0}人の助っ人として活躍しました！
+
+フレンドポイントを「[d9419a]{1}[-]」獲得！！
+ノーマルガチャをあと[29cca9]{2}回[-]プレイ可能	LOGINNONUS_MONTHLY_1	月間ログインボーナス	LOGINNONUS_MONTHLY_2	月間ログインボーナス　　 回目！	UNITOVER_WIDEN	拡張	UNITOVER_MIX	合成	UNITOVER_SALE	売却	UNITOVER_DETAIL	ユニットBOXがいっぱいです。
+
+[d9419a]{0}[-]人オーバーしています。
+
+クエストをプレイする前に
+ユニットBOXを拡張するか合成、売却をして
+ユニットBOXを空けてください。	UNITOVER_LIMIT	ユニットBOXがいっぱいです。
+
+新しいユニットを追加するには
+ユニットBOXを拡張するか合成、売却をして
+ユニットBOXを空けてください。	TWITTER_MESSAGE	私と一緒に『ロード・トゥ・ドラゴン』をプレイしよう！私のIDは{0}です！	FACEBOOK_MESSAGE	私と一緒に『ロード・トゥ・ドラゴン』をプレイしよう！私のIDは{0}です！	MSG_POST_SUCCESS	メッセージを投稿しました！	MSG_POST_FAILED	メッセージの投稿に失敗しました。	BATTLE_RETURN	クエスト中断データがあります。\nクエスト途中から再開しますか？	HELP_MSG_PANEL_USE	パネルにタッチすると戦士たちは先に進むよ！戦士たちを先に進めて悪いモンスターを倒し、ボスであるドラゴンを目指そう！	HELP_MSG_BATTLE	モンスターのいる場所を通るとバトルが始まるよ。パネルをつなげて撃破しよう！モンスターを倒すとソウルを回復できるよ！	HELP_MSG_SOUL	ソウルはパネルにタッチして道を進んだり、バトル中に違う種類のパネルをつなげると減っていくよ！ソウルが０にならないよう気をつけよう！	HELP_MSG_PANEL_TIES	バトルでは同じ種類のパネルをたくさんつなげるほど強力な攻撃ができるよ！違う種類のパネルをつなげるとソウルが減るから注意してね！	HELP_MSG_CRITICAL	同じ種類のパネルを4枚以上つなげるとクリティカルのチャンス！なるべくたくさんのパネルをつなげて大ダメージを狙おう。	HELP_MSG_ELEMENT	モンスターには属性と弱点があるよ！火と水、光と闇は互いに弱点同士なんだ！	HELP_MSG_COLOR	色のついている地面では、その色に対応した属性のユニットを強化できるよ！上手く利用してボスとの戦いに備えよう！	HELP_MSG_TREASURE	フィールド上のたからばこをとると、ソウルやゴールドが手に入るよ！ときにはユニットが手に入ることも！？	HELP_MSG_CHALLENGE	各クエストに設定されている達成目標のことだよ！条件を満たしてクリアすると、ドラ助メダルがもらえるんだ！チャレンジ内容はクエストに出発する最終確認画面でチェックしてね！	HELP_MSG_CHALLENGE_MEDAL	チャレンジ目標をクリアすると手に入るメダルだよ！たくさん集めてエリア目標を達成しよう！	HELP_MSG_CHALLENGE_AREA	各エリアごとに設定されている、ドラ助メダルの目標個数のことだよ！目標を達成すると特別な報酬がもらえるんだ！！エリア目標はクエストセレクト画面でチェックしてね！	HELP_MSG_UNIT_BASE	ドラゴン討伐へ向かう4人の戦士のことだよ。モンスターを倒すと、ときどき新しいユニットをゲットできるんだ！	HELP_MSG_UNIT_EDIT	冒険に連れていくユニットを選んでチームを作ろう！チームによって戦略が変わるから、よく考えて選んでみよう！	HELP_MSG_UNION	手に入れたユニットを合成してレベルアップしよう。レベルが上がるとステータスが上昇するよ！	HELP_MSG_UNION_DX	デラックス合成をするとユニットのステータスが上昇するよ！合成できる回数は限られているから、ユニットのどこを強くするかよく考えて合成しよう！	HELP_MSG_UNION_GREAT	ベースユニットと同じ属性の素材ユニットを合成すると、合成が「大成功」することがあるよ！同じ属性がたくさんいると「大成功」の確率もアップ！	HELP_MSG_UNION_GOT	ベースユニットと同じ属性の素材ユニットを4体以上合成すると、合成が「超成功」することがあるよ！	HELP_MSG_EVO	ユニットのレベルを最大まで上げると進化合成ができるよ！進化ポイントを集めてユニットをさらに強く進化させよう！	HELP_MSG_EVO_01	素材ユニットはレベルを上げれば上げるほど、進化ポイントが上がっていくよ！レベルを上げて進化合成の素材にしよう！	HELP_MSG_ULT_EVO_00	この世界には「覚醒進化」ができるユニットが存在するんだ！モンスターを倒すと貰える「覚醒ポイント」を最大にする事で覚醒進化ができるようになるよ！	HELP_MSG_SHIRO	クリア後、残ったソウルは「よりしろ」というユニットに蓄えられるよ！レベルアップ合成に使って他のユニットを強化しよう！	HELP_MSG_FAVERITE	ユニット一覧でユニットにタッチするとお気に入り登録出来るよ！合成素材、売却の対象として選べないようにできるから、大切なユニットは登録しておこう！	HELP_MSG_FRIEND	ロード・トゥ・ドラゴンを遊んでいる他のプレイヤーと「フレンド」になろう！クエストにはフレンドのユニットを1人連れていけるんだ！	HELP_MSG_FRIEND_POINT	フレンドのユニットと冒険すると、フレンドポイントがもらえるよ！フレンドポイントはノーマルガチャで使えるよ！	HELP_MSG_FRIEND_POST	君とフレンドになりたい人から、フレンドのお誘いがくるよ！承認するとフレンドが増えてフレンドポイントが貯まりやすくなるよ！	HELP_MSG_FRIEND_INVITE	フレンド申請中のユーザーのチェックと申請のとりけしができるよ。	HELP_MSG_FRIEND_SERCH	IDを教え合って、特定のプレイヤーとフレンドになることができるよ。友達と協力してクリアを目指そう！	HELP_MSG_EVENT	期間限定のステージに挑戦できるよ！ここでしか手に入らないユニットもあるから、こまめにチェックしてみよう！	HELP_MSG_SP_AREA	特別なクエストがあつまるエリアだよ！一定以上のランクになったり、特定のクエストをクリアしていたりすることで挑戦出来るようになるんだ！	HELP_MSG_DELETE	アプリを削除すると、ゲーム内の一部のデータが消えてしまうよ！気をつけて！	HELP_MSG_DATA_TRANS	別の機種へデータを移したい時は、移行元の機種で発行したパスワードとユーザーIDを移行先の機種で入力しよう！\n詳細はサポートサイトで確認してね！	HELP_MSG_SP_PANEL	パネルスキルを持つユニットがパーティにいると、光をまとったスペシャルパネルが補給されることがあるんだ！スペシャルパネルにタッチすればパネルスキルの効果が発動するよ！	HELP_MENU_RULE	ゲームルール	HELP_MENU_UNIT	ユニットについて	HELP_MENU_OTHER	そのほか	HELP_BTN_PANEL_USE	パネルの使い方	HELP_BTN_BATTLE	バトル	HELP_BTN_SOUL	ソウル	HELP_BTN_PANEL_TIES	パネルをつなぐ	HELP_BTN_CRITICAL	クリティカル	HELP_BTN_ELEMENT	属性相性	HELP_BTN_COLOR	色のついた地面	HELP_BTN_TREASURE	たからばこ	HELP_BTN_CHALLENGE	チャレンジ目標	HELP_BTN_CHALLENGE_MEDAL	ドラ助メダルとは	HELP_BTN_CHALLENGE_AREA	エリア目標	HELP_BTN_UNIT_BASE	ユニット	HELP_BTN_UNIT_EDIT	ユニット編成	HELP_BTN_UNION	レベルアップ合成	HELP_BTN_UNION_DX	デラックス合成	HELP_BTN_UNION_GREAT	合成ボーナス１	HELP_BTN_UNION_GOT	合成ボーナス２	HELP_BTN_EVO	進化合成１	HELP_BTN_EVO_01	進化合成２	HELP_BTN_ULT_EVO_00	覚醒進化	HELP_BTN_SHIRO	よりしろ	HELP_BTN_FAVERITE	お気に入り	HELP_BTN_FRIEND	フレンドとは	HELP_BTN_FRIEND_POINT	フレンドポイント	HELP_BTN_FRIEND_POST	フレンド通知	HELP_BTN_FRIEND_INVITE	フレンド申請	HELP_BTN_FRIEND_SERCH	フレンド検索	HELP_BTN_EVENT	イベントエリア	HELP_BTN_SP_AREA	SPエリア	HELP_BTN_DELETE	アプリ削除	HELP_BTN_DATA_TRANS	機種移行	HELP_BTN_SP_PANEL	スペシャルパネル	REVIEW_BEFORE	レビューを書いて
+[d9419a]虹色水晶：1個[-]をゲット！
+※初回レビューのみとなります。	REVIEW_AFTER	レビューありがとうございます！
+[d9419a]虹色水晶：1個[-]をプレゼント！！
+※プレゼント確認で受け取れます。	INDUCTION_FIRST	「ブレイブリーデフォルト
+フォーザ・シークウェル」の
+公式サイトを見て[d9419a]虹色水晶[-]をGET！！
+※初回閲覧時のみとなります。	INDUCTION_AFTER	「ブレイブリーデフォルト
+フォーザ・シークウェル」公式サイトの
+ご閲覧ありがとうございます！
+[d9419a]虹色水晶：1個[-]をプレゼント！！
+※プレゼント確認で受け取れます。	INDUCTION_SECOND	「ブレイブリーデフォルト
+フォーザ・シークウェル」の
+公式サイトを閲覧しますか？	TITLE_UUID_DELETE	古い環境のプレイデータが端末に残っています。プレイデータを削除し、新規データを作成します。	TITLE_NO_SD_CARD	「ご注意」
+お使いの端末ではSDカードを確認できません。
+アプリを消去した際にセーブデータも
+合わせてきえてしまいますのでご注意ください。	TITLE_USERID_LABEL	ユーザーID : {0}	ETC_MOVE_PASS_FAILD	ユーザーIDか
+パスワードに誤りがあります。	ETC_MOVE_PASS_SUCCESS	データ移行に成功しました。
+タイトルに戻ります。	ETC_REQ_PASS_SUCCESS	パスワードが発行されました。	ETC_REQ_PASS_FAILD	パスワードは発行されませんでした。	ETC_MOVE_DATA_ALREADY	データ移行を行いましたので、
+新規ユーザーの作成をします。	ETC_MOVE_DATA_ERR	{0}から{1}への
+データ移行はできません。	ETC_MOVE_DATA_ALERT	セーブデータ移行に使用するIDとパスワードは必ず控えを取っておいてください。	DLG_GET_LAST_DATA	最新データを取得します。
+よろしいですか？	DLG_END_LAST_DATA	最新データに更新しました。	SP_EVENT_LOCK_01	[d9419a]「{0}体」[-]の亡霊撃破で
+クエストがプレイ可能になります。	SP_EVENT_LOCK_02	現在：[29cca9]{0}体[-]撃破！！	SP_EVENT_LOCK_03	※塔の中の魔導書から出現する
+「亡霊」を撃破して扉を開けよう！	SP_EVENT_UNLOCK	「{0}」体の亡霊撃破達成！
+クエストがプレイ可能となりました！	SP_EVENT_LOCK_NAME	？？？？	SP_EVENT_LOCK_NUM	？？	HELPER_RELOADING	助っ人更新中	DLG_DINOSAUR_INST_QUEST	このクエストは
+[d9419a]６ユニット[-]のパーティで挑む
+特別なクエストです。	DLG_DINOSAUR_INST_PARTY	あと{0}体選んでください	DLG_DINOSAUR_INST_CONFIRM	２ユニットをパーティに追加します。
+
+ユニットがセットされていない
+[d9419a]空き枠部分(emptyマーク)[-]にタッチし
+ユニットを選択してください。	DLG_ERR_UNDER_UNIT	このクエストは
+[d9419a]５ユニット[-]を所持していない状態では
+プレイすることができません。	DLG_ERR_UNDER_SELECT	全てのユニットが設定されていません。
+ユニットがセットされていない
+[d9419a]空き枠部分(emptyマーク)[-]にタッチし
+ユニットを選択してください。	DLG_AWAKE_TITLE	覚醒pt	DLG_AWAKE_NOW	現在の覚醒pt
+	DLG_AWAKE_COMPLITE	覚醒ptMAX！覚醒進化可能！	DLG_AWAKE_INFO	※覚醒ptがMAXになると
+「覚醒進化」が可能になります。
+覚醒ptはエネミーを撃破する事で溜まります。	DLG_AWAKE_SELECT	進化先を選択してください！	DLG_NOAH_OFFER_INFO	アプリをインストールし起動することで
+虹色水晶がプレゼントされます！
+
+※通信環境によってプレゼントに
+時間が掛かる場合があります。	DLG_NOAH_OFFER_ERROR	通信エラーが発生しました。
+通信状況をご確認のうえ
+リトライしてください。	NOAH_QUARTZ_NAME	アプリインストールで
+虹色水晶をもらう	NOAH_QUARTZ_PRICE	0～	DLG_AGECOMF_TITLE	年齢を選択してください。	DLG_AGECOMF_MESSAGE	あなたの年齢（ねんれい）によって
+「虹色水晶」を買える金額（きんがく）が
+決まっています。
+必ず正しい年齢を選んでください。	DLG_AGECOMF_MES_16UNDER	→１ヶ月　5,000円まで	DLG_AGECOMF_MES_16-19	→１ヶ月　20,000円まで	DLG_AGECOMF_MES_20OVER	→制限なし	DLG_AGECOMF_BTN_16UNDER	16歳未満	DLG_AGECOMF_BTN_16-19	16歳～19歳	DLG_AGECOMF_BTN_20OVER	20歳以上	DLG_MINORITY_PAYMENT	[d9419a]未成年の方へ[-]
+
+かならずお父さんやお母さんの
+おゆるしをもらってから
+買ってください。
+
+
+おゆるしはもらいましたか？	DLG_PURCHASE_CEILING_OVER	今月の購入限度額を超えているため、
+購入することが出来ません。	DLG_QUARTZ_INFOMATION	[d9419a]虹色水晶の確認[-]
+
+現在保有している虹色水晶:[d9419a]{0}[-]個
+  ※虹色水晶は無料配布分から消費されます。
+
+有料購入分の虹色水晶：[d9419a]{1}[-]個
+無料配布分の虹色水晶：[d9419a]{2}[-]個

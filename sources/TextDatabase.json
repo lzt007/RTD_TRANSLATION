@@ -1,0 +1,3278 @@
+[
+  {
+    "key": "ER_RETRY",
+    "text": "通信エラーが発生しました。\n電波状況のよいところで\nリトライしてください。"
+  },
+  {
+    "key": "ER_MASTER_WRITE",
+    "text": "データ書き込みエラーが発生しました。\n端末内の容量を空けるなどして\nリトライしてください。"
+  },
+  {
+    "key": "ER_NG_USER",
+    "text": "エラーが発生しました。\nこの状態が続くようでしたら\nサポートまでご連絡ください。"
+  },
+  {
+    "key": "ER_SERVER",
+    "text": "サーバーのメンテナンス中です。\nしばらく時間をおいてから\n再接続してください。"
+  },
+  {
+    "key": "ER_NG_NAME",
+    "text": "入力されたお名前に、このアプリで\n表示できない文字が含まれています。\nお手数ですが、別のお名前を入力して\nください。"
+  },
+  {
+    "key": "ER_BACK2TOP",
+    "text": "ゲームデータが更新されました!\nトップメニューに戻ります。"
+  },
+  {
+    "key": "ER_VER",
+    "text": "app storeから\nアプリケーションの更新を\nおこなってください。"
+  },
+  {
+    "key": "ER_VER_ANDROID",
+    "text": "Playストアから\nアプリケーションの更新を\nおこなってください。"
+  },
+  {
+    "key": "ER_REBOOT",
+    "text": "エラーが発生しました。\nアプリケーションを再起動してください。"
+  },
+  {
+    "key": "DLG_ERR_NOUSER",
+    "text": "フレンド申請に失敗しました。\n（エラーコード = 2008）"
+  },
+  {
+    "key": "DLG_ERR_CANCEL",
+    "text": "通信エラーが発生しました。\n（エラーコード = {0}）"
+  },
+  {
+    "key": "DLG_ERR_PLA",
+    "text": "お使いの機種は動作対象外です。\n申し訳ありませんが、虹色水晶を\n購入することはできません。"
+  },
+  {
+    "key": "DLG_ERR_OK_ONLY",
+    "text": "エラーが発生しました。"
+  },
+  {
+    "key": "DLG_ERR_GOOGLE",
+    "text": "GooglePlayへの接続に失敗しました。\n（エラーコード = {0}）"
+  },
+  {
+    "key": "DLG_WAIT_CONNECT",
+    "text": "通信中です。少々お待ちください・・・"
+  },
+  {
+    "key": "DLG_QUIT_APPLICATION",
+    "text": "アプリケーションを終了しますか？\n"
+  },
+  {
+    "key": "DLG_RETURN_TITLE",
+    "text": "タイトル画面に戻りますか？\n"
+  },
+  {
+    "key": "DLG_DONT_GAMEPLAY",
+    "text": "利用規約に同意しないとゲームを遊べません。"
+  },
+  {
+    "key": "NONE",
+    "text": "なし"
+  },
+  {
+    "key": "BTN_SIR",
+    "text": "了解"
+  },
+  {
+    "key": "BTN_OK",
+    "text": "OK"
+  },
+  {
+    "key": "BTN_DECIDE",
+    "text": "決定"
+  },
+  {
+    "key": "BTN_DECIDE2",
+    "text": "決定！"
+  },
+  {
+    "key": "BTN_CANCEL",
+    "text": "キャンセル"
+  },
+  {
+    "key": "BTN_HAI",
+    "text": "はい"
+  },
+  {
+    "key": "BTN_IIE",
+    "text": "いいえ"
+  },
+  {
+    "key": "BTN_GACHA",
+    "text": "プレイする"
+  },
+  {
+    "key": "BTN_OTHER",
+    "text": "他を選ぶ"
+  },
+  {
+    "key": "BTN_USE",
+    "text": "使う!"
+  },
+  {
+    "key": "BTN_RECON",
+    "text": "再接続"
+  },
+  {
+    "key": "BTN_BUY",
+    "text": "購入"
+  },
+  {
+    "key": "BTN_CLOSE",
+    "text": "閉じる"
+  },
+  {
+    "key": "BTN_TOP",
+    "text": "戻る"
+  },
+  {
+    "key": "BTN_OPEN",
+    "text": "開く"
+  },
+  {
+    "key": "BTN_DELETE",
+    "text": "削除"
+  },
+  {
+    "key": "BTN_REVIEW",
+    "text": "レビュー！"
+  },
+  {
+    "key": "BTN_REVIEW_CANCEL",
+    "text": "今はしない"
+  },
+  {
+    "key": "BTN_INDUCTION_OK",
+    "text": "見る！"
+  },
+  {
+    "key": "BTN_INDUCTION_CANCEL",
+    "text": "今は見ない"
+  },
+  {
+    "key": "BTN_GIVEN",
+    "text": "もらう"
+  },
+  {
+    "key": "BTN_CHECK",
+    "text": "確認"
+  },
+  {
+    "key": "CMN_ATO",
+    "text": "あと"
+  },
+  {
+    "key": "CMN_DAY",
+    "text": "日"
+  },
+  {
+    "key": "CMN_HOUR",
+    "text": "時間"
+  },
+  {
+    "key": "CMN_MIN",
+    "text": "分"
+  },
+  {
+    "key": "STAFF_NAME",
+    "text": "運営スタッフ"
+  },
+  {
+    "key": "LD_CHECK",
+    "text": "ユーザーデータを問い合わせ中…"
+  },
+  {
+    "key": "LD_LEVEL",
+    "text": "クエスト情報をダウンロード中…"
+  },
+  {
+    "key": "LD_GACHA",
+    "text": "プレイデータを通信中…"
+  },
+  {
+    "key": "LD_DOWNLOAD",
+    "text": "最新データをダウンロード中…"
+  },
+  {
+    "key": "LD_UPDATE",
+    "text": "プレイデータを更新中…"
+  },
+  {
+    "key": "LD_UNIT",
+    "text": "ユニットデータをダウンロード中…"
+  },
+  {
+    "key": "LD_FRIEND",
+    "text": "フレンド情報を更新中…"
+  },
+  {
+    "key": "LD_PRESENT",
+    "text": "プレゼント情報を確認中…"
+  },
+  {
+    "key": "LD_RETRY",
+    "text": "通信リトライ中…"
+  },
+  {
+    "key": "COMING_SOON",
+    "text": "　なし"
+  },
+  {
+    "key": "CURRENCY",
+    "text": "￥"
+  },
+  {
+    "key": "CURRENCY2",
+    "text": "$"
+  },
+  {
+    "key": "COM_WAIT",
+    "text": "ゲームサーバーに接続中…"
+  },
+  {
+    "key": "RR_01",
+    "text": "★"
+  },
+  {
+    "key": "RR_02",
+    "text": "★★"
+  },
+  {
+    "key": "RR_03",
+    "text": "★★★"
+  },
+  {
+    "key": "RR_04",
+    "text": "★★★★"
+  },
+  {
+    "key": "RR_05",
+    "text": "★★★★★"
+  },
+  {
+    "key": "RR_06",
+    "text": "★★★★★★"
+  },
+  {
+    "key": "RR_UN",
+    "text": "？？？"
+  },
+  {
+    "key": "INST_FIRST",
+    "text": "ロード・トゥ・ドラゴンの世界へようこそ！\nボクの名前はドラ助っていうんだ！\nこれから冒険の仕方についてお話させてもらうね。\n\nさっそくだけど、まずキミの名前をおしえてよ！"
+  },
+  {
+    "key": "INST_NAME_INPUT",
+    "text": "あなたのニックネームを入力してね！"
+  },
+  {
+    "key": "INST_DEFAULT",
+    "text": "Player"
+  },
+  {
+    "key": "INST_ING",
+    "text": "最新データをダウンロード中です。"
+  },
+  {
+    "key": "INST_END",
+    "text": "ダウンロードが完了しました。"
+  },
+  {
+    "key": "INST_NAME_CHECK",
+    "text": "プレイヤー名は\n「{0}」\nでよろしいですか？"
+  },
+  {
+    "key": "INST_NAME_ERROR",
+    "text": "大変申し訳ありませんが、\nその名前を使用することはできません。\nお手数をおかけしますが、\n再度別の名前をご入力ください。"
+  },
+  {
+    "key": "INST_CODE_ERROR",
+    "text": "大変申し訳ありませんが、\n入力された招待IDは存在しません。"
+  },
+  {
+    "key": "INST_WELCOME",
+    "text": "あらためまして、\nようこそロード・トゥ・ドラゴンの世界へ！\n\nそれじゃさっそく、キミのパートナーになる戦士を\n４人の中から１人選んでね！"
+  },
+  {
+    "key": "INST_CHAR_SELECT",
+    "text": "\n気になるキャラクターの絵にタッチしてね！"
+  },
+  {
+    "key": "INST_CHAR_0",
+    "text": "火の剣士：アレン\n攻守ともに安定した堅実さが特徴の剣士だよ！\nライフが多いから、初心者にオススメ！\n"
+  },
+  {
+    "key": "INST_CHAR_1",
+    "text": "闇の戦士：カイン\n攻撃力に特化した、強さが特徴の戦士だよ！\nその分ライフは低めだから、やや中級者向けだね！\n"
+  },
+  {
+    "key": "INST_CHAR_2",
+    "text": "水の狩人：ルカ\nライフ・攻撃力・回復力のバランスが良くて、\nどんな状況にも対応出来るから、初心者にオススメ！\n"
+  },
+  {
+    "key": "INST_CHAR_3",
+    "text": "光の魔法使い：マリア\n回復力に特化しててサポートに向いているよ！\n攻撃力が低いから、やや上級者向けだね！\n"
+  },
+  {
+    "key": "INST_CHAR_CHECK",
+    "text": "\nこのキャラクターでいいのかな？"
+  },
+  {
+    "key": "INST_OTOMO_CHECK",
+    "text": "キミの選んだ戦士に\n２人のお供を付けておいたよ！\n\nこの子たちでいいのかな？"
+  },
+  {
+    "key": "INST_FRIEND_MESSAGE_1",
+    "text": "クエストに出るときは、\n４人目の仲間を選ぶんだけど・・・\n今回はボクが信頼する\n{0}\nに付いて行って貰うことにするね！"
+  },
+  {
+    "key": "INST_FRIEND_MESSAGE_2",
+    "text": "さぁ、これで準備が整ったよ！\n\nこの世界を救うにはキミの力が必要なんだ！\n戦士たちを導いて、悪いドラゴンをやっつけてね！\nそれじゃあいくよ！"
+  },
+  {
+    "key": "INST_BATTLE_RESULT",
+    "text": "すごい！\nあんなに強いドラゴンをやっつけるなんて！\n\n次の戦いでも勝てるように、\n新たな戦士を召喚してみようよ！"
+  },
+  {
+    "key": "INST_GOOD_LUCK",
+    "text": "わぁ！凄い戦士を召喚したね！\n戦士たちは「レベルアップ合成」や「進化合成」で\n強くする事もできるから、いろいろ試してみて！\n\nそれじゃまたね！ばいばーい！"
+  },
+  {
+    "key": "MT_AREA_N",
+    "text": "エリアセレクト"
+  },
+  {
+    "key": "MT_AREA_E",
+    "text": "エリアセレクト"
+  },
+  {
+    "key": "MT_AREA_S",
+    "text": "エリアセレクト"
+  },
+  {
+    "key": "MT_QUEST_SEL",
+    "text": "クエストセレクト"
+  },
+  {
+    "key": "MT_QUEST_RESULT",
+    "text": "クエストリザルト"
+  },
+  {
+    "key": "MT_HELPER",
+    "text": "助っ人セレクト"
+  },
+  {
+    "key": "MT_QUEST_CONFIRM",
+    "text": "最終確認"
+  },
+  {
+    "key": "MT_UNIT_MENU",
+    "text": "ユニット"
+  },
+  {
+    "key": "MT_UNIT_PARTY",
+    "text": "ユニット編成"
+  },
+  {
+    "key": "MT_UNIT_PARTY_LIST",
+    "text": "ユニット選択"
+  },
+  {
+    "key": "MT_UNIT_LVUP_BASE",
+    "text": "ベースユニット選択"
+  },
+  {
+    "key": "MT_UNIT_LVUP",
+    "text": "レベルアップ合成"
+  },
+  {
+    "key": "MT_UNIT_LVUP_LIST",
+    "text": "素材ユニット選択"
+  },
+  {
+    "key": "MT_UNIT_EVO_BASE",
+    "text": "進化ユニット選択"
+  },
+  {
+    "key": "MT_UNIT_EVO",
+    "text": "進化合成"
+  },
+  {
+    "key": "MT_UNIT_EVO_LIST",
+    "text": "素材ユニット選択"
+  },
+  {
+    "key": "MT_UNIT_SPCOMP_BASE",
+    "text": "ベースユニット選択"
+  },
+  {
+    "key": "MT_UNIT_SPCOMP",
+    "text": "デラックス合成"
+  },
+  {
+    "key": "MT_UNIT_SPCOMP_LIST",
+    "text": "素材ユニット選択"
+  },
+  {
+    "key": "MT_UNIT_SELL",
+    "text": "売却ユニット選択"
+  },
+  {
+    "key": "MT_UNIT_LIST",
+    "text": "ユニット一覧"
+  },
+  {
+    "key": "MT_UNIT_DETAIL",
+    "text": "ユニット詳細"
+  },
+  {
+    "key": "MT_SHOP_MENU",
+    "text": "ショップ"
+  },
+  {
+    "key": "MT_SHOP_QUARTZ",
+    "text": "虹色水晶の購入"
+  },
+  {
+    "key": "MT_SHOP_QUARTZ_DESC",
+    "text": "ゲーム内の様々なところでご利用できる\n便利なアイテムです"
+  },
+  {
+    "key": "MT_SHOP_NOAH",
+    "text": "虹色水晶をもらう"
+  },
+  {
+    "key": "MT_SHOP_NOAH_DESC",
+    "text": "対象アプリインストールで虹色水晶を\n獲得することができます。"
+  },
+  {
+    "key": "MT_SHOP_AP",
+    "text": "スタミナ回復"
+  },
+  {
+    "key": "MT_SHOP_AP_DESC",
+    "text": "スタミナをすぐに全回復できます"
+  },
+  {
+    "key": "MT_SHOP_BOX",
+    "text": "ユニットBOX拡張"
+  },
+  {
+    "key": "MT_SHOP_BOX_DESC",
+    "text": "ユニット最大所持数をふやします"
+  },
+  {
+    "key": "MT_SHOP_FRIEND",
+    "text": "フレンド枠拡張"
+  },
+  {
+    "key": "MT_SHOP_FRIEND_DESC",
+    "text": "最大フレンド数をふやします"
+  },
+  {
+    "key": "MT_GACHA_MENU",
+    "text": "ガチャ"
+  },
+  {
+    "key": "MT_GACHA_NORMAL",
+    "text": "ノーマルガチャ"
+  },
+  {
+    "key": "MT_GACHA_NORMAL_10",
+    "text": "ノマガチャ×10"
+  },
+  {
+    "key": "MT_GACHA_RESULT",
+    "text": "ガチャ結果"
+  },
+  {
+    "key": "MT_GACHA_RARE",
+    "text": "レアガチャ"
+  },
+  {
+    "key": "MT_FRIEND_MENU",
+    "text": "フレンド"
+  },
+  {
+    "key": "MT_FRIEND_LIST",
+    "text": "フレンドリスト"
+  },
+  {
+    "key": "MT_FRIEND_LIST_SELP",
+    "text": "プレゼント選択"
+  },
+  {
+    "key": "MT_FRIEND_POST",
+    "text": "フレンド通知"
+  },
+  {
+    "key": "MT_FRIEND_APPLY",
+    "text": "フレンド申請"
+  },
+  {
+    "key": "MT_FRIEND_INVITE",
+    "text": "フレンド招待"
+  },
+  {
+    "key": "MT_FRIEND_SEARCH",
+    "text": "フレンド検索"
+  },
+  {
+    "key": "MT_ETC",
+    "text": "そのほか"
+  },
+  {
+    "key": "MT_ETC_PRESENT",
+    "text": "プレゼント確認"
+  },
+  {
+    "key": "MT_ETC_ZUKAN",
+    "text": "ユニット図鑑"
+  },
+  {
+    "key": "MT_ETC_INFO",
+    "text": "お知らせ"
+  },
+  {
+    "key": "MT_ETC_OPTION",
+    "text": "オプション設定"
+  },
+  {
+    "key": "MT_ETC_SUPPORT",
+    "text": "サポート"
+  },
+  {
+    "key": "MT_ETC_SETTLEMENT",
+    "text": "資金決済法について"
+  },
+  {
+    "key": "MT_ETC_THANKS",
+    "text": "謝辞"
+  },
+  {
+    "key": "MT_ETC_CREDIT",
+    "text": "クレジット"
+  },
+  {
+    "key": "MT_ETC_TITLE",
+    "text": "タイトルに戻る"
+  },
+  {
+    "key": "MT_LOGIN",
+    "text": "ログイン"
+  },
+  {
+    "key": "MT_UNIT_OVER",
+    "text": "ユニット超過"
+  },
+  {
+    "key": "MT_INFORMATION_SITE",
+    "text": "ロードラ情報"
+  },
+  {
+    "key": "MT_FAMITSU",
+    "text": "ファミ通App"
+  },
+  {
+    "key": "MT_FAMITSU_DESC",
+    "text": "ファミ通App『ロード・トゥ・ドラゴン』攻略ページへ"
+  },
+  {
+    "key": "MT_HELP_MENU",
+    "text": "ヘルプ"
+  },
+  {
+    "key": "MT_HELP_RULE",
+    "text": "ゲームルール"
+  },
+  {
+    "key": "MT_HELP_UNIT",
+    "text": "ユニットについて"
+  },
+  {
+    "key": "MT_HELP_OTHER",
+    "text": "そのほか"
+  },
+  {
+    "key": "MT_ETC_TRANS",
+    "text": "機種移行"
+  },
+  {
+    "key": "MT_CREATE_PASS",
+    "text": "パスワード発行"
+  },
+  {
+    "key": "MT_ENTER_PASS",
+    "text": "パスワード入力"
+  },
+  {
+    "key": "MT_ETC_LAST_DATA",
+    "text": "最新データの取得"
+  },
+  {
+    "key": "MT_ETC_CHANGE_NAME",
+    "text": "ニックネーム変更"
+  },
+  {
+    "key": "MT_ETC_QUARTZCHECK",
+    "text": "虹色水晶の確認"
+  },
+  {
+    "key": "MT_ETC_EVENT",
+    "text": "イベント/アップデート情報"
+  },
+  {
+    "key": "MT_ETC_COMMUNITY",
+    "text": "コミュニティ"
+  },
+  {
+    "key": "MT_ETC_AGREEMENT",
+    "text": "利用規約"
+  },
+  {
+    "key": "MT_ETC_PERSONAL_INFO",
+    "text": "個人情報"
+  },
+  {
+    "key": "MS_AREA_N",
+    "text": "プレイするエリアをえらんでください。"
+  },
+  {
+    "key": "MS_AREA_E",
+    "text": "プレイするエリアをえらんでください。"
+  },
+  {
+    "key": "MS_AREA_S",
+    "text": "プレイするエリアをえらんでください。"
+  },
+  {
+    "key": "MS_HELPER",
+    "text": "クエストに同行する助っ人をえらんでください。"
+  },
+  {
+    "key": "MS_QUEST_CONFIRM",
+    "text": "クエストに出発する前の最終確認です。"
+  },
+  {
+    "key": "MS_QUEST_SEL",
+    "text": "プレイするクエストをえらんでください。"
+  },
+  {
+    "key": "MS_QUEST_RESULT",
+    "text": "クエストクリアおめでとうございます！"
+  },
+  {
+    "key": "MS_UNIT_MENU",
+    "text": "ユニットに関するメニューです。"
+  },
+  {
+    "key": "MS_UNIT_PARTY",
+    "text": "入れ替えるユニットにタッチしてください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_PARTY_LIST",
+    "text": "パーティに加えるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_LVUP_BASE",
+    "text": "強化するユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_LVUP",
+    "text": "ベースユニットを強化します。素材ユニットは消失します。"
+  },
+  {
+    "key": "MS_UNIT_LVUP_LIST",
+    "text": "素材となるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_EVO_BASE",
+    "text": "進化させるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_EVO",
+    "text": "ベースユニットを進化させます。素材ユニットは消失します。"
+  },
+  {
+    "key": "MS_UNIT_EVO_LIST",
+    "text": "素材となるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_SPCOMP_BASE",
+    "text": "デラックス強化するユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_SPCOMP",
+    "text": "ベースユニットをデラックス強化します。素材ユニットは消失します。"
+  },
+  {
+    "key": "MS_UNIT_SPCOMP_LIST",
+    "text": "素材となるユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_SELL",
+    "text": "売却するユニットをえらんでください。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_LIST",
+    "text": "所持しているユニットの一覧です。タッチするとユニットをお気に入り登録できます。ユニットを長押しすると詳細をチェックできます。"
+  },
+  {
+    "key": "MS_UNIT_DETAIL",
+    "text": "ユニットの詳細です。"
+  },
+  {
+    "key": "MS_SHOP_MENU",
+    "text": "虹色水晶の購入ができます。"
+  },
+  {
+    "key": "MS_SHOP_QUARTZ",
+    "text": "購入する虹色水晶を選択してください。"
+  },
+  {
+    "key": "MS_SHOP_AP",
+    "text": "虹色水晶を消費して、スタミナを全回復します。"
+  },
+  {
+    "key": "MS_SHOP_BOX",
+    "text": "虹色水晶を消費して、ユニットBOXの拡張を行います。"
+  },
+  {
+    "key": "MS_SHOP_FRIEND",
+    "text": "虹色水晶を消費して、フレンド枠の拡張を行います。"
+  },
+  {
+    "key": "MS_GACHA_MENU",
+    "text": "ガチャをプレイしてユニットを獲得できます。"
+  },
+  {
+    "key": "MS_GACHA_NORMAL",
+    "text": "ノーマルガチャをプレイ！"
+  },
+  {
+    "key": "MS_GACHA_NORMAL_10",
+    "text": "ノーマルガチャを10回まとめてプレイ！おまけも貰えるよ！"
+  },
+  {
+    "key": "MS_GACHA_RESULT",
+    "text": "ノーマルガチャを10回まとめてプレイ！おまけも貰えるよ！"
+  },
+  {
+    "key": "MS_GACHA_RARE",
+    "text": "レアガチャをプレイ！"
+  },
+  {
+    "key": "MS_FRIEND_MENU",
+    "text": "フレンドに関するメニューです。"
+  },
+  {
+    "key": "MS_FRIEND_LIST",
+    "text": "フレンドの一覧です。"
+  },
+  {
+    "key": "MS_FRIEND_LIST_SELP",
+    "text": "フレンドにおくるプレゼントをえらんでください。"
+  },
+  {
+    "key": "MS_FRIEND_POST",
+    "text": "フレンドへのお誘いを確認出来ます。"
+  },
+  {
+    "key": "MS_FRIEND_APPLY",
+    "text": "フレンドの申請状況を確認出来ます。"
+  },
+  {
+    "key": "MS_FRIEND_INVITE",
+    "text": "フレンド招待を確認出来ます。"
+  },
+  {
+    "key": "MS_FRIEND_SEARCH",
+    "text": "ユーザーIDを指定してフレンド申請ができます。"
+  },
+  {
+    "key": "MS_ETC",
+    "text": "ゲーム中のさまざまな情報を確認できます。"
+  },
+  {
+    "key": "MS_ETC_PRESENT",
+    "text": "プレゼントの確認ができます。"
+  },
+  {
+    "key": "MS_ETC_ZUKAN",
+    "text": "ユニット図鑑"
+  },
+  {
+    "key": "MS_ETC_INFO",
+    "text": "お知らせ"
+  },
+  {
+    "key": "MS_ETC_OPTION",
+    "text": "オプション設定"
+  },
+  {
+    "key": "MS_ETC_SUPPORT",
+    "text": "サポート"
+  },
+  {
+    "key": "MS_ETC_SETTLEMENT",
+    "text": "資金決済法について"
+  },
+  {
+    "key": "MS_ETC_THANKS",
+    "text": "謝辞"
+  },
+  {
+    "key": "MS_ETC_CREDIT",
+    "text": "クレジット"
+  },
+  {
+    "key": "MS_WAITFOR",
+    "text": "少々お待ちください・・・"
+  },
+  {
+    "key": "MS_LOGIN",
+    "text": "ログイン"
+  },
+  {
+    "key": "MS_UNIT_OVER",
+    "text": "ユニット超過"
+  },
+  {
+    "key": "MS_INFORMATION",
+    "text": "ロード・トゥ・ドラゴンの攻略情報"
+  },
+  {
+    "key": "MS_HELP_MENU",
+    "text": "ゲーム中に出てくる項目の説明を表示します。"
+  },
+  {
+    "key": "MS_HELP_RULE",
+    "text": "ゲームルールについての説明です。"
+  },
+  {
+    "key": "MS_HELP_UNIT",
+    "text": "ユニットについての説明です。"
+  },
+  {
+    "key": "MS_HELP_OTHER",
+    "text": "そのほかの項目についての説明です。"
+  },
+  {
+    "key": "MS_TRANS",
+    "text": "セーブデータを他の端末に移動します。"
+  },
+  {
+    "key": "MS_CREATE_PASS",
+    "text": "セーブデータを移動する際に使用するIDの確認とパスワードの発行ができます。"
+  },
+  {
+    "key": "MS_ENTER_PASS",
+    "text": "これまで使用していたIDとパスワードを入力してデータの移動ができます。"
+  },
+  {
+    "key": "MS_ETC_CHANGE_NAME",
+    "text": "ニックネームを変更できます。"
+  },
+  {
+    "key": "MH_AREA_N",
+    "text": "ノーマルエリアの選択を行う画面です。\nプレイしたいエリア名にタッチしてください。\\n\n[d9419a][エリアの変更][-]\nイベントエリアに変更する場合は、右上の\n「イベントエリアへ」をタッチしてください。"
+  },
+  {
+    "key": "MH_AREA_E",
+    "text": "イベントエリアの選択を行う画面です。\nプレイしたいエリア名をタッチしてください。\\n\n[d9419a][エリアの変更][-]\nノーマルエリアに変更する場合は、右上の\n「ノーマルエリアへ」をタッチしてください。"
+  },
+  {
+    "key": "MH_AREA_E_TO_SPECIAL",
+    "text": "イベントエリアの選択を行う画面です。\nプレイしたいエリア名をタッチしてください。\\n\n[d9419a][エリアの変更][-]\nSPエリアに変更する場合は、右上の\n「SPエリアへ」をタッチしてください。"
+  },
+  {
+    "key": "MH_AREA_S",
+    "text": "SPエリアの選択を行う画面です。\nプレイしたいエリア名をタッチしてください。\\n\n[d9419a][エリアの変更][-]\nノーマルエリアに変更する場合は、右上の\n「ノーマルエリアへ」をタッチしてください。"
+  },
+  {
+    "key": "MH_HELPER",
+    "text": "[d9419a][助っ人セレクト][-]\nクエストに同行する助っ人を選択する画面です。一緒に行く助っ人を選んでください。\\n\n[d9419a][更新][-]\n右上の更新ボタンをタッチすると、選択出来る助っ人が更新されます。"
+  },
+  {
+    "key": "MH_QUEST_CONFIRM",
+    "text": "クエスト出発前の最終確認画面です。\n「クエスト出発！」をタッチしてください。\\n\n[d9419a][表示の変更][-]\n表示変更ボタンで表示内容を変更できます。\n[d9419a][ユニットの変更][-]\nユニットにタッチをすると変更ができます。\n[d9419a][チャレンジ目標][-]\n各クエストのチャレンジ目標を確認できます。"
+  },
+  {
+    "key": "MH_QUEST_SEL",
+    "text": "クエスト選択を行う画面です。\\nプレイしたいクエスト名にタッチしてください。\\n\n[d9419a][クエスト][-]\n「距離」はクエストの長さ、\\n「スタミナ」は消費スタミナ数を表します。"
+  },
+  {
+    "key": "MH_QUEST_RESULT",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_UNIT_MENU",
+    "text": "ユニットに関するメニュー画面です。\n\nパーティ編成を変更したい場合は[d9419a][ユニット編成][-]を\nユニットのレベルアップが行いたい場合は\n[d9419a][レベルアップ合成][-]を選択してください。"
+  },
+  {
+    "key": "MH_UNIT_PARTY",
+    "text": "ユニット編成に関する画面です。\n\nユニットのアイコンにタッチする事で、他のユニットと入れ替える事ができます。\n\n[d9419a][表示の変更][-]\n表示変更ボタンでユニットに関する表示情報内容を変更できます。"
+  },
+  {
+    "key": "MH_UNIT_PARTY_LIST",
+    "text": "[d9419a][ユニット選択][-]\nパーティに加えるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_LVUP_BASE",
+    "text": "[d9419a][ベースユニット選択][-]\n強化するユニットをえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_LVUP",
+    "text": "[d9419a][レベルアップ合成][-]\nベースユニットを強化します。「まとめて追加」ボタンで素材ユニットを選んでください。合成された素材ユニットは消失します。"
+  },
+  {
+    "key": "MH_UNIT_LVUP_LIST",
+    "text": "[d9419a][素材ユニット選択][-]\n素材となるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_EVO_BASE",
+    "text": "[d9419a][進化ユニット選択][-]\n進化させるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_EVO",
+    "text": "[d9419a][進化合成][-]\nベースユニットを進化させます。「まとめて追加」ボタンで素材ユニットを選んでください。合成された素材ユニットは消失します。"
+  },
+  {
+    "key": "MH_UNIT_EVO_LIST",
+    "text": "[d9419a][素材ユニット選択][-]\n素材となるユニットをえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_SPCOMP_BASE",
+    "text": "[d9419a][ベースユニット選択][-]\nデラックス強化するユニットをえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_SPCOMP",
+    "text": "[d9419a][デラックス合成][-]\nベースユニットをデラックス強化します。合成された素材ユニットは消失します。"
+  },
+  {
+    "key": "MH_UNIT_SPCOMP_LIST",
+    "text": "[d9419a][素材ユニット選択][-]\n素材となる「DX合成用よりしろ」をえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_SELL",
+    "text": "[d9419a][売却ユニット選択][-]\n売却するユニットをえらんでください。ユニットを長押しすると詳細を確認できます。"
+  },
+  {
+    "key": "MH_UNIT_LIST",
+    "text": "[d9419a][ユニット一覧][-]\n所持しているユニットの一覧です。ユニットを長押しすると詳細を確認できます。タッチをするとユニットをお気に入り登録できます。お気に入りにすると誤ってユニットを売却する事などを防げます。"
+  },
+  {
+    "key": "MH_UNIT_DETAIL",
+    "text": "[d9419a][ユニット詳細][-]\nユニットの詳細です。\n\n[d9419a][ストーリー][-]\n各ユニットのストーリーを読むことが出来ます。"
+  },
+  {
+    "key": "MH_SHOP_MENU",
+    "text": "虹色水晶の購入や、虹色水晶を使用して\nゲーム内の様々な拡張が行えます！\n※購入した虹色水晶が反映されない場合は、しばらく時間をおいてから再度ご確認ください。"
+  },
+  {
+    "key": "MH_SHOP_QUARTZ",
+    "text": "[d9419a][虹色水晶の購入][-]\n虹色水晶の購入個数をえらび「購入」ボタンをタッチしてください。"
+  },
+  {
+    "key": "MH_SHOP_AP",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_SHOP_BOX",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_SHOP_FRIEND",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_GACHA_MENU",
+    "text": "ガチャをプレイしてユニットを獲得できます。\n\n[d9419a][ノーマルガチャ][-]\n１００フレンドポイントで1回プレイできます。\n[d9419a][ノーマルガチャ×10][-]\n１０００フレンドポイントで1回プレイできます。\n[d9419a][レアガチャ][-]\n虹色水晶5個で、1回プレイできます。"
+  },
+  {
+    "key": "MH_GACHA_NORMAL",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_GACHA_RARE",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_FRIEND_MENU",
+    "text": "フレンドに関するメニュー画面です。"
+  },
+  {
+    "key": "MH_FRIEND_LIST",
+    "text": "フレンドの一覧です。\n\n[d9419a][プレゼント][-]\n「プレゼント」ボタンをタッチでフレンドに、ユニットをプレゼントできます。\n[d9419a][フレンド解除][-]\n「フレンド解除」ボタンでフレンドの解除を行えます。"
+  },
+  {
+    "key": "MH_FRIEND_LIST_SELP",
+    "text": "[d9419a][プレゼント][-]\nフレンドにおくるユニットをタッチしてください。プレゼント対象外のユニットは選択出来ません。プレゼントしたユニットは消失します。"
+  },
+  {
+    "key": "MH_FRIEND_POST",
+    "text": "他のプレイヤーからのフレンドへのお誘いを確認出来る画面です。フレンドになる場合は「フレンド承諾」、ならない場合は「フレンド拒否」ボタンをタッチしてください。\n\nフレンドになると、助っ人としてクエストに同行した際、フレンドポイントが多くもらえます。"
+  },
+  {
+    "key": "MH_FRIEND_APPLY",
+    "text": "フレンドの申請状況を確認できます。「申請とりけし」ボタンで申請をとりけす事ができます。"
+  },
+  {
+    "key": "MH_FRIEND_INVITE",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_FRIEND_SEARCH",
+    "text": "ユーザーIDを指定してフレンド申請ができます。フレンドのIDを入力し「ＯＫ」ボタンをタッチしてください。"
+  },
+  {
+    "key": "MH_ETC",
+    "text": "ゲーム中のさまざまな情報に関するメニュー画面です。"
+  },
+  {
+    "key": "MH_ETC_PRESENT",
+    "text": "[d9419a][プレゼント確認][-]\nプレゼントの確認ができます。最大50件まで保持できますが、開封期間の過ぎたプレゼントは消えてしまうのでご注意ください。"
+  },
+  {
+    "key": "MH_ETC_ZUKAN",
+    "text": "[d9419a][ユニット図鑑][-]\nこれまでに獲得したユニットを確認できます。"
+  },
+  {
+    "key": "MH_ETC_INFO",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_ETC_OPTION",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_ETC_SUPPORT",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_ETC_THANKS",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_ETC_CREDIT",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_WAITFOR",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_LOGIN",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_UNIT_OVER",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_INFORMATION",
+    "text": "（ダイアログ非表示）"
+  },
+  {
+    "key": "MH_HELP_MENU",
+    "text": "[d9419a][ヘルプ][-]\nゲーム中に出てくるさまざまな項目の説明を表示します。"
+  },
+  {
+    "key": "MH_HELP_RULE",
+    "text": "[d9419a][ゲームルール][-]\nゲームルールについての説明です。\n知りたい項目にタッチしてください。\n更に詳しい情報を知りたい場合は、\n「そのほか」＞「攻略情報」をご確認ください。"
+  },
+  {
+    "key": "MH_HELP_UNIT",
+    "text": "[d9419a][ユニットについて][-]\nユニットについての説明です。\n知りたい項目にタッチしてください。\n更に詳しい情報を知りたい場合は、\n「そのほか」＞「攻略情報」をご確認ください。"
+  },
+  {
+    "key": "MH_HELP_OTHER",
+    "text": "[d9419a][そのほか][-]\nそのほかの項目についての説明です。\n知りたい項目にタッチしてください。機種移行の方法などアプリに関する詳しい情報を知りたい場合は、「そのほか」＞「サポート」をご確認ください。"
+  },
+  {
+    "key": "MH_TRANS",
+    "text": "[d9419a][機種移行][-]\nセーブデータを他の端末に移行できます。\n移行手順の詳細は「そのほか」＞「サポート」からご確認ください。"
+  },
+  {
+    "key": "MH_CREATE_PASS",
+    "text": "[d9419a][パスワード発行][-]\nセーブデータを移行する際に使用するユーザーIDの確認とパスワードの発行ができます。\n発行する場合は、「移行元の機種」から「発行」ボタンをタッチしてください。IDとパスワードは「移行先の機種」で使います。忘れずにお控えください。"
+  },
+  {
+    "key": "MH_ENTER_PASS",
+    "text": "[d9419a][パスワード入力][-]\n使用していたユーザーIDと「移行元の機種」で発行したパスワードを「移行先の機種」に入力する事によりデータの移行ができます。移行する場合は、ユーザーIDとパスワードを入力し「移行」ボタンをタッチしてください。"
+  },
+  {
+    "key": "MH_ETC_CHANGE_NAME",
+    "text": "[d9419a][ニックネーム変更][-]\nニックネームを変更できます。変更する場合は、入力欄をタッチし好きなニックネームに変更後、「ＯＫ」ボタンで確定してください。"
+  },
+  {
+    "key": "MMA_AP",
+    "text": "スタミナ："
+  },
+  {
+    "key": "MMH_FP",
+    "text": "FP："
+  },
+  {
+    "key": "MMH_RANK",
+    "text": "ランク："
+  },
+  {
+    "key": "MMU_LV",
+    "text": "Lv"
+  },
+  {
+    "key": "MML_FRIEND",
+    "text": "フレンド"
+  },
+  {
+    "key": "MML_HELPER",
+    "text": "助っ人"
+  },
+  {
+    "key": "MML_SORT0",
+    "text": "デフォルト"
+  },
+  {
+    "key": "MML_SORT1",
+    "text": "入手順"
+  },
+  {
+    "key": "MML_SORT2",
+    "text": "体力順"
+  },
+  {
+    "key": "MML_SORT3",
+    "text": "攻撃力順"
+  },
+  {
+    "key": "MML_SORT4",
+    "text": "回復力順"
+  },
+  {
+    "key": "MML_SORT5",
+    "text": "武器順"
+  },
+  {
+    "key": "MML_SORT6",
+    "text": "レベル順"
+  },
+  {
+    "key": "MML_SORT7",
+    "text": "レア度順"
+  },
+  {
+    "key": "MMA_DAYS",
+    "text": "あと{0}日"
+  },
+  {
+    "key": "MMA_HOUR",
+    "text": "あと{0}時間"
+  },
+  {
+    "key": "MMA_MINUTES",
+    "text": "あと{0}分"
+  },
+  {
+    "key": "MMA_SECOND",
+    "text": "あと{0}秒"
+  },
+  {
+    "key": "MMA_BS1",
+    "text": "スタミナ半減"
+  },
+  {
+    "key": "MMA_BS2",
+    "text": "ゴールド２倍"
+  },
+  {
+    "key": "MMA_BS3",
+    "text": "EXP２倍"
+  },
+  {
+    "key": "MMA_BS4",
+    "text": "初期ソウル２倍"
+  },
+  {
+    "key": "MMA_BS5",
+    "text": "ドロップ率２倍"
+  },
+  {
+    "key": "MMQ_NO_SP",
+    "text": "今はプレイできるクエストが\nありません。"
+  },
+  {
+    "key": "MMQ_KIND_N",
+    "text": "ノーマルクエスト"
+  },
+  {
+    "key": "MMQ_KIND_S",
+    "text": "イベントクエスト"
+  },
+  {
+    "key": "MMA_RESET_MENU",
+    "text": "クエストデータが更新されました!"
+  },
+  {
+    "key": "MMQ_SUBJUGATION",
+    "text": "討伐数"
+  },
+  {
+    "key": "RT_DISTANCE",
+    "text": "距離"
+  },
+  {
+    "key": "RT_STAMINA",
+    "text": "スタミナ"
+  },
+  {
+    "key": "MMQ_MEDAL",
+    "text": "ドラ助メダル獲得数"
+  },
+  {
+    "key": "MMQ_NUM_MEDAL",
+    "text": "獲得合計:"
+  },
+  {
+    "key": "MMQ_NUM",
+    "text": "個"
+  },
+  {
+    "key": "MMQ_CHALLENGE_PRESENT",
+    "text": "目標達成プレゼント"
+  },
+  {
+    "key": "MMQ_REQUIRED_MEDAL",
+    "text": "個獲得で"
+  },
+  {
+    "key": "MMQ_CHALLENGE_CLEAR",
+    "text": "目標達成"
+  },
+  {
+    "key": "MMQ_CHALLENGE_MEDALS",
+    "text": "個達成!!"
+  },
+  {
+    "key": "MMQ_CHALLENGE_INFO",
+    "text": "「そのほか」→「プレゼント確認」\nから受け取ることが出来ます。"
+  },
+  {
+    "key": "MMQ_CHALLENGE_CLEAR_NUM",
+    "text": "現在のチャレンジ目標達成数"
+  },
+  {
+    "key": "MMQ_CHALLENGE_COMPLETE",
+    "text": "おめでとう！\nチャレンジ目標を全て達成したよ！"
+  },
+  {
+    "key": "RT_UPDATE",
+    "text": "更新"
+  },
+  {
+    "key": "USER_LVUP_AP_UP",
+    "text": "スタミナが[d9419a]{0}[-]アップ！！"
+  },
+  {
+    "key": "USER_LVUP_FL_UP",
+    "text": "フレンド数上限が[d9419a]{0}[-]アップ！！"
+  },
+  {
+    "key": "USER_LVUP_AP_RECOVER",
+    "text": "スタミナが全回復！！"
+  },
+  {
+    "key": "MMU_ADD",
+    "text": "追加"
+  },
+  {
+    "key": "MMU_CHANGE_DISPLAY",
+    "text": "表示変更"
+  },
+  {
+    "key": "MMU_SORT",
+    "text": "ソート"
+  },
+  {
+    "key": "RT_QC_BUTTON",
+    "text": "クエスト出発!"
+  },
+  {
+    "key": "DLG_NOST",
+    "text": "スタミナが不足しています。\n回復するまで待つか、\n虹色水晶を使うと回復できます。"
+  },
+  {
+    "key": "DLG_QNA",
+    "text": "大変申し訳ありませんが\n現在このクエストは\nプレイすることができません。"
+  },
+  {
+    "key": "DLG_LEADER_NOT_CHANGE",
+    "text": "このクエストは\nリーダーユニットが解放条件です。\nリーダーユニットの変更はできません。"
+  },
+  {
+    "key": "DLG_STLACK",
+    "text": "スタミナの最大値が不足しているため、\nクエストを受託することができません。"
+  },
+  {
+    "key": "QR_GET_REWARD_STONE",
+    "text": "[d9419a]虹色水晶 {0}個[-]\nプレゼントとして送ります！"
+  },
+  {
+    "key": "QR_GET_REWARD_GOLD",
+    "text": "[d9419a]{0}G[-]\nプレゼントとして送ります！"
+  },
+  {
+    "key": "QR_GET_REWARD_FP",
+    "text": "[d9419a]{0}FP[-]\nプレゼントとして送ります！"
+  },
+  {
+    "key": "QR_GET_REWARD_UNIT",
+    "text": "[d9419a]{0}[-]\nプレゼントとして送ります！"
+  },
+  {
+    "key": "QR_REWARD",
+    "text": "報酬"
+  },
+  {
+    "key": "QR_EXP",
+    "text": "獲得EXP　　　:"
+  },
+  {
+    "key": "QR_NETX_EXP",
+    "text": "次のランクまであと"
+  },
+  {
+    "key": "QR_MONNEY",
+    "text": "獲得金額　　　:"
+  },
+  {
+    "key": "QR_MATERIAL",
+    "text": "依代獲得"
+  },
+  {
+    "key": "QR_SOUL_TO_MATERIAL",
+    "text": "残りのソウルをよりしろの経験値に変換します"
+  },
+  {
+    "key": "QR_SOUL",
+    "text": "ソウル　:"
+  },
+  {
+    "key": "QR_MATERIAL_EXP",
+    "text": "よりしろ経験値"
+  },
+  {
+    "key": "QR_GET_UNIT",
+    "text": "獲得ユニット"
+  },
+  {
+    "key": "QR_RANK_UP",
+    "text": "ランクアップ！！！"
+  },
+  {
+    "key": "QR_CLEAR_BONUS",
+    "text": "クリアボーナス"
+  },
+  {
+    "key": "QR_CHALLENGE_CLEAR",
+    "text": "チャレンジ目標達成！"
+  },
+  {
+    "key": "QR_GET_MEDAL",
+    "text": "ドラ助メダル[59e5c7] 1個[-]獲得！"
+  },
+  {
+    "key": "QR_HELPER",
+    "text": "今回の助っ人プレイヤー"
+  },
+  {
+    "key": "QR_FRIEND_MESSAGE",
+    "text": "フレンドになるとメリットが増えますよ！\nフレンド申請しますか？"
+  },
+  {
+    "key": "DLG_BUY_STONE",
+    "text": "虹色水晶[d9419a]{0}個[-]を￥[29cca9]{1}[-]で購入します。\nよろしいですか？"
+  },
+  {
+    "key": "DLG_BOUGHT_STONE",
+    "text": "虹色水晶{0}個を購入しました。"
+  },
+  {
+    "key": "DLG_LIMIT_STONE",
+    "text": "購入上限を超えてしまいます。（所持上限数９９９）"
+  },
+  {
+    "key": "DLG_AP_RECOVER",
+    "text": "虹色水晶を[d9419a]1つ[-]消費してスタミナを全回復します。\nよろしいですか？"
+  },
+  {
+    "key": "DLG_AP_NO_QUARTZ",
+    "text": "虹色水晶を持っていません。\nショップへ移動します。"
+  },
+  {
+    "key": "DLG_AP_AP_FULL",
+    "text": "スタミナは全快しています!\n回復はしませんでした。"
+  },
+  {
+    "key": "DLG_AP_RECOVERD",
+    "text": "スタミナが全回復しました!"
+  },
+  {
+    "key": "DLG_UT_CONFIRM",
+    "text": "虹色水晶を[d9419a]1つ[-]消費して\nユニットBOXを[29cca9]{0}つ[-]拡張します。\nよろしいですか？"
+  },
+  {
+    "key": "DLG_UT_NO_QUARTZ",
+    "text": "虹色水晶を持っていません。\nショップへ移動します。"
+  },
+  {
+    "key": "DLG_UT_MAX",
+    "text": "ユニットBOXが最大です。\nこれ以上は増やせません!"
+  },
+  {
+    "key": "DLG_UT_SUCCESS",
+    "text": "ユニットBOXが[29cca9]{0}[-]になりました!"
+  },
+  {
+    "key": "DLG_FR_CONFIRM",
+    "text": "虹色水晶を[d9419a]1つ[-]消費して\nフレンド枠を[29cca9]{0}つ[-]拡張します。\nよろしいですか？"
+  },
+  {
+    "key": "DLG_FR_NO_QUARTZ",
+    "text": "虹色水晶を持っていません。\nショップへ移動します。"
+  },
+  {
+    "key": "DLG_FR_MAX",
+    "text": "フレンド枠が最大です。\nこれ以上増やせません!"
+  },
+  {
+    "key": "DLG_FR_SUCCESS",
+    "text": "フレンド枠が[29cca9]{0}[-]になりました!"
+  },
+  {
+    "key": "RT_SELL_UNIT_COUNT",
+    "text": "所持ユニット数"
+  },
+  {
+    "key": "RT_SELL_COUNT",
+    "text": "売却数"
+  },
+  {
+    "key": "RT_SELL_PRICE",
+    "text": "売却金額"
+  },
+  {
+    "key": "RT_SELL_BUTTON",
+    "text": "売却"
+  },
+  {
+    "key": "DLG_SELL_CONFIRM",
+    "text": "[d9419a]{0}体[-]のユニットを売却します。\n売却して得られる金額は\n[29cca9]{1}[-]です。"
+  },
+  {
+    "key": "DLG_SELL_RECOVER_AP",
+    "text": "「[d9419a]スタミナ回復ユニット[-]」の売却によって\nスタミナが[29cca9]{0}[-]回復しました！"
+  },
+  {
+    "key": "RT_status",
+    "text": "ステータス"
+  },
+  {
+    "key": "RT_btn_adds",
+    "text": "まとめて追加"
+  },
+  {
+    "key": "RT_LVUP_COUNT",
+    "text": "選択数"
+  },
+  {
+    "key": "RT_LVUP_PRICE",
+    "text": "合成金額"
+  },
+  {
+    "key": "RT_LVUP_TOTAL_EXP",
+    "text": "得られる経験値"
+  },
+  {
+    "key": "RT_BASE_UNIT",
+    "text": "ベースユニット"
+  },
+  {
+    "key": "RT_MATERIAL_UNIT",
+    "text": "素材ユニット"
+  },
+  {
+    "key": "RT_LEVELUP",
+    "text": "レベルアップ！"
+  },
+  {
+    "key": "DLG_LVUP_ERR_COST",
+    "text": "所持金が足りません!\n[d9419a]{0}[-]ゴールド必要です。"
+  },
+  {
+    "key": "LVUP_TIPS_01",
+    "text": "[d9419a][ユニット][-]\n「レベルアップ合成」で\nユニット同士を合成して強化出来るよ！\n強いユニットでパーティを組もう！"
+  },
+  {
+    "key": "LVUP_TIPS_02",
+    "text": "[d9419a][レベルアップ合成][-]\n強化したいユニットにタッチ！"
+  },
+  {
+    "key": "LVUP_TIPS_03",
+    "text": "[d9419a][素材ユニットの選択][-]\n「まとめて追加」ボタンをタッチして\n素材にするユニットを選択しよう！"
+  },
+  {
+    "key": "LVUP_TIPS_04",
+    "text": "[d9419a][素材ユニット選択][-]\nユニットにタッチして\n素材にするユニットを選択しよう！\n選択したら「決定」にタッチ！"
+  },
+  {
+    "key": "LVUP_TIPS_05",
+    "text": "[d9419a][レベルアップ合成][-]\n素材ユニットが決まったら\n「合成！」ボタンにタッチ！！\n※素材ユニットは消失します。"
+  },
+  {
+    "key": "UNITEVO_POINT",
+    "text": "得られる進化pt"
+  },
+  {
+    "key": "RT_MAX_EXP",
+    "text": "経験値"
+  },
+  {
+    "key": "UNITEVO_POINT_REQUIRED",
+    "text": "必要進化pt"
+  },
+  {
+    "key": "DLG_EVO_ERR_COST",
+    "text": "[eaa7e0]所持金不足[-]"
+  },
+  {
+    "key": "DLG_EVO_ERR_LEVEL",
+    "text": "[d9419a]レベル[-]が足りません！\n最大レベルで進化可能になります。"
+  },
+  {
+    "key": "DLG_EVO_ERR_ATTRIBUTE",
+    "text": "[d9419a]覚醒pt[-]が足りません！\n最大覚醒ptで進化可能になります！\n\n※[d9419a]覚醒pt[-]はクエスト中のエネミーを\n撃破する事で溜まっていきます！"
+  },
+  {
+    "key": "DLG_EVO_ERR_POINT",
+    "text": "[eaa7e0]進化pt不足[-]"
+  },
+  {
+    "key": "DLG_EVO_OK",
+    "text": "合成!"
+  },
+  {
+    "key": "EVO_TIPS_01",
+    "text": "[d9419a][進化合成][-]\nレベルが最大になったユニットは\n進化合成で進化できるかも！？\nレベルアップ＆進化を目指そう！"
+  },
+  {
+    "key": "SPCOMP_TIPS_01",
+    "text": "[d9419a][デラックス合成][-]\n「デラックス合成」では\n特殊なよりしろを合成することで\nユニットのパラメータが上昇するよ！"
+  },
+  {
+    "key": "SPCOMP_TIPS_02",
+    "text": "[d9419a][デラックス合成][-]\n「デラックス合成用」のよりしろを\n素材として選ぼう！\n種類によって効果が違うよ！"
+  },
+  {
+    "key": "SPCOMP_TIPS_03",
+    "text": "[d9419a][デラックス合成][-]\n素材ユニットが決まったら\n「合成！」ボタンにタッチ！！\n※素材ユニットは消失します。"
+  },
+  {
+    "key": "SPCOMP_BONUS_LIFE",
+    "text": "HP"
+  },
+  {
+    "key": "SPCOMP_BONUS_ATTACK",
+    "text": "攻撃力"
+  },
+  {
+    "key": "SPCOMP_BONUS_HEAL",
+    "text": "回復力"
+  },
+  {
+    "key": "SPCOMP_BONUS_LIMIT",
+    "text": "合成上限"
+  },
+  {
+    "key": "RT_ActiveSkill",
+    "text": "アクティブスキル"
+  },
+  {
+    "key": "RT_PartySkill",
+    "text": "パーティスキル"
+  },
+  {
+    "key": "RT_atk",
+    "text": "攻撃力"
+  },
+  {
+    "key": "RT_expamount",
+    "text": "経験値"
+  },
+  {
+    "key": "RT_heal",
+    "text": "回復"
+  },
+  {
+    "key": "RT_hp",
+    "text": "HP"
+  },
+  {
+    "key": "RT_maxLv",
+    "text": "最大Lv"
+  },
+  {
+    "key": "RT_nextLv",
+    "text": "あと"
+  },
+  {
+    "key": "RT_Story",
+    "text": "ストーリー"
+  },
+  {
+    "key": "RT_Shurendo",
+    "text": "覚醒pt"
+  },
+  {
+    "key": "RT_Evolution",
+    "text": "進化pt"
+  },
+  {
+    "key": "RT_PowerUpLimit",
+    "text": "強化限界"
+  },
+  {
+    "key": "UT_ZUKAN",
+    "text": "図鑑No."
+  },
+  {
+    "key": "UT_SKILL",
+    "text": "スキル："
+  },
+  {
+    "key": "UT_LSKILL",
+    "text": "リーダースキル："
+  },
+  {
+    "key": "UT_LEADER",
+    "text": "Leader"
+  },
+  {
+    "key": "UT_NEW",
+    "text": "New!"
+  },
+  {
+    "key": "UT_SELL",
+    "text": "売却!"
+  },
+  {
+    "key": "UT_SELECT",
+    "text": "選択中"
+  },
+  {
+    "key": "UT_NO",
+    "text": "No."
+  },
+  {
+    "key": "UT_LV",
+    "text": "LV."
+  },
+  {
+    "key": "UT_STATUS",
+    "text": "ステータス"
+  },
+  {
+    "key": "UT_ACTIVE_SKILL",
+    "text": "アクティブスキル"
+  },
+  {
+    "key": "UT_PARTY_SKILL",
+    "text": "パーティースキル"
+  },
+  {
+    "key": "UT_CHALLENGE",
+    "text": "チャレンジ目標"
+  },
+  {
+    "key": "UT_PANEL_SKILL",
+    "text": "パネルスキル"
+  },
+  {
+    "key": "DIALOG_SELECT",
+    "text": "選択"
+  },
+  {
+    "key": "DIALOG_UNIT_DETAIL",
+    "text": "詳細表示"
+  },
+  {
+    "key": "DIALOG_FAVO_SIGNUP",
+    "text": "お気に入りに登録"
+  },
+  {
+    "key": "DIALOG_FAVO_REMOVE",
+    "text": "お気に入りを解除"
+  },
+  {
+    "key": "DIALOG_CHANGE",
+    "text": "変更"
+  },
+  {
+    "key": "RT_PanelSkill",
+    "text": "パネルスキル"
+  },
+  {
+    "key": "RT_gachaInfo",
+    "text": "[d9419a]ガチャのお知らせ[-]"
+  },
+  {
+    "key": "RT_gachaInfotext",
+    "text": "ガチャをプレイしてユニットをゲット！\n\nレアガチャで超レアなユニットをゲットしよう！\n「そのほか」→「お知らせ」で\nレアガチャの内容をチェックできるよ！"
+  },
+  {
+    "key": "GACHA_FRIEND_POINT",
+    "text": "100フレンドポイントで1プレイ！"
+  },
+  {
+    "key": "GACHA_FRIEND_POINT_10",
+    "text": "1000フレンドポイントで1プレイ！"
+  },
+  {
+    "key": "GACHA_CRYSTAL_POINT",
+    "text": "虹色水晶5個で1プレイ！"
+  },
+  {
+    "key": "GACHA_PLAY",
+    "text": "プレイ！"
+  },
+  {
+    "key": "GC1_DESC1",
+    "text": "ノーマルガチャ"
+  },
+  {
+    "key": "GC1_DESC2",
+    "text": "クエストをクリアして貯まった\nFP（フレンドポイント）で\nガチャをプレイ!\n1回[d9419a]{0}[-]FP / 現在[29cca9]{1}[-]FP"
+  },
+  {
+    "key": "GC1_DESC3",
+    "text": "あと[29cca9]{0}回[-]プレイできます。"
+  },
+  {
+    "key": "GC1_ERR",
+    "text": "ノーマルガチャをプレイするためには\nFP（フレンドポイント）が\n[d9419a]{0}[-]必要です。\nあなたはいま、\n[29cca9]{1}[-]FP持っています。"
+  },
+  {
+    "key": "GC2_DESC1",
+    "text": "レアガチャ"
+  },
+  {
+    "key": "GC2_DESC2",
+    "text": "虹色水晶を使ってガチャをプレイ!\n1回[d9419a]{0}個[-] / 持っている虹色水晶[29cca9]{1}個[-]"
+  },
+  {
+    "key": "GC2_DESC3",
+    "text": "あと[29cca9]{0}回[-]プレイできます。"
+  },
+  {
+    "key": "GC2_ERR",
+    "text": "レアガチャをプレイするための\n虹色水晶が足りません。\n[d9419a]{0}個[-]必要です!"
+  },
+  {
+    "key": "GC3_DESC1",
+    "text": "ノーマルガチャ×10"
+  },
+  {
+    "key": "GC3_DESC2",
+    "text": "クエストをクリアして貯まった\nFP（フレンドポイント）で\nガチャをプレイ！\n1回[d9419a]{0}[-]FP / 現在[29cca9]{1}[-]FP"
+  },
+  {
+    "key": "GC3_DESC3",
+    "text": "あと[29cca9]{0}回[-]プレイできます。"
+  },
+  {
+    "key": "GC3_ERR",
+    "text": "ノーマルガチャ×10をプレイするためにはFP（フレンドポイント）が\n[d9419a]{0}[-]必要です。\n現在[29cca9]{1}[-]FP持っています。"
+  },
+  {
+    "key": "GC3_HIT",
+    "text": "当たりゲット！！\n１度だけFP無しで、\nノーマルガチャ×10がプレイ可能！"
+  },
+  {
+    "key": "GC3_OMAKE",
+    "text": "おまけとしてユニットをプレゼント!\n\n「そのほか」→「プレゼント確認」\nから受け取ることが出来ます。"
+  },
+  {
+    "key": "GC3_MENU_BUTTON",
+    "text": "ノーマルガチャ×10"
+  },
+  {
+    "key": "DLG_FR_NONE",
+    "text": "フレンドが登録されていません。\nクエストをプレイして\nフレンドを増やそう！"
+  },
+  {
+    "key": "DLG_PRESENT",
+    "text": "[29cca9]{0}[-]さんに\n{1}をおくります。"
+  },
+  {
+    "key": "DLG_FR_REJECT",
+    "text": "[d9419a]{0}[-]さんを\nフレンドから外します。"
+  },
+  {
+    "key": "FRD_MIN",
+    "text": "分前"
+  },
+  {
+    "key": "FRD_HOUR",
+    "text": "時間前"
+  },
+  {
+    "key": "FRD_DAYS",
+    "text": "日前"
+  },
+  {
+    "key": "FRD_LAST_LOGIN",
+    "text": "最終ログイン"
+  },
+  {
+    "key": "FRD_RELEASE_FRIEND",
+    "text": "フレンド解除"
+  },
+  {
+    "key": "FRD_NUM_FRIEND",
+    "text": "登録フレンド数"
+  },
+  {
+    "key": "RT_RANK",
+    "text": "ランク"
+  },
+  {
+    "key": "RT_PRESENT",
+    "text": "プレゼント"
+  },
+  {
+    "key": "DLG_FF_NOF",
+    "text": "フレンドが見つかりません。\n別のコードでお試しください。"
+  },
+  {
+    "key": "DLG_FF_FULL",
+    "text": "フレンド申請の上限に達しているため\nこれ以上の申請は出来ません。"
+  },
+  {
+    "key": "DLG_FF_DONE",
+    "text": "フレンド申請を行ないました。"
+  },
+  {
+    "key": "DLG_FF_ALREADY",
+    "text": "{0}さんはすでに\nフレンド登録済みです。"
+  },
+  {
+    "key": "FRD_MESSAGE_1",
+    "text": "友達のIDを入力してフレンド登録しよう！"
+  },
+  {
+    "key": "FRD_MESSAGE_2",
+    "text": "『ロード・トゥ・ドラゴン』をみんなで遊ぼう！"
+  },
+  {
+    "key": "FRD_MESSAGE_3",
+    "text": "Twitterやfacebookでの呼びかけはこちら！"
+  },
+  {
+    "key": "FRD_MESSAGE_3_NOFB",
+    "text": "Twitterでの呼びかけはこちら！"
+  },
+  {
+    "key": "FRD_REVIEW_1",
+    "text": "レビューページはこちら！"
+  },
+  {
+    "key": "FRD_REVIEW_2",
+    "text": "レビューする"
+  },
+  {
+    "key": "FRD_REVIEW_3",
+    "text": "虹色水晶をゲット！"
+  },
+  {
+    "key": "FRD_SEARCH_RESULT",
+    "text": "検索結果"
+  },
+  {
+    "key": "FRD_FOUND_USER",
+    "text": "お探しのユーザー様が見つかりました。"
+  },
+  {
+    "key": "DLG_NO_POST",
+    "text": "いまはフレンドへのお誘いが\n届いていないようです。"
+  },
+  {
+    "key": "DLG_POST_CONFIRM",
+    "text": "[29cca9]{0}[-]さんを\nフレンドに登録します。"
+  },
+  {
+    "key": "DLG_POST_REJECT",
+    "text": "[d9419a]{0}[-]さんからの\nお誘いを断ります。"
+  },
+  {
+    "key": "DLG_POST_BATCH",
+    "text": "フレンドへのお誘いを\nフレンド枠の上限まで承認します。"
+  },
+  {
+    "key": "DLG_POST_FULL1",
+    "text": "フレンド数が上限に達しているため\n承認することが出来ませんでした。"
+  },
+  {
+    "key": "DLG_POST_FULL2",
+    "text": "相手のフレンド数が上限に達した\nため、承認することが出来ません\nでした。"
+  },
+  {
+    "key": "DLG_POST_ERR",
+    "text": "エラーが発生したため\n承認することが出来ませんでした。"
+  },
+  {
+    "key": "DLG_POST_PASS",
+    "text": "フレンド数が上限に達している\n方は承認できませんでした。"
+  },
+  {
+    "key": "DLG_POST_REJECT_ALL",
+    "text": "全てのお誘いを断ります。"
+  },
+  {
+    "key": "FRD_CONSENT_ALL",
+    "text": "一括承諾"
+  },
+  {
+    "key": "FRD_FRIEND_CONSENT",
+    "text": "フレンド承諾"
+  },
+  {
+    "key": "FRD_FRIEND_REFUSAL",
+    "text": "フレンド拒否"
+  },
+  {
+    "key": "DLG_NO_APPLY",
+    "text": "フレンド申請を\nしていません。"
+  },
+  {
+    "key": "DLG_APPLY_CONFIRM",
+    "text": "[d9419a]{0}[-]さんへの\nフレンド申請を取り下げます。"
+  },
+  {
+    "key": "DLG_APPLY_BATCH",
+    "text": "すべてのフレンド申請を\n取り下げます。"
+  },
+  {
+    "key": "FRD_APPLY_CANCEL_ALL",
+    "text": "一括申請取消"
+  },
+  {
+    "key": "FRD_APPLY_CANCEL",
+    "text": "申請とりけし"
+  },
+  {
+    "key": "DLG_FRIEND_MAX",
+    "text": "フレンド申請エラー\n\n既にフレンド登録の上限に達しているため、\nこれ以上の申請ができません。\n\n[d9419a]虹色水晶を１個使って[-]、フレンド枠を５つ\n拡張することができます。\n\nフレンド枠を拡張しますか？\n[29cca9]現在：{0} ⇒ 拡張後：{1}[-]\n"
+  },
+  {
+    "key": "DLG_FRIEND_LIMIT",
+    "text": "フレンド申請エラー\n\nこれ以上フレンド登録ができない状態です。\n\n大変申し訳ありませんが、拡張の上\n限にも達しているため、今回の助っ\n人プレイヤーへの申請はできません。\n\n"
+  },
+  {
+    "key": "DLG_FRIEND_TITLE",
+    "text": "フレンド申請完了"
+  },
+  {
+    "key": "DLG_FRIEND_POST",
+    "text": "{0}さんにフレンド\n申請を送りました。"
+  },
+  {
+    "key": "DLG_FRIEND_POINT",
+    "text": "[d9419a]{0}[-]FPゲット!\n（{1}/{2}）"
+  },
+  {
+    "key": "DLG_ALREADY_POINT",
+    "text": "FPは増えませんでした。\n同じ助っ人からFPがもらえるのは１日に１回です。"
+  },
+  {
+    "key": "DLG_REV_FRIEND",
+    "text": "すでに{0}さんからの\nフレンド申請が届いています。"
+  },
+  {
+    "key": "DLG_FRIEND",
+    "text": "{0}さんを\nフレンドに登録しました。"
+  },
+  {
+    "key": "PRESENT_RECEIVING",
+    "text": "受信日:"
+  },
+  {
+    "key": "PRESENT_LIMIT",
+    "text": "開封期限:"
+  },
+  {
+    "key": "DLG_NO_PRESENT",
+    "text": "プレゼントは\n届いていないようです。"
+  },
+  {
+    "key": "DLG_PRESENT_UN1",
+    "text": "運営スタッフから\nプレゼントが届きました。\n[d9419a]{0}[-]G"
+  },
+  {
+    "key": "DLG_PRESENT_UN2",
+    "text": "運営スタッフから\nプレゼントが届きました。\n虹色水晶 [d9419a]{0}[-]個"
+  },
+  {
+    "key": "DLG_PRESENT_UN3",
+    "text": "運営スタッフから\nプレゼントが届きました。\n[d9419a]{0}[-]FP"
+  },
+  {
+    "key": "DLG_PRESENT_UN4",
+    "text": "運営スタッフから\nプレゼントが届きました。\nユニット：[d9419a]{0}[-]"
+  },
+  {
+    "key": "DLG_PRESENT_UNIT",
+    "text": "フレンドの{0}さんから\nプレゼントが届きました。\nユニット：[d9419a]{1}[-]"
+  },
+  {
+    "key": "DLG_PRESENT_GOLD_NG",
+    "text": "所持ゴールドの上限を超えてしまうためプレゼントを開封できません。"
+  },
+  {
+    "key": "DLG_PRESENT_STONE_NG",
+    "text": "虹色水晶の所持数上限を超えてしまうためプレゼントを開封できません。"
+  },
+  {
+    "key": "DLG_PRESENT_FP_NG",
+    "text": "フレンドポイントの上限を超えてしまうためプレゼントを開封できません。"
+  },
+  {
+    "key": "DLG_PRESENT_UNIT_NG",
+    "text": "所持ユニット数の上限を超えてしまうためプレゼントを開封できません。"
+  },
+  {
+    "key": "DLG_PRESENT_BATCH",
+    "text": "届いているプレゼントをまとめて受け取ります。"
+  },
+  {
+    "key": "DLG_PRESENT_BATCH_NG",
+    "text": "所持数の上限を超えたため、いくつかのプレゼントは受け取れませんでした。"
+  },
+  {
+    "key": "DLG_PRESENT_DONE",
+    "text": "受け取り済みです。"
+  },
+  {
+    "key": "BTN_RECV",
+    "text": "受け取る"
+  },
+  {
+    "key": "CHALLENGE_PRESENT_1",
+    "text": "「{0}」を\nプレゼント！"
+  },
+  {
+    "key": "CHALLENGE_PRESENT_2",
+    "text": "「{0}」を\nGET！"
+  },
+  {
+    "key": "CHALLENGE_PRESENT_COIN",
+    "text": "「[d9419a]{0}[-]G」を\nプレゼント！"
+  },
+  {
+    "key": "CHALLENGE_PRESENT_FP",
+    "text": "「[d9419a]{0}[-]FP」を\nプレゼント！"
+  },
+  {
+    "key": "CHALLENGE_PRESENT_STONE",
+    "text": "「虹色水晶 [d9419a]{0}[-]個」を\nプレゼント！"
+  },
+  {
+    "key": "MODELSHIFT_YOUR_ID",
+    "text": "あなたのユーザーID"
+  },
+  {
+    "key": "MODELSHIFT_YOUR_PW",
+    "text": "あなたのパスワード"
+  },
+  {
+    "key": "MODELSHIFT_ISSUE",
+    "text": "発行"
+  },
+  {
+    "key": "MODELSHIFT_SHIFT_ID",
+    "text": "移行するユーザーID"
+  },
+  {
+    "key": "MODELSHIHT_SHIFT",
+    "text": "移行"
+  },
+  {
+    "key": "RENAME_INFO",
+    "text": "■名前入力の注意事項■\n\n全ての文章を表示出来ない場合があります。\nまた、公序良俗に反した表現や、\n個人情報の記載などは行わないようにお願いします。"
+  },
+  {
+    "key": "INFORMATION_TITLE",
+    "text": "運営からのお知らせ"
+  },
+  {
+    "key": "ENCY_UNIT_TYPES",
+    "text": "獲得ユニット種類"
+  },
+  {
+    "key": "OPTION_BGM",
+    "text": "BGM"
+  },
+  {
+    "key": "OPTION_SE",
+    "text": "SE"
+  },
+  {
+    "key": "OPTION_GUIDE",
+    "text": "ガイド"
+  },
+  {
+    "key": "DUMMY_HELPER0",
+    "text": "むさしのゴンザレス"
+  },
+  {
+    "key": "DUMMY_HELPER1",
+    "text": "くまさむらい"
+  },
+  {
+    "key": "DUMMY_HELPER2",
+    "text": "Takuma.Endo"
+  },
+  {
+    "key": "SKILL_1",
+    "text": "パーティーのたいりょくを\\n500かいふくする。\\n\\nしょうひソウル３"
+  },
+  {
+    "key": "SKILL_LEVEL",
+    "text": "習得レベル"
+  },
+  {
+    "key": "SKILL_SOUL",
+    "text": "消費ソウル"
+  },
+  {
+    "key": "RETIRE",
+    "text": "クエストを諦めますか？"
+  },
+  {
+    "key": "CONTINUE",
+    "text": "虹色水晶が足りません。\\n購入しますか？"
+  },
+  {
+    "key": "CAVEQUEST_NAME_NOCLEAR",
+    "text": "「？？？？？」"
+  },
+  {
+    "key": "CAVEQUEST_NAME_CLEARED",
+    "text": "「{0}」"
+  },
+  {
+    "key": "CAVEQUEST_DIFFICULTY",
+    "text": "★"
+  },
+  {
+    "key": "CAVEQUEST_FIND_STAIRS",
+    "text": "階段発見！"
+  },
+  {
+    "key": "CAVEQUEST_DIFFICULTY1",
+    "text": "難易度："
+  },
+  {
+    "key": "CAVEQUEST_NEXT_FLOOR",
+    "text": "次の階へ進みますか？"
+  },
+  {
+    "key": "CAVEQUEST_MESSAGE1",
+    "text": "※取得した魔導書は\nクリア後に全て獲得出来ます。"
+  },
+  {
+    "key": "QUICK_UI",
+    "text": "敵ターン遅延"
+  },
+  {
+    "key": "DRAGONKILL_UI",
+    "text": "竜殺し"
+  },
+  {
+    "key": "DEATHKILL_UI",
+    "text": "死神殺し"
+  },
+  {
+    "key": "UNITENEMYKILL_UI",
+    "text": "ユニットエネミー殺し"
+  },
+  {
+    "key": "DEFENCE_UI",
+    "text": "鉄壁の防御！"
+  },
+  {
+    "key": "CRITICAL_UI",
+    "text": "全力の一撃！"
+  },
+  {
+    "key": "COUNTER_UI",
+    "text": "反撃！"
+  },
+  {
+    "key": "CHASEATTACK_UI",
+    "text": "追撃！"
+  },
+  {
+    "key": "TWOSWORD_UI",
+    "text": "双撃！"
+  },
+  {
+    "key": "GRAVITY_ATK_UI",
+    "text": "遅延発生"
+  },
+  {
+    "key": "FIRE_KILL_UI",
+    "text": "火属性殺し"
+  },
+  {
+    "key": "WATER_KILL_UI",
+    "text": "水属性殺し"
+  },
+  {
+    "key": "DARK_KILL_UI",
+    "text": "闇属性殺し"
+  },
+  {
+    "key": "LIGHT_KILL_UI",
+    "text": "光属性殺し"
+  },
+  {
+    "key": "NONE_KILL_UI",
+    "text": "無属性殺し"
+  },
+  {
+    "key": "SOUL_HUNT_UI",
+    "text": "ソウル奪取"
+  },
+  {
+    "key": "MOVING_PANEL_UI",
+    "text": "強制移動発生！"
+  },
+  {
+    "key": "QUICK_BRAST_UI",
+    "text": "速攻！"
+  },
+  {
+    "key": "SERIAL_KILLER_UI",
+    "text": "パーティー攻撃力上昇"
+  },
+  {
+    "key": "DELAY_ATTACK",
+    "text": "一斉攻撃！"
+  },
+  {
+    "key": "ATTRIBUTE_SOUL",
+    "text": "ソウル獲得"
+  },
+  {
+    "key": "CHASE_SUPPORT",
+    "text": "追撃ダメージ上昇！"
+  },
+  {
+    "key": "SERIAL_LIFE_UI",
+    "text": "最大ライフ上昇"
+  },
+  {
+    "key": "HEART_CALL_S",
+    "text": "{0}発動"
+  },
+  {
+    "key": "HEART_CALL_E",
+    "text": "{0}解除"
+  },
+  {
+    "key": "TIME_STOP_UI",
+    "text": "時間停止"
+  },
+  {
+    "key": "TIME_START_UI",
+    "text": "時間再生"
+  },
+  {
+    "key": "SKILL_ZERO_UI",
+    "text": "スキルゼロ"
+  },
+  {
+    "key": "RECOVER_UI",
+    "text": "リカバリー"
+  },
+  {
+    "key": "SLOT_ZERO1_UI",
+    "text": "抽選開始"
+  },
+  {
+    "key": "SLOT_ZERO2_UI",
+    "text": "一斉攻撃！"
+  },
+  {
+    "key": "SLOT_ZERO3_UI",
+    "text": "11141738183"
+  },
+  {
+    "key": "SLOT_ZERO4_UI",
+    "text": "限定解除ヲ承認"
+  },
+  {
+    "key": "LIFE_GUARD_UI",
+    "text": "デッド・ガード"
+  },
+  {
+    "key": "GUARDIAN_UI",
+    "text": "ガーディアン・ヒール"
+  },
+  {
+    "key": "DRAGON_INJ1_UI",
+    "text": "エネミー竜化"
+  },
+  {
+    "key": "DRAGON_INJ2_UI",
+    "text": "これが貴様の罪の対価だ"
+  },
+  {
+    "key": "RESURRECTION1_UI",
+    "text": "蘇生"
+  },
+  {
+    "key": "RESURRECTION2_UI",
+    "text": "輪廻解放"
+  },
+  {
+    "key": "GODBURST1_UI",
+    "text": "神の裁きを受けよ！！"
+  },
+  {
+    "key": "GOD_REFLECT_UI",
+    "text": "攻撃反射"
+  },
+  {
+    "key": "DRAGON_SLAYER_UI",
+    "text": "ドラゴン・スレイヤー"
+  },
+  {
+    "key": "SKILL_ABSORB_UI",
+    "text": "スキル・アブソーブ"
+  },
+  {
+    "key": "PANEL_HEALER_UI",
+    "text": "パネル・ヒーラー"
+  },
+  {
+    "key": "DELAY_HEAL",
+    "text": "ホーリースコール"
+  },
+  {
+    "key": "TWO_PLATOONS_UI",
+    "text": "ツープラトンアタック"
+  },
+  {
+    "key": "ELEMENT_FORCE_UI",
+    "text": "エレメントフォース"
+  },
+  {
+    "key": "TREASURE_HUNT_UI",
+    "text": "トレジャー・ハント"
+  },
+  {
+    "key": "DAMAGE_DRAIN_UI",
+    "text": "ドレインフィールド　発動"
+  },
+  {
+    "key": "SERIAL_HEAL_UI",
+    "text": "回復量上昇"
+  },
+  {
+    "key": "MOVE_ENHANCE_UI",
+    "text": "パワー・ステップ"
+  },
+  {
+    "key": "ATTRIBUTE_CHANGE_S",
+    "text": "属性変更　発動"
+  },
+  {
+    "key": "ATTRIBUTE_CHANGE_E",
+    "text": "属性変更　解除"
+  },
+  {
+    "key": "POWER_OF_LOVE_S",
+    "text": "パワー・オブ・ラブ　発動"
+  },
+  {
+    "key": "POWER_OF_LOVE_E",
+    "text": "パワー・オブ・ラブ　解除"
+  },
+  {
+    "key": "TURN_ENHANCE_S",
+    "text": "ボルテージ発動"
+  },
+  {
+    "key": "TURN_ENHANCE_E",
+    "text": "ボルテージ解除"
+  },
+  {
+    "key": "DAMAGE_ENHANCE_S",
+    "text": "逆境　攻撃力上昇"
+  },
+  {
+    "key": "DAMAGE_ENHANCE_E",
+    "text": "逆境　解除"
+  },
+  {
+    "key": "ATTACK_ENHANCE_S",
+    "text": "バーサーク･フィールド"
+  },
+  {
+    "key": "ATTACK_ENHANCE_E",
+    "text": "バーサーク・フィールド解除"
+  },
+  {
+    "key": "SOUL_ZERO1_UI",
+    "text": "ソウル・オブ・ゼロ 発動"
+  },
+  {
+    "key": "SOUL_ZERO2_UI",
+    "text": "ソウル・オブ・ゼロ 解放"
+  },
+  {
+    "key": "SP_EXEC",
+    "text": "[71f9e7]パネルスキル発動！[-]"
+  },
+  {
+    "key": "SP_DEFENCE_DOWN",
+    "text": "[71f9e7]エネミー防御力低下[-]"
+  },
+  {
+    "key": "SP_LIFE_RECOVER",
+    "text": "[71f9e7]ライフ回復[-]"
+  },
+  {
+    "key": "SP_SOUL_GET",
+    "text": "[71f9e7]ソウル獲得[-]"
+  },
+  {
+    "key": "SP_GRAVITY",
+    "text": "[71f9e7]敵ターン遅延[-]"
+  },
+  {
+    "key": "SP_ATTACK_UP",
+    "text": "[71f9e7]パーティー攻撃力上昇[-]"
+  },
+  {
+    "key": "SP_SHUFFLE",
+    "text": "[71f9e7]シャッフル[-]"
+  },
+  {
+    "key": "SP_ATTRIBUTE_UP",
+    "text": "[71f9e7]属性補正上昇[-]"
+  },
+  {
+    "key": "SP_DAMAGE",
+    "text": "[71f9e7]エネミーダメージ[-]"
+  },
+  {
+    "key": "SP_CURSE",
+    "text": "[71f9e7]エネミーカーズ[-]"
+  },
+  {
+    "key": "SP_ARCANE",
+    "text": "[71f9e7]ダメージ吸収[-]"
+  },
+  {
+    "key": "SP_LIMIT_ENHANCE_S",
+    "text": "[71f9e7]限界突破　発動[-]"
+  },
+  {
+    "key": "SP_LIMIT_ENHANCE_E",
+    "text": "[71f9e7]限界突破　解除[-]"
+  },
+  {
+    "key": "SP_LIMIT_SUPERATTACK_S",
+    "text": "[71f9e7]全身全霊　発動[-]"
+  },
+  {
+    "key": "SP_LIMIT_SUPERATTACK_E",
+    "text": "[71f9e7]全身全霊　解除[-]"
+  },
+  {
+    "key": "SP_BATTLE_EVASION",
+    "text": "[71f9e7]戦闘回避[-]"
+  },
+  {
+    "key": "SP_LIMIT_LIFERECOVER_FIX_S",
+    "text": "[71f9e7]回復の雫　発動[-]"
+  },
+  {
+    "key": "SP_LIMIT_LIFERECOVER_FIX_E",
+    "text": "[71f9e7]回復の雫　解除[-]"
+  },
+  {
+    "key": "SP_LIFE_UP",
+    "text": "[71f9e7]最大ライフ上昇[-]"
+  },
+  {
+    "key": "BM_TURN",
+    "text": "ターン"
+  },
+  {
+    "key": "BM_QUEST_INFO",
+    "text": "クエスト情報"
+  },
+  {
+    "key": "BM_OPTION",
+    "text": "オプション"
+  },
+  {
+    "key": "BM_RETIRE",
+    "text": "クエストリタイア"
+  },
+  {
+    "key": "BM_QUEST_NAME",
+    "text": "クエスト名"
+  },
+  {
+    "key": "BM_BOSS_DISTANCE",
+    "text": "ボスまでの残りマス数"
+  },
+  {
+    "key": "BM_CHALLENGE_CONDITION",
+    "text": "チャレンジ目標達成条件"
+  },
+  {
+    "key": "BM_DISTANCE",
+    "text": "あと　      マス"
+  },
+  {
+    "key": "BM_SKILL_SOUL",
+    "text": "消費ソウル　　　　soul\n\n使用しますか？"
+  },
+  {
+    "key": "BM_DESTRUCTION_BOOK",
+    "text": "魔道書がいっぱいです！！\n捨てる魔道書を選択してください。"
+  },
+  {
+    "key": "BM_HAVE_BOOK",
+    "text": "いまもっている魔道書"
+  },
+  {
+    "key": "BM_CONTINUE_MESSAGE",
+    "text": "虹色水晶を1個消費して、\nコンティニューしますか？\n\n虹色水晶を、　　個所持しています。"
+  },
+  {
+    "key": "TUTORIAL_1",
+    "text": "プレイヤは道を作って先に進みます。\\n下の8枚のパネルを押すと道が出来ます。\\n実際にやってみましょう。"
+  },
+  {
+    "key": "TUTORIAL_2",
+    "text": "test"
+  },
+  {
+    "key": "TUTORIAL_3",
+    "text": "下のパネルを連結させて攻撃しよう!"
+  },
+  {
+    "key": "TUTORIAL_4",
+    "text": "なかなか筋が良いですね。"
+  },
+  {
+    "key": "TUTORIAL_5",
+    "text": "強敵です！\\n同じパネルを繋げると与えるダメージが増加しますよ！"
+  },
+  {
+    "key": "TUTORIAL_6",
+    "text": "ユニットを手に入れましたね。"
+  },
+  {
+    "key": "MOVE_EVENT1",
+    "text": "さぁ、いよいよ冒険の始まりだよ！\n道を作って戦士を導いてあげてね。\n\nさっそく下の8枚のパネルの中の\n光ってるパネルにタッチしてみよう！"
+  },
+  {
+    "key": "MOVE_EVENT2",
+    "text": "そうそう、その調子！\n道が出来て戦士が前に進む事が出来たよ。\n\nそれじゃまた光ってるパネルにタッチして\nもっと戦士を前進させてあげよう！"
+  },
+  {
+    "key": "ENEMY_EVENT",
+    "text": "むむむ、悪いモンスターだ！\n\nモンスターと戦士が接触すると\nバトルが始まるよ！\nさっそく行ってみよう！"
+  },
+  {
+    "key": "BATTLE_START_EVENT1",
+    "text": "モンスターとのバトルだよ！\n戦士に攻撃の指示を出すんだ！\n\n下の光っている剣のマークの\nパネルにタッチしてみて！"
+  },
+  {
+    "key": "BATTLE_START_EVENT2",
+    "text": "わっ！倒したと思ったらまたモンスターだ！\nさっきのやつより強いかもしれない！\n\n今度は、下の光っている弓のマークの\nパネルを指でつないでみて！"
+  },
+  {
+    "key": "BATTLE_WIN_EVENT",
+    "text": "スゴイ！圧勝だ！\nモンスターをやっつけたよ！\n\nこんな風に、武器のマークに応じて\n攻撃する戦士が変わるんだね！"
+  },
+  {
+    "key": "BATTLE_START_EVENT3",
+    "text": "よし！今度は一気に\n4枚のパネルを指でつないでみよう！\n\n下の光っている杖のマークの\nパネルを4枚つないで魔法攻撃だ！"
+  },
+  {
+    "key": "UNIT_GET_EVENT",
+    "text": "あ、魔導書を手に入れたんだね！\n\nステージをクリアすると、\n魔導書から戦士を召喚出来るよ。\nクリア後が楽しみだね！"
+  },
+  {
+    "key": "MOVE_FREE_EVENT",
+    "text": "よし！\nすこし安全な場所にきたみたいだ！\n\n下の8枚のパネルの中の\n好きなものにタッチして、先に進もう！"
+  },
+  {
+    "key": "BOSS_SERACH",
+    "text": "この気配！\nいよいよドラゴンに\n近づいてきたみたいだ！！\n\n気をつけてね！"
+  },
+  {
+    "key": "BOSS_PANEL_ADVICE",
+    "text": "わー！ドラゴンがあらわれたよ！\n\n強敵だけど、今のキミなら大丈夫！\n一気に全てのパネルをつなげて\n攻撃するんだ！"
+  },
+  {
+    "key": "SOUL_LECTURE_1",
+    "text": "あっ！そういえば大事な事を\n言い忘れてた！\n\n「Soul」っていう所を見ながら\nパネルをタッチして進んでみてね！"
+  },
+  {
+    "key": "SOUL_LECTURE_2",
+    "text": "数字が少なくなったね！\n\n見のがしちゃったかもしれないから\nもう一回見てみよう！\n左にある「Soul」っていうところだよ！"
+  },
+  {
+    "key": "SOUL_LECTURE_3",
+    "text": "わー、ま、まずい！\n\nこれはキミの「ソウル」の量なんだ！\n0になると大変なんだけど\n少なくなってきちゃった！"
+  },
+  {
+    "key": "ENEMY_ENCOUNT_1",
+    "text": "ぬぬぬ、こんな時に悪いモンスターが！\n\nソウルはバトルでも減っちゃうんだ！\nソウルの数字を見ながら\n光ってる2枚のパネルをつなげて攻撃してみて！"
+  },
+  {
+    "key": "BATTLE_END_EVENT_1",
+    "text": "バトルには勝てたけど……。\n\nソウルがもう残ってないから\nなんとかしないとなぁ……。\nとにかく先に進んでみよっか。"
+  },
+  {
+    "key": "ENEMY_SERCH_1",
+    "text": "あ、またモンスターだ！\nやっつければソウルが貰えるかも！\n\nよーし！やっつけてみよう！"
+  },
+  {
+    "key": "ENEMY_ENCOUNT_2",
+    "text": "ばばーん！じつはとっておきの方法があるよ！\n\n同じ武器マークをつなげて攻撃すると\nソウルが減らないんだ！\n光ってるパネルをつなげて攻撃してみて！"
+  },
+  {
+    "key": "BATTLE_END_EVENT_2",
+    "text": "やったー！ソウルが回復したよ！\n\nこんなふうにバトルでは同じ武器マークを\nつなげることが大事なんだ！\nモンスターをやっつければソウルは回復するよ！"
+  },
+  {
+    "key": "MOVE_POWERUP_1",
+    "text": "あ、あとね\n目の前にある色のついた地面だけど\nこれをふむとすごくイイことがあるんだ！\n\n光ってるパネルにタッチして進んでみて！"
+  },
+  {
+    "key": "MOVE_POWERUP_2",
+    "text": "よーしっ！\n\nじつは、色のついた地面を通った分\nこのクエスト中は戦士たちが強くなるんだ！\n見つけたらどんどんふんでいこう！"
+  },
+  {
+    "key": "BOSS_BATTLE",
+    "text": "わー！へんなドラゴンがでてきた！\n\nでも大丈夫！さっきやったみたいに\nパネルをつなげればソウルを減らさずに\nやっつけられるからね！"
+  },
+  {
+    "key": "TIPS_01",
+    "text": "[d9419a][TIPS][-]\n「レベルアップ合成」で\nユニットを強くすることが出来るよ！\nみんなを育てて強敵に挑もう！"
+  },
+  {
+    "key": "TIPS_02",
+    "text": "[d9419a][TIPS][-]\n白いユニット「よりしろ」は\nクエストクリア後に必ず貰えるよ！\nレベルアップ合成の素材にしよう！"
+  },
+  {
+    "key": "TIPS_03",
+    "text": "[d9419a][TIPS][-]\n残ったソウルは\n「よりしろ」の経験値になるよ！\nソウルを貯めてクリアしよう！"
+  },
+  {
+    "key": "TIPS_04",
+    "text": "[d9419a][TIPS][-]\nレベルが最大になったユニットは\n進化出来るかも！？\n「進化合成」で確認してみよう！"
+  },
+  {
+    "key": "TIPS_05",
+    "text": "[d9419a][TIPS][-]\nなるべく多くの敵を倒して\nたくさんのユニットをゲットしよう！"
+  },
+  {
+    "key": "LOGINBONUS_1_1",
+    "text": "{0}ゴールド、プレゼント！\n[その他]→[プレゼント確認]で受け取れます。"
+  },
+  {
+    "key": "LOGINBONUS_1_2",
+    "text": "フレンドポイントを{0}ポイント、プレゼント！\n[その他]→[プレゼント確認]で受け取れます。"
+  },
+  {
+    "key": "LOGINBONUS_1_3",
+    "text": "虹色水晶を{0}個、プレゼント！\n[その他]→[プレゼント確認]で受け取れます。"
+  },
+  {
+    "key": "LOGINBONUS_1_4",
+    "text": "「{0}」をプレゼント！\n[その他]→[プレゼント確認]で受け取れます。"
+  },
+  {
+    "key": "LOGINBONUS_2_1",
+    "text": "連続ログイン{0}回目！\n\nパーティメンバーのライフがアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_2",
+    "text": "連続ログイン{0}回目！\n\nパーティメンバーの攻撃力がアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_3",
+    "text": "連続ログイン{0}回目！\n\nパーティメンバーの回復力がアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_4",
+    "text": "連続ログイン{0}回目！\n\n進化合成時、進化ポイントボーナス！"
+  },
+  {
+    "key": "LOGINBONUS_2_5",
+    "text": "連続ログイン{0}回目！\n\nクエスト開始時のソウル値がアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_6",
+    "text": "連続ログイン{0}回目！\n\nクエスト中のクリティカル率がアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_7",
+    "text": "連続ログイン{0}回目！\n\nクエスト中の魔導書獲得確率がアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_8",
+    "text": "連続ログイン{0}回目！\n\nクエストクリア時の獲得ゴールドがアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_9",
+    "text": "連続ログイン{0}回目！\n\nクエストクリア時の獲得経験値がアップ！"
+  },
+  {
+    "key": "LOGINBONUS_2_10",
+    "text": "連続ログイン{0}回目！\n\nクエストクリア時の獲得FPがアップ！"
+  },
+  {
+    "key": "LOGINFRIEND_POINT_00",
+    "text": "{0}人の助っ人として活躍しました！\n\nフレンドポイントを「[d9419a]{1}[-]」獲得！！\nノーマルガチャをあと[29cca9]{2}回[-]プレイ可能"
+  },
+  {
+    "key": "LOGINNONUS_MONTHLY_1",
+    "text": "月間ログインボーナス"
+  },
+  {
+    "key": "LOGINNONUS_MONTHLY_2",
+    "text": "月間ログインボーナス　　 回目！"
+  },
+  {
+    "key": "UNITOVER_WIDEN",
+    "text": "拡張"
+  },
+  {
+    "key": "UNITOVER_MIX",
+    "text": "合成"
+  },
+  {
+    "key": "UNITOVER_SALE",
+    "text": "売却"
+  },
+  {
+    "key": "UNITOVER_DETAIL",
+    "text": "ユニットBOXがいっぱいです。\n\n[d9419a]{0}[-]人オーバーしています。\n\nクエストをプレイする前に\nユニットBOXを拡張するか合成、売却をして\nユニットBOXを空けてください。"
+  },
+  {
+    "key": "UNITOVER_LIMIT",
+    "text": "ユニットBOXがいっぱいです。\n\n新しいユニットを追加するには\nユニットBOXを拡張するか合成、売却をして\nユニットBOXを空けてください。"
+  },
+  {
+    "key": "TWITTER_MESSAGE",
+    "text": "私と一緒に『ロード・トゥ・ドラゴン』をプレイしよう！私のIDは{0}です！"
+  },
+  {
+    "key": "FACEBOOK_MESSAGE",
+    "text": "私と一緒に『ロード・トゥ・ドラゴン』をプレイしよう！私のIDは{0}です！"
+  },
+  {
+    "key": "MSG_POST_SUCCESS",
+    "text": "メッセージを投稿しました！"
+  },
+  {
+    "key": "MSG_POST_FAILED",
+    "text": "メッセージの投稿に失敗しました。"
+  },
+  {
+    "key": "BATTLE_RETURN",
+    "text": "クエスト中断データがあります。\\nクエスト途中から再開しますか？"
+  },
+  {
+    "key": "HELP_MSG_PANEL_USE",
+    "text": "パネルにタッチすると戦士たちは先に進むよ！戦士たちを先に進めて悪いモンスターを倒し、ボスであるドラゴンを目指そう！"
+  },
+  {
+    "key": "HELP_MSG_BATTLE",
+    "text": "モンスターのいる場所を通るとバトルが始まるよ。パネルをつなげて撃破しよう！モンスターを倒すとソウルを回復できるよ！"
+  },
+  {
+    "key": "HELP_MSG_SOUL",
+    "text": "ソウルはパネルにタッチして道を進んだり、バトル中に違う種類のパネルをつなげると減っていくよ！ソウルが０にならないよう気をつけよう！"
+  },
+  {
+    "key": "HELP_MSG_PANEL_TIES",
+    "text": "バトルでは同じ種類のパネルをたくさんつなげるほど強力な攻撃ができるよ！違う種類のパネルをつなげるとソウルが減るから注意してね！"
+  },
+  {
+    "key": "HELP_MSG_CRITICAL",
+    "text": "同じ種類のパネルを4枚以上つなげるとクリティカルのチャンス！なるべくたくさんのパネルをつなげて大ダメージを狙おう。"
+  },
+  {
+    "key": "HELP_MSG_ELEMENT",
+    "text": "モンスターには属性と弱点があるよ！火と水、光と闇は互いに弱点同士なんだ！"
+  },
+  {
+    "key": "HELP_MSG_COLOR",
+    "text": "色のついている地面では、その色に対応した属性のユニットを強化できるよ！上手く利用してボスとの戦いに備えよう！"
+  },
+  {
+    "key": "HELP_MSG_TREASURE",
+    "text": "フィールド上のたからばこをとると、ソウルやゴールドが手に入るよ！ときにはユニットが手に入ることも！？"
+  },
+  {
+    "key": "HELP_MSG_CHALLENGE",
+    "text": "各クエストに設定されている達成目標のことだよ！条件を満たしてクリアすると、ドラ助メダルがもらえるんだ！チャレンジ内容はクエストに出発する最終確認画面でチェックしてね！"
+  },
+  {
+    "key": "HELP_MSG_CHALLENGE_MEDAL",
+    "text": "チャレンジ目標をクリアすると手に入るメダルだよ！たくさん集めてエリア目標を達成しよう！"
+  },
+  {
+    "key": "HELP_MSG_CHALLENGE_AREA",
+    "text": "各エリアごとに設定されている、ドラ助メダルの目標個数のことだよ！目標を達成すると特別な報酬がもらえるんだ！！エリア目標はクエストセレクト画面でチェックしてね！"
+  },
+  {
+    "key": "HELP_MSG_UNIT_BASE",
+    "text": "ドラゴン討伐へ向かう4人の戦士のことだよ。モンスターを倒すと、ときどき新しいユニットをゲットできるんだ！"
+  },
+  {
+    "key": "HELP_MSG_UNIT_EDIT",
+    "text": "冒険に連れていくユニットを選んでチームを作ろう！チームによって戦略が変わるから、よく考えて選んでみよう！"
+  },
+  {
+    "key": "HELP_MSG_UNION",
+    "text": "手に入れたユニットを合成してレベルアップしよう。レベルが上がるとステータスが上昇するよ！"
+  },
+  {
+    "key": "HELP_MSG_UNION_DX",
+    "text": "デラックス合成をするとユニットのステータスが上昇するよ！合成できる回数は限られているから、ユニットのどこを強くするかよく考えて合成しよう！"
+  },
+  {
+    "key": "HELP_MSG_UNION_GREAT",
+    "text": "ベースユニットと同じ属性の素材ユニットを合成すると、合成が「大成功」することがあるよ！同じ属性がたくさんいると「大成功」の確率もアップ！"
+  },
+  {
+    "key": "HELP_MSG_UNION_GOT",
+    "text": "ベースユニットと同じ属性の素材ユニットを4体以上合成すると、合成が「超成功」することがあるよ！"
+  },
+  {
+    "key": "HELP_MSG_EVO",
+    "text": "ユニットのレベルを最大まで上げると進化合成ができるよ！進化ポイントを集めてユニットをさらに強く進化させよう！"
+  },
+  {
+    "key": "HELP_MSG_EVO_01",
+    "text": "素材ユニットはレベルを上げれば上げるほど、進化ポイントが上がっていくよ！レベルを上げて進化合成の素材にしよう！"
+  },
+  {
+    "key": "HELP_MSG_ULT_EVO_00",
+    "text": "この世界には「覚醒進化」ができるユニットが存在するんだ！モンスターを倒すと貰える「覚醒ポイント」を最大にする事で覚醒進化ができるようになるよ！"
+  },
+  {
+    "key": "HELP_MSG_SHIRO",
+    "text": "クリア後、残ったソウルは「よりしろ」というユニットに蓄えられるよ！レベルアップ合成に使って他のユニットを強化しよう！"
+  },
+  {
+    "key": "HELP_MSG_FAVERITE",
+    "text": "ユニット一覧でユニットにタッチするとお気に入り登録出来るよ！合成素材、売却の対象として選べないようにできるから、大切なユニットは登録しておこう！"
+  },
+  {
+    "key": "HELP_MSG_FRIEND",
+    "text": "ロード・トゥ・ドラゴンを遊んでいる他のプレイヤーと「フレンド」になろう！クエストにはフレンドのユニットを1人連れていけるんだ！"
+  },
+  {
+    "key": "HELP_MSG_FRIEND_POINT",
+    "text": "フレンドのユニットと冒険すると、フレンドポイントがもらえるよ！フレンドポイントはノーマルガチャで使えるよ！"
+  },
+  {
+    "key": "HELP_MSG_FRIEND_POST",
+    "text": "君とフレンドになりたい人から、フレンドのお誘いがくるよ！承認するとフレンドが増えてフレンドポイントが貯まりやすくなるよ！"
+  },
+  {
+    "key": "HELP_MSG_FRIEND_INVITE",
+    "text": "フレンド申請中のユーザーのチェックと申請のとりけしができるよ。"
+  },
+  {
+    "key": "HELP_MSG_FRIEND_SERCH",
+    "text": "IDを教え合って、特定のプレイヤーとフレンドになることができるよ。友達と協力してクリアを目指そう！"
+  },
+  {
+    "key": "HELP_MSG_EVENT",
+    "text": "期間限定のステージに挑戦できるよ！ここでしか手に入らないユニットもあるから、こまめにチェックしてみよう！"
+  },
+  {
+    "key": "HELP_MSG_SP_AREA",
+    "text": "特別なクエストがあつまるエリアだよ！一定以上のランクになったり、特定のクエストをクリアしていたりすることで挑戦出来るようになるんだ！"
+  },
+  {
+    "key": "HELP_MSG_DELETE",
+    "text": "アプリを削除すると、ゲーム内の一部のデータが消えてしまうよ！気をつけて！"
+  },
+  {
+    "key": "HELP_MSG_DATA_TRANS",
+    "text": "別の機種へデータを移したい時は、移行元の機種で発行したパスワードとユーザーIDを移行先の機種で入力しよう！\\n詳細はサポートサイトで確認してね！"
+  },
+  {
+    "key": "HELP_MSG_SP_PANEL",
+    "text": "パネルスキルを持つユニットがパーティにいると、光をまとったスペシャルパネルが補給されることがあるんだ！スペシャルパネルにタッチすればパネルスキルの効果が発動するよ！"
+  },
+  {
+    "key": "HELP_MENU_RULE",
+    "text": "ゲームルール"
+  },
+  {
+    "key": "HELP_MENU_UNIT",
+    "text": "ユニットについて"
+  },
+  {
+    "key": "HELP_MENU_OTHER",
+    "text": "そのほか"
+  },
+  {
+    "key": "HELP_BTN_PANEL_USE",
+    "text": "パネルの使い方"
+  },
+  {
+    "key": "HELP_BTN_BATTLE",
+    "text": "バトル"
+  },
+  {
+    "key": "HELP_BTN_SOUL",
+    "text": "ソウル"
+  },
+  {
+    "key": "HELP_BTN_PANEL_TIES",
+    "text": "パネルをつなぐ"
+  },
+  {
+    "key": "HELP_BTN_CRITICAL",
+    "text": "クリティカル"
+  },
+  {
+    "key": "HELP_BTN_ELEMENT",
+    "text": "属性相性"
+  },
+  {
+    "key": "HELP_BTN_COLOR",
+    "text": "色のついた地面"
+  },
+  {
+    "key": "HELP_BTN_TREASURE",
+    "text": "たからばこ"
+  },
+  {
+    "key": "HELP_BTN_CHALLENGE",
+    "text": "チャレンジ目標"
+  },
+  {
+    "key": "HELP_BTN_CHALLENGE_MEDAL",
+    "text": "ドラ助メダルとは"
+  },
+  {
+    "key": "HELP_BTN_CHALLENGE_AREA",
+    "text": "エリア目標"
+  },
+  {
+    "key": "HELP_BTN_UNIT_BASE",
+    "text": "ユニット"
+  },
+  {
+    "key": "HELP_BTN_UNIT_EDIT",
+    "text": "ユニット編成"
+  },
+  {
+    "key": "HELP_BTN_UNION",
+    "text": "レベルアップ合成"
+  },
+  {
+    "key": "HELP_BTN_UNION_DX",
+    "text": "デラックス合成"
+  },
+  {
+    "key": "HELP_BTN_UNION_GREAT",
+    "text": "合成ボーナス１"
+  },
+  {
+    "key": "HELP_BTN_UNION_GOT",
+    "text": "合成ボーナス２"
+  },
+  {
+    "key": "HELP_BTN_EVO",
+    "text": "進化合成１"
+  },
+  {
+    "key": "HELP_BTN_EVO_01",
+    "text": "進化合成２"
+  },
+  {
+    "key": "HELP_BTN_ULT_EVO_00",
+    "text": "覚醒進化"
+  },
+  {
+    "key": "HELP_BTN_SHIRO",
+    "text": "よりしろ"
+  },
+  {
+    "key": "HELP_BTN_FAVERITE",
+    "text": "お気に入り"
+  },
+  {
+    "key": "HELP_BTN_FRIEND",
+    "text": "フレンドとは"
+  },
+  {
+    "key": "HELP_BTN_FRIEND_POINT",
+    "text": "フレンドポイント"
+  },
+  {
+    "key": "HELP_BTN_FRIEND_POST",
+    "text": "フレンド通知"
+  },
+  {
+    "key": "HELP_BTN_FRIEND_INVITE",
+    "text": "フレンド申請"
+  },
+  {
+    "key": "HELP_BTN_FRIEND_SERCH",
+    "text": "フレンド検索"
+  },
+  {
+    "key": "HELP_BTN_EVENT",
+    "text": "イベントエリア"
+  },
+  {
+    "key": "HELP_BTN_SP_AREA",
+    "text": "SPエリア"
+  },
+  {
+    "key": "HELP_BTN_DELETE",
+    "text": "アプリ削除"
+  },
+  {
+    "key": "HELP_BTN_DATA_TRANS",
+    "text": "機種移行"
+  },
+  {
+    "key": "HELP_BTN_SP_PANEL",
+    "text": "スペシャルパネル"
+  },
+  {
+    "key": "REVIEW_BEFORE",
+    "text": "レビューを書いて\n[d9419a]虹色水晶：1個[-]をゲット！\n※初回レビューのみとなります。"
+  },
+  {
+    "key": "REVIEW_AFTER",
+    "text": "レビューありがとうございます！\n[d9419a]虹色水晶：1個[-]をプレゼント！！\n※プレゼント確認で受け取れます。"
+  },
+  {
+    "key": "INDUCTION_FIRST",
+    "text": "「ブレイブリーデフォルト\nフォーザ・シークウェル」の\n公式サイトを見て[d9419a]虹色水晶[-]をGET！！\n※初回閲覧時のみとなります。"
+  },
+  {
+    "key": "INDUCTION_AFTER",
+    "text": "「ブレイブリーデフォルト\nフォーザ・シークウェル」公式サイトの\nご閲覧ありがとうございます！\n[d9419a]虹色水晶：1個[-]をプレゼント！！\n※プレゼント確認で受け取れます。"
+  },
+  {
+    "key": "INDUCTION_SECOND",
+    "text": "「ブレイブリーデフォルト\nフォーザ・シークウェル」の\n公式サイトを閲覧しますか？"
+  },
+  {
+    "key": "TITLE_UUID_DELETE",
+    "text": "古い環境のプレイデータが端末に残っています。プレイデータを削除し、新規データを作成します。"
+  },
+  {
+    "key": "TITLE_NO_SD_CARD",
+    "text": "「ご注意」\nお使いの端末ではSDカードを確認できません。\nアプリを消去した際にセーブデータも\n合わせてきえてしまいますのでご注意ください。"
+  },
+  {
+    "key": "TITLE_USERID_LABEL",
+    "text": "ユーザーID : {0}"
+  },
+  {
+    "key": "ETC_MOVE_PASS_FAILD",
+    "text": "ユーザーIDか\nパスワードに誤りがあります。"
+  },
+  {
+    "key": "ETC_MOVE_PASS_SUCCESS",
+    "text": "データ移行に成功しました。\nタイトルに戻ります。"
+  },
+  {
+    "key": "ETC_REQ_PASS_SUCCESS",
+    "text": "パスワードが発行されました。"
+  },
+  {
+    "key": "ETC_REQ_PASS_FAILD",
+    "text": "パスワードは発行されませんでした。"
+  },
+  {
+    "key": "ETC_MOVE_DATA_ALREADY",
+    "text": "データ移行を行いましたので、\n新規ユーザーの作成をします。"
+  },
+  {
+    "key": "ETC_MOVE_DATA_ERR",
+    "text": "{0}から{1}への\nデータ移行はできません。"
+  },
+  {
+    "key": "ETC_MOVE_DATA_ALERT",
+    "text": "セーブデータ移行に使用するIDとパスワードは必ず控えを取っておいてください。"
+  },
+  {
+    "key": "DLG_GET_LAST_DATA",
+    "text": "最新データを取得します。\nよろしいですか？"
+  },
+  {
+    "key": "DLG_END_LAST_DATA",
+    "text": "最新データに更新しました。"
+  },
+  {
+    "key": "SP_EVENT_LOCK_01",
+    "text": "[d9419a]「{0}体」[-]の亡霊撃破で\nクエストがプレイ可能になります。"
+  },
+  {
+    "key": "SP_EVENT_LOCK_02",
+    "text": "現在：[29cca9]{0}体[-]撃破！！"
+  },
+  {
+    "key": "SP_EVENT_LOCK_03",
+    "text": "※塔の中の魔導書から出現する\n「亡霊」を撃破して扉を開けよう！"
+  },
+  {
+    "key": "SP_EVENT_UNLOCK",
+    "text": "「{0}」体の亡霊撃破達成！\nクエストがプレイ可能となりました！"
+  },
+  {
+    "key": "SP_EVENT_LOCK_NAME",
+    "text": "？？？？"
+  },
+  {
+    "key": "SP_EVENT_LOCK_NUM",
+    "text": "？？"
+  },
+  {
+    "key": "HELPER_RELOADING",
+    "text": "助っ人更新中"
+  },
+  {
+    "key": "DLG_DINOSAUR_INST_QUEST",
+    "text": "このクエストは\n[d9419a]６ユニット[-]のパーティで挑む\n特別なクエストです。"
+  },
+  {
+    "key": "DLG_DINOSAUR_INST_PARTY",
+    "text": "あと{0}体選んでください"
+  },
+  {
+    "key": "DLG_DINOSAUR_INST_CONFIRM",
+    "text": "２ユニットをパーティに追加します。\n\nユニットがセットされていない\n[d9419a]空き枠部分(emptyマーク)[-]にタッチし\nユニットを選択してください。"
+  },
+  {
+    "key": "DLG_ERR_UNDER_UNIT",
+    "text": "このクエストは\n[d9419a]５ユニット[-]を所持していない状態では\nプレイすることができません。"
+  },
+  {
+    "key": "DLG_ERR_UNDER_SELECT",
+    "text": "全てのユニットが設定されていません。\nユニットがセットされていない\n[d9419a]空き枠部分(emptyマーク)[-]にタッチし\nユニットを選択してください。"
+  },
+  {
+    "key": "DLG_AWAKE_TITLE",
+    "text": "覚醒pt"
+  },
+  {
+    "key": "DLG_AWAKE_NOW",
+    "text": "現在の覚醒pt\n"
+  },
+  {
+    "key": "DLG_AWAKE_COMPLITE",
+    "text": "覚醒ptMAX！覚醒進化可能！"
+  },
+  {
+    "key": "DLG_AWAKE_INFO",
+    "text": "※覚醒ptがMAXになると\n「覚醒進化」が可能になります。\n覚醒ptはエネミーを撃破する事で溜まります。"
+  },
+  {
+    "key": "DLG_AWAKE_SELECT",
+    "text": "進化先を選択してください！"
+  },
+  {
+    "key": "DLG_NOAH_OFFER_INFO",
+    "text": "アプリをインストールし起動することで\n虹色水晶がプレゼントされます！\n\n※通信環境によってプレゼントに\n時間が掛かる場合があります。"
+  },
+  {
+    "key": "DLG_NOAH_OFFER_ERROR",
+    "text": "通信エラーが発生しました。\n通信状況をご確認のうえ\nリトライしてください。"
+  },
+  {
+    "key": "NOAH_QUARTZ_NAME",
+    "text": "アプリインストールで\n虹色水晶をもらう"
+  },
+  {
+    "key": "NOAH_QUARTZ_PRICE",
+    "text": "0～"
+  },
+  {
+    "key": "DLG_AGECOMF_TITLE",
+    "text": "年齢を選択してください。"
+  },
+  {
+    "key": "DLG_AGECOMF_MESSAGE",
+    "text": "あなたの年齢（ねんれい）によって\n「虹色水晶」を買える金額（きんがく）が\n決まっています。\n必ず正しい年齢を選んでください。"
+  },
+  {
+    "key": "DLG_AGECOMF_MES_16UNDER",
+    "text": "→１ヶ月　5,000円まで"
+  },
+  {
+    "key": "DLG_AGECOMF_MES_16-19",
+    "text": "→１ヶ月　20,000円まで"
+  },
+  {
+    "key": "DLG_AGECOMF_MES_20OVER",
+    "text": "→制限なし"
+  },
+  {
+    "key": "DLG_AGECOMF_BTN_16UNDER",
+    "text": "16歳未満"
+  },
+  {
+    "key": "DLG_AGECOMF_BTN_16-19",
+    "text": "16歳～19歳"
+  },
+  {
+    "key": "DLG_AGECOMF_BTN_20OVER",
+    "text": "20歳以上"
+  },
+  {
+    "key": "DLG_MINORITY_PAYMENT",
+    "text": "[d9419a]未成年の方へ[-]\n\nかならずお父さんやお母さんの\nおゆるしをもらってから\n買ってください。\n\n\nおゆるしはもらいましたか？"
+  },
+  {
+    "key": "DLG_PURCHASE_CEILING_OVER",
+    "text": "今月の購入限度額を超えているため、\n購入することが出来ません。"
+  },
+  {
+    "key": "DLG_QUARTZ_INFOMATION",
+    "text": "[d9419a]虹色水晶の確認[-]\n\n現在保有している虹色水晶:[d9419a]{0}[-]個\n  ※虹色水晶は無料配布分から消費されます。\n\n有料購入分の虹色水晶：[d9419a]{1}[-]個\n無料配布分の虹色水晶：[d9419a]{2}[-]個"
+  }
+]

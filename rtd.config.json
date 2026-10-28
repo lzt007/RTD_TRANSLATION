@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "project": "RTD_TRANSLATION",
+  "paths": {
+    "csv": "translations.csv",
+    "output": "dist/translation.json",
+    "sources": "sources",
+    "locations": "metadata/locations.json",
+    "coverage": "metadata/coverage.json"
+  }
+}

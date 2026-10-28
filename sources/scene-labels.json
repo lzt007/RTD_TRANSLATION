@@ -1,0 +1,7328 @@
+[
+  {
+    "scene": "level0",
+    "path_id": 261,
+    "offset": 24064,
+    "mText": "OK"
+  },
+  {
+    "scene": "level0",
+    "path_id": 267,
+    "offset": 24592,
+    "mText": "동의 안함\r"
+  },
+  {
+    "scene": "level0",
+    "path_id": 269,
+    "offset": 24784,
+    "mText": "TOUCH TO START"
+  },
+  {
+    "scene": "level0",
+    "path_id": 277,
+    "offset": 25608,
+    "mText": "제 1 조  [목적]\r\n본 약관은 (주)네오싸이언(이하 ‘회사’)에서 제공하는 모바일 서비스(이하 ‘서비스’)를 이용하고자 하는 이용자와 회사간에 ..."
+  },
+  {
+    "scene": "level0",
+    "path_id": 280,
+    "offset": 26128,
+    "mText": "あなたのニックネームを入力してね！"
+  },
+  {
+    "scene": "level0",
+    "path_id": 285,
+    "offset": 26600,
+    "mText": "Loading..."
+  },
+  {
+    "scene": "level0",
+    "path_id": 286,
+    "offset": 26768,
+    "mText": "2012/09/30"
+  },
+  {
+    "scene": "level0",
+    "path_id": 291,
+    "offset": 27320,
+    "mText": "運営からのお知らせ"
+  },
+  {
+    "scene": "level0",
+    "path_id": 296,
+    "offset": 27824,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level0",
+    "path_id": 301,
+    "offset": 28496,
+    "mText": "VerX.X.X.X"
+  },
+  {
+    "scene": "level0",
+    "path_id": 305,
+    "offset": 28912,
+    "mText": "로드투드래곤\r\n이용약관 및 개인정보취급방침 동의\r\n(최종 사용자 사용 허락 계약서)"
+  },
+  {
+    "scene": "level0",
+    "path_id": 308,
+    "offset": 29376,
+    "mText": "이용약관"
+  },
+  {
+    "scene": "level0",
+    "path_id": 317,
+    "offset": 30280,
+    "mText": "■名前入力の注意事項■\n\n全ての文字を表示できない場合があります。\r\nまた、公序良俗に反した表現や、\r\n個人情報の記載などは行わないようにお願いします。\r"
+  },
+  {
+    "scene": "level0",
+    "path_id": 321,
+    "offset": 30888,
+    "mText": "ユーザーID : XXX,XXX,XXX"
+  },
+  {
+    "scene": "level0",
+    "path_id": 325,
+    "offset": 31320,
+    "mText": "ロード・トゥ・ドラゴンの世界へようこそ！\r\nボクの名前はドラ助っていうんだ！\r\nこれから冒険の仕方についてお話させてもらうね。\n\nさっそくだけど、まずキミの名前をおしえてよ！"
+  },
+  {
+    "scene": "level0",
+    "path_id": 326,
+    "offset": 31728,
+    "mText": "동의\r"
+  },
+  {
+    "scene": "level0",
+    "path_id": 327,
+    "offset": 31888,
+    "mText": "약관 확인하기\r"
+  },
+  {
+    "scene": "level0",
+    "path_id": 337,
+    "offset": 32768,
+    "mText": "あああああああああああああ"
+  },
+  {
+    "scene": "level0",
+    "path_id": 339,
+    "offset": 33056,
+    "mText": "개인정보취급방침"
+  },
+  {
+    "scene": "level0",
+    "path_id": 340,
+    "offset": 33232,
+    "mText": "OK"
+  },
+  {
+    "scene": "level0",
+    "path_id": 344,
+    "offset": 33552,
+    "mText": "99%"
+  },
+  {
+    "scene": "level0",
+    "path_id": 349,
+    "offset": 34032,
+    "mText": "㈜네오싸이언(이하 \"회사\"라 함)은 이용자들의 개인정보를 매우 중요시하며, 통신비밀보호법, 전기통신사업법, 정보통신망 이용촉진 및 정보보호 등에 ..."
+  },
+  {
+    "scene": "level0",
+    "path_id": 356,
+    "offset": 35064,
+    "mText": "약관 확인하기\r"
+  },
+  {
+    "scene": "level0",
+    "path_id": 358,
+    "offset": 35336,
+    "mText": ""
+  },
+  {
+    "scene": "level0",
+    "path_id": 359,
+    "offset": 35488,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level0",
+    "path_id": 361,
+    "offset": 35752,
+    "mText": "VerX.X.X.X"
+  },
+  {
+    "scene": "level1",
+    "path_id": 223,
+    "offset": 21648,
+    "mText": "2"
+  },
+  {
+    "scene": "level1",
+    "path_id": 224,
+    "offset": 21808,
+    "mText": "2"
+  },
+  {
+    "scene": "level1",
+    "path_id": 241,
+    "offset": 23368,
+    "mText": "RTDの世界へようこそ。\n\nさっそく用意した4人の中から\r\n1人をお選びください。\r\n"
+  },
+  {
+    "scene": "level1",
+    "path_id": 245,
+    "offset": 23896,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level1",
+    "path_id": 248,
+    "offset": 24264,
+    "mText": "あなたの選んだ戦士に\r2人のお供をつけました。\r\n\r\nこの者たちでよろしいですか？\r\n"
+  },
+  {
+    "scene": "level1",
+    "path_id": 252,
+    "offset": 25320,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level1",
+    "path_id": 262,
+    "offset": 26824,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level1",
+    "path_id": 266,
+    "offset": 28024,
+    "mText": "2"
+  },
+  {
+    "scene": "level1",
+    "path_id": 268,
+    "offset": 28280,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level1",
+    "path_id": 269,
+    "offset": 28440,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level1",
+    "path_id": 270,
+    "offset": 28600,
+    "mText": "OK"
+  },
+  {
+    "scene": "level1",
+    "path_id": 271,
+    "offset": 28760,
+    "mText": "2"
+  },
+  {
+    "scene": "level1",
+    "path_id": 273,
+    "offset": 29008,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level1",
+    "path_id": 284,
+    "offset": 30008,
+    "mText": "いいえ"
+  },
+  {
+    "scene": "level1",
+    "path_id": 286,
+    "offset": 30264,
+    "mText": "さぁこれで準備が整いました。\n早速外の世界に行ってみましょう！"
+  },
+  {
+    "scene": "level1",
+    "path_id": 288,
+    "offset": 30608,
+    "mText": "最後にクエストに出るときは、\n4人目の仲間を選ぶのですが・・・\n今回は私の信頼できる\n【ユニット名】\nをお貸しいたしますね。\n"
+  },
+  {
+    "scene": "level1",
+    "path_id": 291,
+    "offset": 31064,
+    "mText": "ユニットの説明"
+  },
+  {
+    "scene": "level1",
+    "path_id": 294,
+    "offset": 31424,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level1",
+    "path_id": 298,
+    "offset": 32368,
+    "mText": "OK"
+  },
+  {
+    "scene": "level1",
+    "path_id": 303,
+    "offset": 32904,
+    "mText": "決定！"
+  },
+  {
+    "scene": "level1",
+    "path_id": 305,
+    "offset": 33168,
+    "mText": "はい"
+  },
+  {
+    "scene": "level1",
+    "path_id": 312,
+    "offset": 33856,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6279,
+    "offset": 917856,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6285,
+    "offset": 918488,
+    "mText": "レビューする"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6290,
+    "offset": 919016,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6291,
+    "offset": 919176,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6294,
+    "offset": 919488,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6297,
+    "offset": 919872,
+    "mText": "更新"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6300,
+    "offset": 920192,
+    "mText": "4th"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6307,
+    "offset": 920856,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6309,
+    "offset": 921112,
+    "mText": "地名"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6310,
+    "offset": 921272,
+    "mText": "アクティブスキル名"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6312,
+    "offset": 921552,
+    "mText": "受信日:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6315,
+    "offset": 921912,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6320,
+    "offset": 922456,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6321,
+    "offset": 922616,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6322,
+    "offset": 922792,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6323,
+    "offset": 922952,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6324,
+    "offset": 923112,
+    "mText": "決定"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6326,
+    "offset": 923328,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6328,
+    "offset": 923584,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6329,
+    "offset": 923744,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6331,
+    "offset": 924008,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6332,
+    "offset": 924168,
+    "mText": "FP[e33a76]5[-]ptゲット！\n（現在値/上限値）"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6333,
+    "offset": 924376,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6334,
+    "offset": 924536,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6335,
+    "offset": 924696,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6337,
+    "offset": 924968,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6339,
+    "offset": 925224,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 6348,
+    "offset": 926696,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6350,
+    "offset": 926944,
+    "mText": "999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6352,
+    "offset": 927200,
+    "mText": "フレンドポイント:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6355,
+    "offset": 927576,
+    "mText": "★★★★★★★"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6358,
+    "offset": 927936,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6360,
+    "offset": 928208,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6362,
+    "offset": 928464,
+    "mText": "12時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6363,
+    "offset": 928624,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6370,
+    "offset": 929320,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6372,
+    "offset": 930248,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6376,
+    "offset": 930800,
+    "mText": "[ウィザリの猟犬]エドガー"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6377,
+    "offset": 930992,
+    "mText": "強化限界"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6378,
+    "offset": 931160,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6381,
+    "offset": 932040,
+    "mText": "「力のよりしろ」をプレゼント！！\r"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6382,
+    "offset": 932248,
+    "mText": "更新"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6386,
+    "offset": 932680,
+    "mText": "フレンド検索"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6389,
+    "offset": 933000,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6390,
+    "offset": 933160,
+    "mText": "99999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6394,
+    "offset": 933576,
+    "mText": "30"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6396,
+    "offset": 933832,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6400,
+    "offset": 934296,
+    "mText": "最終ログイン:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6401,
+    "offset": 934472,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6406,
+    "offset": 934992,
+    "mText": "HP"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6407,
+    "offset": 935152,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6409,
+    "offset": 935376,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6410,
+    "offset": 935536,
+    "mText": "得られる経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6413,
+    "offset": 935912,
+    "mText": "選択"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6416,
+    "offset": 936232,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6417,
+    "offset": 936392,
+    "mText": "バトル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6422,
+    "offset": 936880,
+    "mText": "経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6423,
+    "offset": 937048,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6424,
+    "offset": 937208,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6428,
+    "offset": 937664,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6429,
+    "offset": 937824,
+    "mText": "パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6430,
+    "offset": 938144,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6432,
+    "offset": 938408,
+    "mText": "ストーリー"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6439,
+    "offset": 939696,
+    "mText": "色のついた地面"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6443,
+    "offset": 940120,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6445,
+    "offset": 940384,
+    "mText": "HP"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6446,
+    "offset": 940544,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6447,
+    "offset": 940720,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6448,
+    "offset": 940880,
+    "mText": "合成金額"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6449,
+    "offset": 941048,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6450,
+    "offset": 941208,
+    "mText": "\r\nExecutive Producer\r\n\r\n    Takuma Endo\r\n\r\nProducer\r\n\r\n    Eisuke Yokoyama\r\n\r\nDirector\r\n\t\r\n    Keisuke Miyauchi\r\n\r\nGame Designer\r\n\r\n    Shingo Sakurai\r\n    Chihiro Matsunobe (GTD)\r\n    Dai Ooyama\r\n    Mina Nakai\r\n    Yusuke Ochi\r\n\r\nTechnical Director\r\n\r\n    Kohei Kamata\r\n\r\nApplication Programmer\r\n\r\n    Monta Miki\r\n    Yuji Okazaki\r\n    Takafumi Ogihara\r\n    Kazuki Iida (Rideon)\r\n    Yosuke Hirata\r\n    Naoki Matsuo (Pegasus Japan)\r\n    Masaki Fukuda\r\n\r\nServer Engineer\r\n\r\n    Taketsugu Yamamoto\r\n    Kazuhiro Hanai\r\n    Satoshi Hasegawa\r\n    Katsuya Sato\r\n\r\nLead Designer\r\n\r\n    Ryuta Uchiyama\r\n\r\nDesigner\r\n\r\n    Hitomi Furuta\r\n    Akihiko Otsuka\r\n    Kosuke Shikano\r\n    Mai Nakashita\r\n    Jun Nishiono\r\n    Kohki Tanabe\r\n    Yoshiko Takahashi\r\n    Kaori Nishimura(SiliconStudio)\r\n    Yuki Suwa(GTD)\r\n    Akiko Iwamatsu\r\n    Ryuji Ito (tribe)\r\n    Aya Hirano（Zerodiv）\r\n\r\nSound\r\n\r\n    Toshiko Tasaki\r\n\r\nEffect Designer\r\n\r\n    Shinichiro Tanimoto\r\n\r\nTechnical Support\r\n\r\n    Yumiko Sugiyama\r\n    Madoka Nakamura\r\n\r\nProject Manager\r\n\r\n    Masaru Asano\r\n    Masahiro Kumono\r\n\r\nCo-Producer 　\r\n\r\n    Hiroo Yamada\r\n\r\nQA Lead\r\n\r\n    Hisashi Mineta\r\n    Shuichiro Takagi\r\n\r\nWeb Designer\r\n\r\n    Yusuke Tanimoto\r\n\r\nPromotion\r\n\r\n    Inaho Hirata\r\n    Nobuhiko Nakamura\r\n    Hiromichi Watanabe\r\n    Hiroaki Kamata\r\n\r\nSpecial Thanks\r\n\r\n    Shin Matsunami\r\n    Isao Kikuchi\r\n    Yuta Sugawara\r\n    Masato Hayashi\r\n    Ichiryo Utsunomiya\r\n    Hiromasa Suzuki（Zerodiv）\r\n    Takashi Iwama\r\n    Tomohiro Tsuchida\r\n    PrincessPuntTeam (GungHo)\r\n\r\n    ALL ACQUIRE STAFF\r\n\r\n©2012-2014 ACQUIRE Corp. \r\nAll Rights Reserved."
+  },
+  {
+    "scene": "level2",
+    "path_id": 6451,
+    "offset": 942976,
+    "mText": "レベルアップ合成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6452,
+    "offset": 943152,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6453,
+    "offset": 943312,
+    "mText": "ランクアップ！！！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6459,
+    "offset": 943992,
+    "mText": "クリアボーナス"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6461,
+    "offset": 944264,
+    "mText": "20"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6463,
+    "offset": 944520,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6466,
+    "offset": 944880,
+    "mText": "経験値2倍"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6469,
+    "offset": 945240,
+    "mText": "獲得EXP　　　:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6472,
+    "offset": 945616,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6474,
+    "offset": 946440,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6476,
+    "offset": 946696,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6477,
+    "offset": 946880,
+    "mText": "Helper"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6478,
+    "offset": 947040,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6479,
+    "offset": 947200,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6481,
+    "offset": 947464,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6486,
+    "offset": 947936,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6487,
+    "offset": 948096,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6490,
+    "offset": 949024,
+    "mText": "フレンド最大枠上昇アナウンス"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6491,
+    "offset": 949224,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6492,
+    "offset": 949416,
+    "mText": "コ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6494,
+    "offset": 949680,
+    "mText": "999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6495,
+    "offset": 949840,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6501,
+    "offset": 950456,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6502,
+    "offset": 950616,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6506,
+    "offset": 951048,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6507,
+    "offset": 951216,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6509,
+    "offset": 952064,
+    "mText": "10,000,000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6511,
+    "offset": 952272,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6512,
+    "offset": 952432,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6513,
+    "offset": 952592,
+    "mText": "デラックス合成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6523,
+    "offset": 953992,
+    "mText": "フリーデル・シュトローム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6525,
+    "offset": 954848,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6527,
+    "offset": 955072,
+    "mText": "AP最大値上昇アナウンス"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6529,
+    "offset": 955920,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6531,
+    "offset": 956288,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6532,
+    "offset": 956464,
+    "mText": "決定"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6534,
+    "offset": 956728,
+    "mText": "タイトルに戻る"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6538,
+    "offset": 957136,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6539,
+    "offset": 957296,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6544,
+    "offset": 957768,
+    "mText": "イベント/アップデート情報"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6546,
+    "offset": 958056,
+    "mText": "最終ログイン:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6548,
+    "offset": 958896,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6549,
+    "offset": 959072,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6554,
+    "offset": 959600,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6555,
+    "offset": 959760,
+    "mText": "アクティブスキル説明アクティブスキル説明アクティブスキル説明アクティブスキル説明アクティブスキル説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6556,
+    "offset": 960064,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6560,
+    "offset": 961080,
+    "mText": "12時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6561,
+    "offset": 961240,
+    "mText": "ゲーム内の様々なところでご利用できる\n便利なアイテムです"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6562,
+    "offset": 961480,
+    "mText": "残りのソウルをよりしろの経験値に変換します"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6563,
+    "offset": 961696,
+    "mText": "?"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6564,
+    "offset": 961856,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6566,
+    "offset": 962104,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6571,
+    "offset": 962584,
+    "mText": "12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6572,
+    "offset": 962744,
+    "mText": "最大Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6576,
+    "offset": 964328,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6577,
+    "offset": 964488,
+    "mText": "100フレンドポイントで1プレイ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6579,
+    "offset": 964744,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6581,
+    "offset": 965000,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6582,
+    "offset": 965192,
+    "mText": "99,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6584,
+    "offset": 965432,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6585,
+    "offset": 965592,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6587,
+    "offset": 965856,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6590,
+    "offset": 966208,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6593,
+    "offset": 966560,
+    "mText": "ストーリー"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6594,
+    "offset": 966728,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6595,
+    "offset": 966888,
+    "mText": "合成金額"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6599,
+    "offset": 967360,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6601,
+    "offset": 967616,
+    "mText": "レベルアップ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6602,
+    "offset": 967792,
+    "mText": "HP"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6603,
+    "offset": 967952,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6604,
+    "offset": 968112,
+    "mText": "パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6605,
+    "offset": 968432,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6606,
+    "offset": 968592,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6608,
+    "offset": 968864,
+    "mText": "！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6610,
+    "offset": 969120,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6618,
+    "offset": 969872,
+    "mText": "合成!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6619,
+    "offset": 970032,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6620,
+    "offset": 970192,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6622,
+    "offset": 970448,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6628,
+    "offset": 971048,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6633,
+    "offset": 971488,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6634,
+    "offset": 971648,
+    "mText": "経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6635,
+    "offset": 971816,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6636,
+    "offset": 971976,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6637,
+    "offset": 972136,
+    "mText": "Twitter"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6638,
+    "offset": 972296,
+    "mText": "チャレンジ目標"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6639,
+    "offset": 972472,
+    "mText": "ソウル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6643,
+    "offset": 972928,
+    "mText": "アズール湿地帯"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6645,
+    "offset": 973160,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6647,
+    "offset": 973984,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6648,
+    "offset": 974144,
+    "mText": "素材ユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6650,
+    "offset": 974416,
+    "mText": "強化限界"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6652,
+    "offset": 974680,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6655,
+    "offset": 975608,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6657,
+    "offset": 975880,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6658,
+    "offset": 976040,
+    "mText": "チャレンジ目標内容が入ります。\nチャレンジ目標内容が入ります。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6661,
+    "offset": 976464,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 6662,
+    "offset": 976616,
+    "mText": "「そのほか」→「プレゼント確認」\nから受け取ることが出来ます。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6664,
+    "offset": 976960,
+    "mText": "Menu Title"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6665,
+    "offset": 977128,
+    "mText": "検索結果"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6667,
+    "offset": 977384,
+    "mText": "チャレンジ目標内容が入ります。\nチャレンジ目標内容が入ります。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6670,
+    "offset": 977832,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6676,
+    "offset": 978424,
+    "mText": "フレンド解除"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6677,
+    "offset": 978600,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6685,
+    "offset": 980000,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6686,
+    "offset": 980160,
+    "mText": "レビューページはこちら！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6687,
+    "offset": 980352,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6689,
+    "offset": 980616,
+    "mText": "パーティスキル名"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6691,
+    "offset": 980840,
+    "mText": "999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6692,
+    "offset": 981000,
+    "mText": "ドラ助メダルとは"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6697,
+    "offset": 981488,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 6700,
+    "offset": 981784,
+    "mText": "[e33a76]虹色水晶 1個[-]\nプレゼントとして送ります！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6703,
+    "offset": 982192,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6704,
+    "offset": 982352,
+    "mText": "HP"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6706,
+    "offset": 983176,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6714,
+    "offset": 983928,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6717,
+    "offset": 984280,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6720,
+    "offset": 985472,
+    "mText": "フレンド検索"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6721,
+    "offset": 985648,
+    "mText": "選択数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6724,
+    "offset": 986160,
+    "mText": "10,000,000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6725,
+    "offset": 986328,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6726,
+    "offset": 986496,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6729,
+    "offset": 986848,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6730,
+    "offset": 987008,
+    "mText": "Helper"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6732,
+    "offset": 987264,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6733,
+    "offset": 987424,
+    "mText": "FP[e33a76]10[-]ptゲット！\n（現在値/上限値）"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6735,
+    "offset": 987720,
+    "mText": "進化先を選択してください！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6741,
+    "offset": 988320,
+    "mText": "FaceBook"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6742,
+    "offset": 988480,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6744,
+    "offset": 988744,
+    "mText": "合成ボーナス１"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6746,
+    "offset": 989016,
+    "mText": "ユニットの所持数上限を拡張できます"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6747,
+    "offset": 989224,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6749,
+    "offset": 989488,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6752,
+    "offset": 989816,
+    "mText": "得られる進化pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6756,
+    "offset": 990280,
+    "mText": "100,000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6757,
+    "offset": 990440,
+    "mText": "「力のよりしろ」\n       をGET！！\r\n"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6758,
+    "offset": 990640,
+    "mText": "一括申請取消"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6759,
+    "offset": 990816,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6760,
+    "offset": 990976,
+    "mText": "フレンドになるとメリットが増えますよ！\nフレンド申請しますか？"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6761,
+    "offset": 991224,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6765,
+    "offset": 991672,
+    "mText": "属性相性"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6766,
+    "offset": 991840,
+    "mText": "チャレンジ目標"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6777,
+    "offset": 993344,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6778,
+    "offset": 993504,
+    "mText": "最終ログイン:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6781,
+    "offset": 993808,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6782,
+    "offset": 993968,
+    "mText": "フレンド解除"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6785,
+    "offset": 994336,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6789,
+    "offset": 996088,
+    "mText": "確認"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6793,
+    "offset": 996480,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6796,
+    "offset": 996808,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6800,
+    "offset": 997136,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6801,
+    "offset": 997296,
+    "mText": "進化pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6802,
+    "offset": 997456,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6803,
+    "offset": 997616,
+    "mText": "ユーザーの名前あああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6805,
+    "offset": 998472,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6807,
+    "offset": 998744,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6808,
+    "offset": 998904,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6811,
+    "offset": 999264,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6815,
+    "offset": 999680,
+    "mText": "経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6818,
+    "offset": 1000040,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6819,
+    "offset": 1000200,
+    "mText": "9,999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6821,
+    "offset": 1000456,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6824,
+    "offset": 1000832,
+    "mText": "PARTY"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6825,
+    "offset": 1000992,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6827,
+    "offset": 1001256,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6828,
+    "offset": 1001416,
+    "mText": "25"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6830,
+    "offset": 1001656,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6831,
+    "offset": 1001816,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6832,
+    "offset": 1001976,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6836,
+    "offset": 1003008,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6837,
+    "offset": 1003168,
+    "mText": "エリア目標"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6839,
+    "offset": 1003432,
+    "mText": "進化合成２"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6843,
+    "offset": 1004056,
+    "mText": "★★★★★★★"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6846,
+    "offset": 1004416,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6849,
+    "offset": 1004784,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6850,
+    "offset": 1004944,
+    "mText": "Helper"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6853,
+    "offset": 1005288,
+    "mText": "ユーザーの名前あああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6856,
+    "offset": 1005632,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6857,
+    "offset": 1005792,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6860,
+    "offset": 1006096,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6862,
+    "offset": 1006352,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6865,
+    "offset": 1006728,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6866,
+    "offset": 1006888,
+    "mText": "経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6867,
+    "offset": 1007056,
+    "mText": "クエスト出発!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6868,
+    "offset": 1007232,
+    "mText": "ヘルプ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6869,
+    "offset": 1007400,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6870,
+    "offset": 1007560,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6871,
+    "offset": 1007720,
+    "mText": "スペシャルパネル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6872,
+    "offset": 1007896,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6875,
+    "offset": 1008216,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6877,
+    "offset": 1008480,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 6881,
+    "offset": 1008880,
+    "mText": "Status"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6882,
+    "offset": 1009040,
+    "mText": "プ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6883,
+    "offset": 1009200,
+    "mText": "test"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6884,
+    "offset": 1009360,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6891,
+    "offset": 1010616,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6895,
+    "offset": 1011064,
+    "mText": "9999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6898,
+    "offset": 1011360,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6900,
+    "offset": 1011616,
+    "mText": "今回の助っ人プレイヤー"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6901,
+    "offset": 1011808,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6902,
+    "offset": 1011968,
+    "mText": "売却"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6903,
+    "offset": 1012128,
+    "mText": "ユニット図鑑"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6907,
+    "offset": 1012752,
+    "mText": "発行"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6909,
+    "offset": 1013016,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6910,
+    "offset": 1013192,
+    "mText": "パネルをつなぐ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6911,
+    "offset": 1013368,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6913,
+    "offset": 1013568,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6916,
+    "offset": 1013880,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6918,
+    "offset": 1014136,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6922,
+    "offset": 1014616,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6928,
+    "offset": 1015184,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6930,
+    "offset": 1015440,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6949,
+    "offset": 1017072,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6950,
+    "offset": 1017232,
+    "mText": "9,999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6953,
+    "offset": 1017600,
+    "mText": "パーティスキル名"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6959,
+    "offset": 1018816,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6965,
+    "offset": 1020040,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6966,
+    "offset": 1020200,
+    "mText": "クレジット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6967,
+    "offset": 1020368,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6968,
+    "offset": 1020544,
+    "mText": "userID"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6972,
+    "offset": 1021048,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6977,
+    "offset": 1022728,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6980,
+    "offset": 1023088,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6985,
+    "offset": 1023632,
+    "mText": "合成ボーナス２"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6986,
+    "offset": 1023808,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6988,
+    "offset": 1024072,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6990,
+    "offset": 1024320,
+    "mText": "最終ログイン:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 6999,
+    "offset": 1025216,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7002,
+    "offset": 1025936,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7005,
+    "offset": 1026264,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7010,
+    "offset": 1026800,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7011,
+    "offset": 1026976,
+    "mText": "あと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7012,
+    "offset": 1027136,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7019,
+    "offset": 1028504,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7020,
+    "offset": 1028664,
+    "mText": "★★★★★★★"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7022,
+    "offset": 1029504,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7023,
+    "offset": 1029680,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7025,
+    "offset": 1029944,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7028,
+    "offset": 1030248,
+    "mText": "1.000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7032,
+    "offset": 1030624,
+    "mText": "回復"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7036,
+    "offset": 1031080,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7037,
+    "offset": 1031240,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7042,
+    "offset": 1031912,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7044,
+    "offset": 1032128,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7048,
+    "offset": 1032576,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7049,
+    "offset": 1032736,
+    "mText": "移行"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7050,
+    "offset": 1032896,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7052,
+    "offset": 1033160,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7062,
+    "offset": 1034720,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7066,
+    "offset": 1035184,
+    "mText": "選択数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7068,
+    "offset": 1035448,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7072,
+    "offset": 1036056,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7073,
+    "offset": 1036216,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7074,
+    "offset": 1036376,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7077,
+    "offset": 1036744,
+    "mText": "合成金額"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7078,
+    "offset": 1036912,
+    "mText": "最終ログイン"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7079,
+    "offset": 1037088,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7080,
+    "offset": 1037248,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7081,
+    "offset": 1037408,
+    "mText": "一括承諾"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7082,
+    "offset": 1037576,
+    "mText": "友達のIDを入力してフレンド登録しよう！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7088,
+    "offset": 1038776,
+    "mText": "ユーザーの名前あああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7090,
+    "offset": 1039072,
+    "mText": "20"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7091,
+    "offset": 1039232,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7092,
+    "offset": 1039416,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7095,
+    "offset": 1039704,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7100,
+    "offset": 1040200,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7102,
+    "offset": 1040456,
+    "mText": "9,999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7105,
+    "offset": 1040800,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7112,
+    "offset": 1041472,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7114,
+    "offset": 1041760,
+    "mText": "99999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7117,
+    "offset": 1042200,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7118,
+    "offset": 1042360,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7119,
+    "offset": 1042520,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7121,
+    "offset": 1042776,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7126,
+    "offset": 1043192,
+    "mText": "獲得合計:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7127,
+    "offset": 1043360,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7130,
+    "offset": 1043728,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7134,
+    "offset": 1044336,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7136,
+    "offset": 1045264,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7137,
+    "offset": 1045424,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7139,
+    "offset": 1045680,
+    "mText": "依代獲得"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7140,
+    "offset": 1045848,
+    "mText": "目標達成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7141,
+    "offset": 1046016,
+    "mText": "覚醒進化"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7142,
+    "offset": 1046184,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7144,
+    "offset": 1046440,
+    "mText": "覚醒pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7146,
+    "offset": 1046696,
+    "mText": "アクティブスキル説明アクティブスキル説明アクティブスキル説明アクティブスキル説明アクティブスキル説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7147,
+    "offset": 1047000,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7150,
+    "offset": 1047936,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7151,
+    "offset": 1048096,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7154,
+    "offset": 1048464,
+    "mText": "購入"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7158,
+    "offset": 1048912,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7159,
+    "offset": 1049072,
+    "mText": "20"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7163,
+    "offset": 1049456,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7168,
+    "offset": 1050512,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7172,
+    "offset": 1050936,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7176,
+    "offset": 1051776,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7177,
+    "offset": 1051936,
+    "mText": "フレンド申請"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7185,
+    "offset": 1052896,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7188,
+    "offset": 1053248,
+    "mText": "1個セット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7197,
+    "offset": 1054784,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7199,
+    "offset": 1055048,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7201,
+    "offset": 1055288,
+    "mText": "4th"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7204,
+    "offset": 1055776,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7205,
+    "offset": 1055936,
+    "mText": "ユニット名称ああああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7210,
+    "offset": 1056456,
+    "mText": "ユニットについて"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7222,
+    "offset": 1057496,
+    "mText": "フレンド枠拡張"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7224,
+    "offset": 1057768,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7227,
+    "offset": 1058136,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7234,
+    "offset": 1059456,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7236,
+    "offset": 1059704,
+    "mText": "あと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7237,
+    "offset": 1059864,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7239,
+    "offset": 1060136,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7240,
+    "offset": 1060296,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7246,
+    "offset": 1060936,
+    "mText": "￥0～"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7248,
+    "offset": 1061192,
+    "mText": "1000000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7250,
+    "offset": 1061456,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7255,
+    "offset": 1061936,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7256,
+    "offset": 1062096,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7257,
+    "offset": 1062280,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7261,
+    "offset": 1063136,
+    "mText": "選択数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7262,
+    "offset": 1063304,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7267,
+    "offset": 1063848,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7268,
+    "offset": 1064008,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7271,
+    "offset": 1064368,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7272,
+    "offset": 1064528,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7276,
+    "offset": 1064928,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7279,
+    "offset": 1065264,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7280,
+    "offset": 1065424,
+    "mText": "機種移行"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7282,
+    "offset": 1065696,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7284,
+    "offset": 1065960,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7285,
+    "offset": 1066144,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7286,
+    "offset": 1066304,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7287,
+    "offset": 1066464,
+    "mText": "合成金額"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7288,
+    "offset": 1066632,
+    "mText": "合成!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7289,
+    "offset": 1066792,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7290,
+    "offset": 1066952,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7293,
+    "offset": 1067320,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7300,
+    "offset": 1068072,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7305,
+    "offset": 1068504,
+    "mText": "目標達成プレゼント"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7307,
+    "offset": 1068784,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7310,
+    "offset": 1069152,
+    "mText": "ニックネーム変更"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7317,
+    "offset": 1070472,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7320,
+    "offset": 1070816,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7321,
+    "offset": 1070976,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7323,
+    "offset": 1071232,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7327,
+    "offset": 1071680,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7329,
+    "offset": 1071936,
+    "mText": "パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明パーティスキル説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7331,
+    "offset": 1072360,
+    "mText": "5th"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7334,
+    "offset": 1072712,
+    "mText": "フレンドの上限を拡張できます"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7336,
+    "offset": 1073008,
+    "mText": "×"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7348,
+    "offset": 1074240,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7349,
+    "offset": 1074400,
+    "mText": "レベルアップ合成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7351,
+    "offset": 1074680,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7352,
+    "offset": 1074840,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7361,
+    "offset": 1077864,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7362,
+    "offset": 1078024,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7364,
+    "offset": 1078304,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7366,
+    "offset": 1078552,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7368,
+    "offset": 1078800,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7369,
+    "offset": 1078960,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7373,
+    "offset": 1079344,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7375,
+    "offset": 1079616,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7379,
+    "offset": 1080008,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7382,
+    "offset": 1080360,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7384,
+    "offset": 1080616,
+    "mText": "ユーザーの名前あああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7387,
+    "offset": 1081000,
+    "mText": "回復力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7388,
+    "offset": 1081168,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7389,
+    "offset": 1081328,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7394,
+    "offset": 1081808,
+    "mText": "あと2時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7397,
+    "offset": 1082176,
+    "mText": "たからばこ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7398,
+    "offset": 1082344,
+    "mText": "ユニット名称ああああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7401,
+    "offset": 1082720,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7405,
+    "offset": 1083096,
+    "mText": "経験値2倍"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7408,
+    "offset": 1083400,
+    "mText": "test"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7413,
+    "offset": 1083856,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7414,
+    "offset": 1084016,
+    "mText": "あなたのニックネームを入力してね！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7416,
+    "offset": 1084312,
+    "mText": "ノーマルガチャ×10"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7421,
+    "offset": 1084856,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7422,
+    "offset": 1085016,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7424,
+    "offset": 1085272,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7428,
+    "offset": 1085672,
+    "mText": "リセット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7429,
+    "offset": 1085840,
+    "mText": "ユニット一覧"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7434,
+    "offset": 1086400,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7438,
+    "offset": 1086784,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7441,
+    "offset": 1087136,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7443,
+    "offset": 1087408,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7445,
+    "offset": 1087664,
+    "mText": "総経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7446,
+    "offset": 1087832,
+    "mText": "最大Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7449,
+    "offset": 1088200,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7454,
+    "offset": 1088704,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7458,
+    "offset": 1089336,
+    "mText": "パスワード入力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7461,
+    "offset": 1089704,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7462,
+    "offset": 1089864,
+    "mText": "討伐数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7464,
+    "offset": 1090120,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 7466,
+    "offset": 1090936,
+    "mText": "あと2時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7467,
+    "offset": 1091104,
+    "mText": "進化合成１"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7470,
+    "offset": 1091464,
+    "mText": "獲得合計:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7474,
+    "offset": 1092440,
+    "mText": "Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7477,
+    "offset": 1093368,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7478,
+    "offset": 1093528,
+    "mText": "オプション設定"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7479,
+    "offset": 1093704,
+    "mText": "12時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7480,
+    "offset": 1093864,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7488,
+    "offset": 1094616,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7489,
+    "offset": 1094776,
+    "mText": "フレンド検索"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7490,
+    "offset": 1094952,
+    "mText": "あなたのパスワード"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7491,
+    "offset": 1095136,
+    "mText": "素材ユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7499,
+    "offset": 1096064,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7500,
+    "offset": 1096240,
+    "mText": "PARTY"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7501,
+    "offset": 1096400,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7502,
+    "offset": 1096560,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7504,
+    "offset": 1096816,
+    "mText": "1000000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7507,
+    "offset": 1097720,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7508,
+    "offset": 1097880,
+    "mText": "+ログインボーナス"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7509,
+    "offset": 1098064,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7510,
+    "offset": 1098224,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7511,
+    "offset": 1098384,
+    "mText": "→"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7513,
+    "offset": 1098592,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7514,
+    "offset": 1098752,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7517,
+    "offset": 1099112,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7521,
+    "offset": 1099560,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7523,
+    "offset": 1099952,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7528,
+    "offset": 1101032,
+    "mText": "アクティブスキル説明アクティブスキル説明アクティブスキル説明アクティブスキル説明アクティブスキル説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7532,
+    "offset": 1101576,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7534,
+    "offset": 1101832,
+    "mText": "Twitterやfacebookでの\n呼びかけはこちら！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7539,
+    "offset": 1102352,
+    "mText": "回復力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7542,
+    "offset": 1102712,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7545,
+    "offset": 1102992,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7546,
+    "offset": 1103152,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7548,
+    "offset": 1103416,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7554,
+    "offset": 1104624,
+    "mText": "12時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7556,
+    "offset": 1105016,
+    "mText": "ユーザーの名前あああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7558,
+    "offset": 1105248,
+    "mText": "キャンセル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7560,
+    "offset": 1105520,
+    "mText": "サポート"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7561,
+    "offset": 1105688,
+    "mText": "フレンド申請"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7562,
+    "offset": 1105864,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7563,
+    "offset": 1106024,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7564,
+    "offset": 1106184,
+    "mText": "Challenge"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7565,
+    "offset": 1106352,
+    "mText": "99999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7568,
+    "offset": 1107096,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7570,
+    "offset": 1107360,
+    "mText": "はじまりの平原"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7575,
+    "offset": 1108472,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7576,
+    "offset": 1108648,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7577,
+    "offset": 1108808,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7581,
+    "offset": 1109280,
+    "mText": "素材ユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7589,
+    "offset": 1110088,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7592,
+    "offset": 1110368,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7593,
+    "offset": 1110544,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7594,
+    "offset": 1110720,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7596,
+    "offset": 1110984,
+    "mText": "アクティブスキル名"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7598,
+    "offset": 1111264,
+    "mText": "はじまりの平原"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7600,
+    "offset": 1111536,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7601,
+    "offset": 1111696,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7604,
+    "offset": 1112056,
+    "mText": "20"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7613,
+    "offset": 1112968,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7615,
+    "offset": 1113272,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7616,
+    "offset": 1113432,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7622,
+    "offset": 1114408,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7624,
+    "offset": 1114664,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7626,
+    "offset": 1114992,
+    "mText": "最大Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7627,
+    "offset": 1115152,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7630,
+    "offset": 1115496,
+    "mText": "チャレンジ目標内容が入ります。\nチャレンジ目標内容が入ります。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7631,
+    "offset": 1115744,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7637,
+    "offset": 1116376,
+    "mText": "9,999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7641,
+    "offset": 1117400,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7642,
+    "offset": 1117560,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7643,
+    "offset": 1117720,
+    "mText": "進化pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7645,
+    "offset": 1117976,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7646,
+    "offset": 1118152,
+    "mText": "999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7651,
+    "offset": 1118560,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7652,
+    "offset": 1118720,
+    "mText": "Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7654,
+    "offset": 1118984,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7660,
+    "offset": 1119664,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7661,
+    "offset": 1119824,
+    "mText": "クエスト名が入ります"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7666,
+    "offset": 1120368,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7668,
+    "offset": 1120632,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7671,
+    "offset": 1120976,
+    "mText": "ドラ助メダル獲得数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7673,
+    "offset": 1121256,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7676,
+    "offset": 1121632,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7684,
+    "offset": 1123040,
+    "mText": "2012/12/2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7689,
+    "offset": 1123536,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7690,
+    "offset": 1123728,
+    "mText": "進化pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7696,
+    "offset": 1124304,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7698,
+    "offset": 1124552,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7700,
+    "offset": 1124824,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7706,
+    "offset": 1125504,
+    "mText": "最大Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7709,
+    "offset": 1125856,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7713,
+    "offset": 1126240,
+    "mText": "経験値2倍"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7714,
+    "offset": 1126408,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7721,
+    "offset": 1127152,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7722,
+    "offset": 1127312,
+    "mText": "最大Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7725,
+    "offset": 1127672,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7727,
+    "offset": 1127928,
+    "mText": "あなたのユーザーID"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7732,
+    "offset": 1128640,
+    "mText": "表示変更"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7735,
+    "offset": 1129000,
+    "mText": "チャレンジ目標"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7736,
+    "offset": 1129176,
+    "mText": "売却金額"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7738,
+    "offset": 1129384,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7739,
+    "offset": 1129544,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7740,
+    "offset": 1129704,
+    "mText": "進化合成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7748,
+    "offset": 1130488,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7749,
+    "offset": 1130648,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7750,
+    "offset": 1130808,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7753,
+    "offset": 1131112,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7755,
+    "offset": 1131368,
+    "mText": "決定"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7756,
+    "offset": 1131528,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7758,
+    "offset": 1131768,
+    "mText": "4/4"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7759,
+    "offset": 1131928,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7764,
+    "offset": 1132464,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7765,
+    "offset": 1132624,
+    "mText": "フレンド検索"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7772,
+    "offset": 1133328,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7775,
+    "offset": 1133720,
+    "mText": "ソウル　:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7777,
+    "offset": 1133984,
+    "mText": "最終ログイン:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7778,
+    "offset": 1134160,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7780,
+    "offset": 1134408,
+    "mText": "ー"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7781,
+    "offset": 1134568,
+    "mText": "あと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7782,
+    "offset": 1134728,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7786,
+    "offset": 1135168,
+    "mText": "ドラ助メダル[59e5c7] 1個[-]獲得！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7788,
+    "offset": 1135464,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7793,
+    "offset": 1135896,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7794,
+    "offset": 1136056,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7795,
+    "offset": 1136216,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7799,
+    "offset": 1136704,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7804,
+    "offset": 1137216,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7805,
+    "offset": 1137376,
+    "mText": "説明テキスト"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7806,
+    "offset": 1137552,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7808,
+    "offset": 1137776,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7810,
+    "offset": 1138040,
+    "mText": "獲得金額　　　:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7811,
+    "offset": 1138216,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7819,
+    "offset": 1138984,
+    "mText": "個人情報"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7820,
+    "offset": 1139152,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7821,
+    "offset": 1139312,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7822,
+    "offset": 1139472,
+    "mText": "Helper"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7823,
+    "offset": 1139632,
+    "mText": "虹色水晶の確認"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7827,
+    "offset": 1140920,
+    "mText": "特化合成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7829,
+    "offset": 1141192,
+    "mText": "決定"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7830,
+    "offset": 1141352,
+    "mText": "Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7833,
+    "offset": 1141688,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7834,
+    "offset": 1141848,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7838,
+    "offset": 1142240,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7841,
+    "offset": 1142600,
+    "mText": "99,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7847,
+    "offset": 1143200,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7848,
+    "offset": 1143360,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7851,
+    "offset": 1144232,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7853,
+    "offset": 1144448,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7855,
+    "offset": 1144720,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7862,
+    "offset": 1146560,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7868,
+    "offset": 1147680,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7869,
+    "offset": 1147856,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7871,
+    "offset": 1148120,
+    "mText": "2分前"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7873,
+    "offset": 1148376,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7876,
+    "offset": 1148728,
+    "mText": "必要進化pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7880,
+    "offset": 1149192,
+    "mText": "フレンド承諾"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7884,
+    "offset": 1149664,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7892,
+    "offset": 1150464,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7895,
+    "offset": 1150752,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7897,
+    "offset": 1151008,
+    "mText": "申請とりけし"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7898,
+    "offset": 1151184,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7899,
+    "offset": 1151344,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7901,
+    "offset": 1151600,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7902,
+    "offset": 1151760,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7905,
+    "offset": 1152064,
+    "mText": "ユニット編成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7906,
+    "offset": 1152240,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7907,
+    "offset": 1152400,
+    "mText": "表示変更"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7908,
+    "offset": 1152568,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7910,
+    "offset": 1152824,
+    "mText": "スタミナ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7911,
+    "offset": 1152992,
+    "mText": "[d9419a]ガチャのお知らせ[-]"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7912,
+    "offset": 1153184,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7917,
+    "offset": 1153744,
+    "mText": "レビューする"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7919,
+    "offset": 1154016,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7921,
+    "offset": 1154272,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7922,
+    "offset": 1154456,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7929,
+    "offset": 1155240,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7930,
+    "offset": 1155400,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7931,
+    "offset": 1155560,
+    "mText": "HP"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7934,
+    "offset": 1155848,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7939,
+    "offset": 1156320,
+    "mText": "999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7940,
+    "offset": 1156480,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7942,
+    "offset": 1156768,
+    "mText": "総経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7945,
+    "offset": 1157080,
+    "mText": "現在のチャレンジ目標達成数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7952,
+    "offset": 1157792,
+    "mText": "Helper"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7959,
+    "offset": 1159248,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7964,
+    "offset": 1159896,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7966,
+    "offset": 1160152,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7971,
+    "offset": 1162592,
+    "mText": "→"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7974,
+    "offset": 1162888,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7975,
+    "offset": 1163048,
+    "mText": "個達成!!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7976,
+    "offset": 1163216,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7978,
+    "offset": 1163472,
+    "mText": "対象アプリインストールで虹色水晶を\n獲得することができます。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7987,
+    "offset": 1164280,
+    "mText": "ユニット売却"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7988,
+    "offset": 1164456,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7989,
+    "offset": 1164616,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7991,
+    "offset": 1164880,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7992,
+    "offset": 1165040,
+    "mText": "2ボタンダイアログ\nテスト\nテスト"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7997,
+    "offset": 1165648,
+    "mText": "大当たり！！\nもう一度ガチャを引けるよ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 7998,
+    "offset": 1165864,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8002,
+    "offset": 1166304,
+    "mText": "5th"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8004,
+    "offset": 1166568,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8006,
+    "offset": 1166832,
+    "mText": "★★★★★★"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8008,
+    "offset": 1167672,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8011,
+    "offset": 1167976,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8021,
+    "offset": 1169112,
+    "mText": "5th"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8022,
+    "offset": 1169272,
+    "mText": "チャレンジ目標達成！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8024,
+    "offset": 1169544,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8025,
+    "offset": 1169720,
+    "mText": "Status"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8028,
+    "offset": 1170080,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8036,
+    "offset": 1171432,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8037,
+    "offset": 1171592,
+    "mText": "10,000,000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8042,
+    "offset": 1172080,
+    "mText": "100,000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8044,
+    "offset": 1172336,
+    "mText": "2/2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8049,
+    "offset": 1172816,
+    "mText": "回復"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8052,
+    "offset": 1173176,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8063,
+    "offset": 1174800,
+    "mText": "4/4"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8064,
+    "offset": 1174960,
+    "mText": "\r\nDebug\r\n\r\n    DIGITAL Hearts Co.,Ltd.\r\n\r\nSpecial Thanks\r\n\r\n    GungHo Online Entertainment,lnc.\r\n\r\n    RideonJapan,Inc.\r\n\r\n    Global Technology Design, Inc.\r\n\r\n    Zerodiv Inc.\r\n\r\n    FONTWORKS Inc.\r\n\r\n    Silicon Studio Corporation\r\n\r\n    Pegasus Japan Corp.\r\n\r\n    TRIBE Co.,Ltd.\r\n\r\n"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8065,
+    "offset": 1175400,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8075,
+    "offset": 1177824,
+    "mText": "HP"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8079,
+    "offset": 1178232,
+    "mText": "今回の助っ人プレイヤー"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8082,
+    "offset": 1178616,
+    "mText": "プレゼント"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8083,
+    "offset": 1178784,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8084,
+    "offset": 1178944,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8085,
+    "offset": 1179104,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8090,
+    "offset": 1179640,
+    "mText": "あと2時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8096,
+    "offset": 1180480,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8097,
+    "offset": 1180640,
+    "mText": "→"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8099,
+    "offset": 1180896,
+    "mText": "あと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8100,
+    "offset": 1181056,
+    "mText": "チャレンジ目標内容が入ります。\nチャレンジ目標内容が入ります。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8109,
+    "offset": 1182952,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8110,
+    "offset": 1183112,
+    "mText": "スタミナをすぐに全回復できます"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8119,
+    "offset": 1184536,
+    "mText": "合成!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8124,
+    "offset": 1185080,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8126,
+    "offset": 1185344,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8127,
+    "offset": 1185504,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8131,
+    "offset": 1185968,
+    "mText": "20"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8133,
+    "offset": 1187496,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8135,
+    "offset": 1187752,
+    "mText": "はじまりの平原"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8136,
+    "offset": 1187928,
+    "mText": "フレンド拒否"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8140,
+    "offset": 1188336,
+    "mText": "12時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8141,
+    "offset": 1188496,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8154,
+    "offset": 1190832,
+    "mText": "売却数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8156,
+    "offset": 1191088,
+    "mText": "あと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8157,
+    "offset": 1191248,
+    "mText": "15"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8160,
+    "offset": 1192248,
+    "mText": "パーティスキル名"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8161,
+    "offset": 1192424,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8162,
+    "offset": 1192584,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8166,
+    "offset": 1193600,
+    "mText": "パネルスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8167,
+    "offset": 1193784,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8172,
+    "offset": 1194432,
+    "mText": "回復"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8175,
+    "offset": 1195344,
+    "mText": "￥"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8177,
+    "offset": 1196168,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8180,
+    "offset": 1196528,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8184,
+    "offset": 1197112,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8189,
+    "offset": 1197664,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8194,
+    "offset": 1198720,
+    "mText": "スタミナ回復"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8196,
+    "offset": 1199000,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8197,
+    "offset": 1199160,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8198,
+    "offset": 1199336,
+    "mText": "フレンドＩＤ検索"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8199,
+    "offset": 1199512,
+    "mText": "あと2時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8200,
+    "offset": 1199680,
+    "mText": "4th"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8201,
+    "offset": 1199840,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8205,
+    "offset": 1200288,
+    "mText": "回復"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8214,
+    "offset": 1201112,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8215,
+    "offset": 1201272,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8216,
+    "offset": 1201432,
+    "mText": "5"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8219,
+    "offset": 1201752,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8222,
+    "offset": 1202032,
+    "mText": "フレンド検索"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8224,
+    "offset": 1202304,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8226,
+    "offset": 1202568,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8227,
+    "offset": 1202728,
+    "mText": "フレンドリスト"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8229,
+    "offset": 1203568,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8231,
+    "offset": 1203832,
+    "mText": "デフォルト"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8232,
+    "offset": 1204000,
+    "mText": "ユニットを獲得しました！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8238,
+    "offset": 1204600,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 8240,
+    "offset": 1204840,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8242,
+    "offset": 1205096,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8244,
+    "offset": 1205352,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8246,
+    "offset": 1205608,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8252,
+    "offset": 1206240,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8254,
+    "offset": 1206504,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8259,
+    "offset": 1207064,
+    "mText": "ロードラ情報"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8262,
+    "offset": 1208000,
+    "mText": "最大Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8264,
+    "offset": 1208256,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8265,
+    "offset": 1208432,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8268,
+    "offset": 1208752,
+    "mText": "登録フレンド数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8270,
+    "offset": 1209024,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8274,
+    "offset": 1209464,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8275,
+    "offset": 1209648,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8277,
+    "offset": 1209904,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8278,
+    "offset": 1210064,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8279,
+    "offset": 1210224,
+    "mText": "AP回復アナウンス"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8282,
+    "offset": 1210592,
+    "mText": "チャレンジ目標内容が入ります。\nチャレンジ目標内容が入ります。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8284,
+    "offset": 1210928,
+    "mText": "得られる経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8286,
+    "offset": 1211768,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8287,
+    "offset": 1211928,
+    "mText": "999/999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8290,
+    "offset": 1212848,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8291,
+    "offset": 1213008,
+    "mText": "85"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8295,
+    "offset": 1213456,
+    "mText": "いいえ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8298,
+    "offset": 1213808,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8314,
+    "offset": 1216584,
+    "mText": "個"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8315,
+    "offset": 1216744,
+    "mText": "コミュニケーション"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8319,
+    "offset": 1217776,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8320,
+    "offset": 1217936,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8325,
+    "offset": 1219104,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8327,
+    "offset": 1219376,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8331,
+    "offset": 1219760,
+    "mText": "獲得ユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8332,
+    "offset": 1219936,
+    "mText": "『ロード・トゥ・ドラゴン』をみんなで遊ぼう！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8333,
+    "offset": 1220160,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8336,
+    "offset": 1220536,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8342,
+    "offset": 1221200,
+    "mText": "ユニット選択"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8344,
+    "offset": 1221472,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8346,
+    "offset": 1221720,
+    "mText": "ユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8348,
+    "offset": 1221984,
+    "mText": "15"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8351,
+    "offset": 1222336,
+    "mText": "HP"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8353,
+    "offset": 1222584,
+    "mText": "更新"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8356,
+    "offset": 1222944,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8358,
+    "offset": 1223208,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8362,
+    "offset": 1224232,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8364,
+    "offset": 1224480,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8368,
+    "offset": 1224880,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8373,
+    "offset": 1225368,
+    "mText": "お知らせ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8381,
+    "offset": 1226112,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8385,
+    "offset": 1226568,
+    "mText": "強化限界"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8386,
+    "offset": 1226736,
+    "mText": "ユーザーの名前あああああ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8387,
+    "offset": 1226928,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8388,
+    "offset": 1227088,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8389,
+    "offset": 1227248,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8391,
+    "offset": 1227504,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8394,
+    "offset": 1227872,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8395,
+    "offset": 1228048,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8398,
+    "offset": 1228968,
+    "mText": "ン"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8399,
+    "offset": 1229128,
+    "mText": "25"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8403,
+    "offset": 1229576,
+    "mText": "Challenge"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8406,
+    "offset": 1229944,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8407,
+    "offset": 1230104,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8409,
+    "offset": 1230368,
+    "mText": "チャレンジ目標内容が入ります。\nチャレンジ目標内容が入ります。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8418,
+    "offset": 1231480,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8421,
+    "offset": 1231840,
+    "mText": "最大Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8423,
+    "offset": 1232096,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8426,
+    "offset": 1232464,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8428,
+    "offset": 1232704,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8430,
+    "offset": 1232960,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8435,
+    "offset": 1233496,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8436,
+    "offset": 1233656,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8437,
+    "offset": 1233816,
+    "mText": "クリティカル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8438,
+    "offset": 1233992,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8440,
+    "offset": 1234248,
+    "mText": "よりしろ経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8444,
+    "offset": 1234720,
+    "mText": "個獲得で"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8445,
+    "offset": 1234888,
+    "mText": "ノーマルガチャ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8446,
+    "offset": 1235064,
+    "mText": "回復力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8447,
+    "offset": 1235232,
+    "mText": "100,000"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8448,
+    "offset": 1235392,
+    "mText": "そのほか"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8452,
+    "offset": 1235848,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8453,
+    "offset": 1236008,
+    "mText": "合成金額"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8455,
+    "offset": 1236272,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8458,
+    "offset": 1236560,
+    "mText": "25"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8459,
+    "offset": 1236720,
+    "mText": "サポート"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8460,
+    "offset": 1236888,
+    "mText": "パーティスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8461,
+    "offset": 1237072,
+    "mText": "覚醒pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8467,
+    "offset": 1238304,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8468,
+    "offset": 1238464,
+    "mText": "謝辞"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8469,
+    "offset": 1238624,
+    "mText": "お探しのユーザー様が見つかりました。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8476,
+    "offset": 1241104,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8477,
+    "offset": 1241264,
+    "mText": "パネルの使い方"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8480,
+    "offset": 1241632,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8481,
+    "offset": 1241792,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8488,
+    "offset": 1242440,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8489,
+    "offset": 1242600,
+    "mText": "フレンドとは"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8492,
+    "offset": 1244104,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8494,
+    "offset": 1244400,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8500,
+    "offset": 1245616,
+    "mText": "0"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8501,
+    "offset": 1245776,
+    "mText": "20"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8503,
+    "offset": 1246040,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8506,
+    "offset": 1246408,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8507,
+    "offset": 1246568,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8512,
+    "offset": 1247048,
+    "mText": "999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8513,
+    "offset": 1247208,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8514,
+    "offset": 1247368,
+    "mText": "おめでとう！\nチャレンジ目標を全て達成したよ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8515,
+    "offset": 1247592,
+    "mText": "ゲームルール"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8523,
+    "offset": 1248320,
+    "mText": "進化pt"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8524,
+    "offset": 1248480,
+    "mText": "フレンド申請"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8525,
+    "offset": 1248656,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8527,
+    "offset": 1248904,
+    "mText": "次のランクまであと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8537,
+    "offset": 1249816,
+    "mText": "あと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8539,
+    "offset": 1250072,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8540,
+    "offset": 1250232,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8542,
+    "offset": 1250488,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8543,
+    "offset": 1250648,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8546,
+    "offset": 1251568,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8547,
+    "offset": 1251728,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8548,
+    "offset": 1251888,
+    "mText": "プレイ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8550,
+    "offset": 1252144,
+    "mText": "あなたのパスワード"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8553,
+    "offset": 1252512,
+    "mText": "経験値"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8555,
+    "offset": 1252784,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8556,
+    "offset": 1252960,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8560,
+    "offset": 1253392,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8565,
+    "offset": 1253936,
+    "mText": "移行するユーザーID"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8566,
+    "offset": 1254120,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8578,
+    "offset": 1255248,
+    "mText": "9999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8579,
+    "offset": 1255408,
+    "mText": "999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8580,
+    "offset": 1255568,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8582,
+    "offset": 1255824,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8584,
+    "offset": 1256080,
+    "mText": "エリア目標"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8585,
+    "offset": 1256248,
+    "mText": "+200"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8587,
+    "offset": 1256496,
+    "mText": "スキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8588,
+    "offset": 1256672,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8591,
+    "offset": 1257024,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8593,
+    "offset": 1257280,
+    "mText": "利用規約"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8594,
+    "offset": 1257448,
+    "mText": "エリア目標"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8596,
+    "offset": 1257712,
+    "mText": "虹色水晶をゲット！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8597,
+    "offset": 1257896,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8599,
+    "offset": 1258144,
+    "mText": "お気に入り"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8600,
+    "offset": 1258312,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8601,
+    "offset": 1258472,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8603,
+    "offset": 1258736,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8605,
+    "offset": 1259008,
+    "mText": "ソート"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8606,
+    "offset": 1259176,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8612,
+    "offset": 1259728,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8614,
+    "offset": 1259984,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8615,
+    "offset": 1260160,
+    "mText": "ユニットBOX拡張"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8616,
+    "offset": 1260336,
+    "mText": "虹色水晶5個で1プレイ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8617,
+    "offset": 1260520,
+    "mText": "最終ログイン"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8618,
+    "offset": 1260696,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8620,
+    "offset": 1260984,
+    "mText": "ベースユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8621,
+    "offset": 1261160,
+    "mText": "よりしろ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8623,
+    "offset": 1261424,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8633,
+    "offset": 1262696,
+    "mText": "詳細表示"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8634,
+    "offset": 1262864,
+    "mText": "+99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8636,
+    "offset": 1263064,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8639,
+    "offset": 1264016,
+    "mText": "フレンド検索"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8646,
+    "offset": 1265320,
+    "mText": "フレンド通知"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8647,
+    "offset": 1265496,
+    "mText": "ランク"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8652,
+    "offset": 1267256,
+    "mText": "はい"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8653,
+    "offset": 1267416,
+    "mText": "OK"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8666,
+    "offset": 1269544,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8667,
+    "offset": 1269704,
+    "mText": "5個 + [ffce24]ボーナス:1個[-]"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8668,
+    "offset": 1269896,
+    "mText": "強化限界"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8669,
+    "offset": 1270064,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 8671,
+    "offset": 1270304,
+    "mText": "100"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8672,
+    "offset": 1270464,
+    "mText": "1000フレンドポイントで1プレイ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8675,
+    "offset": 1270848,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8679,
+    "offset": 1271888,
+    "mText": "Scene Message"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8682,
+    "offset": 1272184,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8685,
+    "offset": 1272536,
+    "mText": "999,999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8686,
+    "offset": 1272696,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8695,
+    "offset": 1273584,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8699,
+    "offset": 1273960,
+    "mText": "ベースユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8702,
+    "offset": 1274856,
+    "mText": "チャレンジ目標内容が入ります。\nチャレンジ目標内容が入ります。"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8703,
+    "offset": 1275104,
+    "mText": "スキルネーム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8704,
+    "offset": 1275280,
+    "mText": "フリーデル・シュトローム"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8706,
+    "offset": 1275568,
+    "mText": "Player"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8710,
+    "offset": 1276024,
+    "mText": "表示変更"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8711,
+    "offset": 1276192,
+    "mText": "PARTY"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8712,
+    "offset": 1276352,
+    "mText": "立ちふさがりし者"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8714,
+    "offset": 1276616,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8729,
+    "offset": 1278080,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8730,
+    "offset": 1278240,
+    "mText": "12時間"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8734,
+    "offset": 1278672,
+    "mText": "あと"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8735,
+    "offset": 1278832,
+    "mText": ""
+  },
+  {
+    "scene": "level2",
+    "path_id": 8740,
+    "offset": 1279288,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8741,
+    "offset": 1279448,
+    "mText": "99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8743,
+    "offset": 1279712,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8747,
+    "offset": 1280160,
+    "mText": "→"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8749,
+    "offset": 1280416,
+    "mText": "アクティブスキル名"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8757,
+    "offset": 1281240,
+    "mText": "ガチャをプレイしてユニットをゲット！\n\nレアガチャで超レアなユニットをゲットしよう！\n曜日ごとにガチャの内容は変化するよ！"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8759,
+    "offset": 1281672,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8761,
+    "offset": 1281928,
+    "mText": "ランク\n"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8762,
+    "offset": 1282096,
+    "mText": "プレゼント確認"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8764,
+    "offset": 1282376,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8765,
+    "offset": 1282536,
+    "mText": "詳細表示"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8768,
+    "offset": 1283640,
+    "mText": "虹色水晶をもらう"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8769,
+    "offset": 1283816,
+    "mText": "クエスト出発!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8770,
+    "offset": 1283992,
+    "mText": "あなたのユーザーID"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8774,
+    "offset": 1284472,
+    "mText": "フレンド通知"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8777,
+    "offset": 1284840,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8778,
+    "offset": 1285000,
+    "mText": "合成金額"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8781,
+    "offset": 1285368,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8791,
+    "offset": 1287000,
+    "mText": "99/99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8796,
+    "offset": 1287472,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8797,
+    "offset": 1287632,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8806,
+    "offset": 1288400,
+    "mText": "所持ユニット数"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8809,
+    "offset": 1288784,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8810,
+    "offset": 1288944,
+    "mText": "パスワード発行"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8811,
+    "offset": 1289120,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8815,
+    "offset": 1289504,
+    "mText": "戻る"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8816,
+    "offset": 1289664,
+    "mText": "個"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8825,
+    "offset": 1290352,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8826,
+    "offset": 1290512,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8827,
+    "offset": 1290672,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8828,
+    "offset": 1290832,
+    "mText": "99999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8829,
+    "offset": 1290992,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8834,
+    "offset": 1291504,
+    "mText": "リ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8835,
+    "offset": 1291664,
+    "mText": "Helper"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8836,
+    "offset": 1291824,
+    "mText": "アクティブスキルの説明"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8838,
+    "offset": 1292104,
+    "mText": "00:00"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8843,
+    "offset": 1292600,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8845,
+    "offset": 1292856,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8860,
+    "offset": 1294440,
+    "mText": "レアガチャ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8862,
+    "offset": 1294704,
+    "mText": "/"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8863,
+    "offset": 1294864,
+    "mText": "パーティスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8869,
+    "offset": 1295456,
+    "mText": "99999999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8870,
+    "offset": 1295616,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8873,
+    "offset": 1295968,
+    "mText": "LV.12"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8874,
+    "offset": 1296128,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8876,
+    "offset": 1296384,
+    "mText": "2nd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8881,
+    "offset": 1296856,
+    "mText": "パーティ編成"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8882,
+    "offset": 1297032,
+    "mText": "■名前入力の注意事項■\n\n全ての文字を表示できない場合があります。\r\nまた、公序良俗に反した表現や、\r\n個人情報の記載などは行わないようにお願いします。\r"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8884,
+    "offset": 1297504,
+    "mText": "獲得ユニット種類"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8891,
+    "offset": 1298184,
+    "mText": "攻撃力"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8894,
+    "offset": 1298520,
+    "mText": "開封期限:"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8896,
+    "offset": 1298776,
+    "mText": "Leader"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8897,
+    "offset": 1298936,
+    "mText": "CLEAR!!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8899,
+    "offset": 1299192,
+    "mText": "報酬"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8900,
+    "offset": 1299352,
+    "mText": "(+99)"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8901,
+    "offset": 1299512,
+    "mText": "パネルスキル"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8902,
+    "offset": 1299688,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8903,
+    "offset": 1299848,
+    "mText": "3rd"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8905,
+    "offset": 1300104,
+    "mText": "消費ソウル99"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8907,
+    "offset": 1300384,
+    "mText": "魂石の購入"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8908,
+    "offset": 1300552,
+    "mText": "2"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8909,
+    "offset": 1300712,
+    "mText": "999"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8910,
+    "offset": 1300872,
+    "mText": "プレゼント"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8913,
+    "offset": 1301232,
+    "mText": "運営からのお知らせ"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8915,
+    "offset": 1301520,
+    "mText": "距離"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8916,
+    "offset": 1301680,
+    "mText": "○○からのプレゼント"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8917,
+    "offset": 1301864,
+    "mText": "ト"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8919,
+    "offset": 1302080,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8922,
+    "offset": 1303000,
+    "mText": "ベースユニット"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8927,
+    "offset": 1303576,
+    "mText": "Lv"
+  },
+  {
+    "scene": "level2",
+    "path_id": 8928,
+    "offset": 1303736,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2770,
+    "offset": 1176776,
+    "mText": "チャレンジ目標達成条件"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2781,
+    "offset": 1177696,
+    "mText": "戻る"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2788,
+    "offset": 1178344,
+    "mText": "階段発見！"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2790,
+    "offset": 1178696,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2812,
+    "offset": 1181400,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2813,
+    "offset": 1181576,
+    "mText": "次の階へ進みますか？"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2832,
+    "offset": 1183280,
+    "mText": "5個 + [ffce24]ボーナス:1個[-]"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2838,
+    "offset": 1183888,
+    "mText": "85"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2864,
+    "offset": 1186176,
+    "mText": "いまもっている魔道書"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2876,
+    "offset": 1187240,
+    "mText": "はじまりのへいげん"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2878,
+    "offset": 1187512,
+    "mText": "難易度："
+  },
+  {
+    "scene": "level3",
+    "path_id": 2891,
+    "offset": 1188672,
+    "mText": "ターン"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2892,
+    "offset": 1188840,
+    "mText": "999"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2895,
+    "offset": 1189192,
+    "mText": "あと　      マス"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2907,
+    "offset": 1190360,
+    "mText": "死神殺し！　"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2931,
+    "offset": 1192392,
+    "mText": "クエスト名"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2939,
+    "offset": 1193160,
+    "mText": "いいえ"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2943,
+    "offset": 1193496,
+    "mText": "購入"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2944,
+    "offset": 1193656,
+    "mText": "はい"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2945,
+    "offset": 1193816,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2948,
+    "offset": 1194112,
+    "mText": "旅立ちの平原"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2951,
+    "offset": 1194480,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2953,
+    "offset": 1194760,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2962,
+    "offset": 1195408,
+    "mText": "★★★"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2965,
+    "offset": 1195704,
+    "mText": "わぁ！ここにボクのセリフが入るんだ！"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2966,
+    "offset": 1195912,
+    "mText": "魔道書がいっぱいです！！\n捨てる魔道書を選択してください。"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2968,
+    "offset": 1196240,
+    "mText": "チャレンジ目標表示枠\rチャレンジ\nチャレンジ目標表示枠\rチャレンジ"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2980,
+    "offset": 1197328,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2992,
+    "offset": 1198400,
+    "mText": "OK"
+  },
+  {
+    "scene": "level3",
+    "path_id": 2998,
+    "offset": 1198976,
+    "mText": "虹色水晶を1個消費して、\nコンティニューしますか？\n\n虹色水晶を、　　個所持しています。"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3007,
+    "offset": 1200184,
+    "mText": "アクティブスキル"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3010,
+    "offset": 1200472,
+    "mText": "チャレンジ目標表示枠\rチャレンジ\nチャレンジ目標表示枠\rチャレンジ"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3012,
+    "offset": 1200808,
+    "mText": "はい"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3013,
+    "offset": 1200968,
+    "mText": "※取得した魔導書は\nクリア後に全て獲得出来ます。"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3020,
+    "offset": 1201704,
+    "mText": "クエストをリタイア"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3023,
+    "offset": 1202184,
+    "mText": "死神殺し！　"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3027,
+    "offset": 1202496,
+    "mText": "いいえ"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3032,
+    "offset": 1203008,
+    "mText": "戻る"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3065,
+    "offset": 1205600,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3068,
+    "offset": 1205968,
+    "mText": "￥"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3077,
+    "offset": 1206728,
+    "mText": "死神殺し！　"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3083,
+    "offset": 1207336,
+    "mText": "死神殺し！　"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3099,
+    "offset": 1208800,
+    "mText": "MENU"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3107,
+    "offset": 1209552,
+    "mText": "あああああああああああああああああああああああああああああああああああああああああああああああああああ"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3111,
+    "offset": 1210152,
+    "mText": "はい"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3123,
+    "offset": 1211232,
+    "mText": "業火の炎業火の炎業火の炎"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3136,
+    "offset": 1212400,
+    "mText": "クエスト情報"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3139,
+    "offset": 1212760,
+    "mText": "00"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3149,
+    "offset": 1213568,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3155,
+    "offset": 1214128,
+    "mText": "クエスト情報"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3157,
+    "offset": 1214384,
+    "mText": "わぁ！ここにボクのセリフが入るんだ！"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3162,
+    "offset": 1214920,
+    "mText": "オプション"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3164,
+    "offset": 1215152,
+    "mText": "いいえ"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3168,
+    "offset": 1215528,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3199,
+    "offset": 1219376,
+    "mText": "消費ソウル　　　　soul\n\n使用しますか？"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3231,
+    "offset": 1222104,
+    "mText": "「ダンジョン名が入ります」"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3246,
+    "offset": 1223568,
+    "mText": "あと"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3250,
+    "offset": 1223992,
+    "mText": "戻る"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3264,
+    "offset": 1225888,
+    "mText": "フォントのテスト"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3269,
+    "offset": 1226488,
+    "mText": "ボスまでの残りマス数"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3278,
+    "offset": 1227536,
+    "mText": "NEW!"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3290,
+    "offset": 1228656,
+    "mText": "チャレンジ目標表示枠\rチャレンジ\nチャレンジ目標表示枠\rチャレンジ"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3298,
+    "offset": 1229976,
+    "mText": "999"
+  },
+  {
+    "scene": "level3",
+    "path_id": 3299,
+    "offset": 1230136,
+    "mText": "1個セット"
+  },
+  {
+    "scene": "level4",
+    "path_id": 678,
+    "offset": 64448,
+    "mText": "16歳未満"
+  },
+  {
+    "scene": "level4",
+    "path_id": 682,
+    "offset": 64792,
+    "mText": "20歳以上"
+  },
+  {
+    "scene": "level4",
+    "path_id": 683,
+    "offset": 64960,
+    "mText": "ボタン1"
+  },
+  {
+    "scene": "level4",
+    "path_id": 686,
+    "offset": 65256,
+    "mText": "SET"
+  },
+  {
+    "scene": "level4",
+    "path_id": 689,
+    "offset": 65544,
+    "mText": "「ユニット名が入ります」をプレゼント！"
+  },
+  {
+    "scene": "level4",
+    "path_id": 697,
+    "offset": 66376,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level4",
+    "path_id": 698,
+    "offset": 66536,
+    "mText": "Intra115"
+  },
+  {
+    "scene": "level4",
+    "path_id": 702,
+    "offset": 66952,
+    "mText": "MAX"
+  },
+  {
+    "scene": "level4",
+    "path_id": 705,
+    "offset": 67272,
+    "mText": "03 Player Recovery"
+  },
+  {
+    "scene": "level4",
+    "path_id": 707,
+    "offset": 67512,
+    "mText": "あなたの年齢によって「虹色水晶」を\n買える金額がきまっています。\n必ず正しい年齢を選んでください。"
+  },
+  {
+    "scene": "level4",
+    "path_id": 711,
+    "offset": 68080,
+    "mText": "月間ログインボーナス"
+  },
+  {
+    "scene": "level4",
+    "path_id": 719,
+    "offset": 68720,
+    "mText": "名前を入力してください。"
+  },
+  {
+    "scene": "level4",
+    "path_id": 722,
+    "offset": 69032,
+    "mText": "00 Delete KeyChain"
+  },
+  {
+    "scene": "level4",
+    "path_id": 726,
+    "offset": 69440,
+    "mText": "CLOSE"
+  },
+  {
+    "scene": "level4",
+    "path_id": 732,
+    "offset": 70024,
+    "mText": "10"
+  },
+  {
+    "scene": "level4",
+    "path_id": 735,
+    "offset": 70352,
+    "mText": "LV.99"
+  },
+  {
+    "scene": "level4",
+    "path_id": 736,
+    "offset": 70512,
+    "mText": "ボタン3"
+  },
+  {
+    "scene": "level4",
+    "path_id": 738,
+    "offset": 70744,
+    "mText": "OFF"
+  },
+  {
+    "scene": "level4",
+    "path_id": 740,
+    "offset": 70968,
+    "mText": "05 Unit Encyclopedia"
+  },
+  {
+    "scene": "level4",
+    "path_id": 748,
+    "offset": 71704,
+    "mText": "99 Delete SaveData"
+  },
+  {
+    "scene": "level4",
+    "path_id": 749,
+    "offset": 71880,
+    "mText": "05 Kill Enemy"
+  },
+  {
+    "scene": "level4",
+    "path_id": 752,
+    "offset": 72200,
+    "mText": "2ボタンダイアログ"
+  },
+  {
+    "scene": "level4",
+    "path_id": 753,
+    "offset": 72384,
+    "mText": "ネットワークエラー"
+  },
+  {
+    "scene": "level4",
+    "path_id": 754,
+    "offset": 72568,
+    "mText": "99999"
+  },
+  {
+    "scene": "level4",
+    "path_id": 755,
+    "offset": 72728,
+    "mText": "01 Infomation"
+  },
+  {
+    "scene": "level4",
+    "path_id": 763,
+    "offset": 73632,
+    "mText": "Intra109"
+  },
+  {
+    "scene": "level4",
+    "path_id": 766,
+    "offset": 73960,
+    "mText": "02 Change Connect Server"
+  },
+  {
+    "scene": "level4",
+    "path_id": 775,
+    "offset": 74792,
+    "mText": "XXXXXXXXXX"
+  },
+  {
+    "scene": "level4",
+    "path_id": 785,
+    "offset": 75768,
+    "mText": "06 Quest All Unlock"
+  },
+  {
+    "scene": "level4",
+    "path_id": 786,
+    "offset": 75944,
+    "mText": "現在の覚醒pt\n"
+  },
+  {
+    "scene": "level4",
+    "path_id": 787,
+    "offset": 76120,
+    "mText": "04 Quartz"
+  },
+  {
+    "scene": "level4",
+    "path_id": 791,
+    "offset": 76472,
+    "mText": "覚醒ポイントMAX！究極進化可能！"
+  },
+  {
+    "scene": "level4",
+    "path_id": 792,
+    "offset": 76672,
+    "mText": "ガイド"
+  },
+  {
+    "scene": "level4",
+    "path_id": 796,
+    "offset": 77128,
+    "mText": "ボタン1"
+  },
+  {
+    "scene": "level4",
+    "path_id": 797,
+    "offset": 77296,
+    "mText": "ボタン2"
+  },
+  {
+    "scene": "level4",
+    "path_id": 806,
+    "offset": 78616,
+    "mText": "BGM"
+  },
+  {
+    "scene": "level4",
+    "path_id": 809,
+    "offset": 78984,
+    "mText": "98 UUID"
+  },
+  {
+    "scene": "level4",
+    "path_id": 817,
+    "offset": 79624,
+    "mText": "MIN"
+  },
+  {
+    "scene": "level4",
+    "path_id": 820,
+    "offset": 80040,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level4",
+    "path_id": 822,
+    "offset": 80312,
+    "mText": "OFF"
+  },
+  {
+    "scene": "level4",
+    "path_id": 824,
+    "offset": 80536,
+    "mText": "B2"
+  },
+  {
+    "scene": "level4",
+    "path_id": 832,
+    "offset": 81208,
+    "mText": "戻る"
+  },
+  {
+    "scene": "level4",
+    "path_id": 833,
+    "offset": 81368,
+    "mText": "年齢を選択してください。"
+  },
+  {
+    "scene": "level4",
+    "path_id": 835,
+    "offset": 81640,
+    "mText": "1"
+  },
+  {
+    "scene": "level4",
+    "path_id": 837,
+    "offset": 81904,
+    "mText": "Log."
+  },
+  {
+    "scene": "level4",
+    "path_id": 846,
+    "offset": 82912,
+    "mText": "→制限なし"
+  },
+  {
+    "scene": "level4",
+    "path_id": 848,
+    "offset": 83176,
+    "mText": "01234567890012345678900123456789001234567890"
+  },
+  {
+    "scene": "level4",
+    "path_id": 849,
+    "offset": 83376,
+    "mText": "ON"
+  },
+  {
+    "scene": "level4",
+    "path_id": 851,
+    "offset": 83640,
+    "mText": "検索！"
+  },
+  {
+    "scene": "level4",
+    "path_id": 852,
+    "offset": 83808,
+    "mText": "04 Enemy Invincible"
+  },
+  {
+    "scene": "level4",
+    "path_id": 854,
+    "offset": 84048,
+    "mText": "戻る"
+  },
+  {
+    "scene": "level4",
+    "path_id": 856,
+    "offset": 84296,
+    "mText": "06 Quest Clear"
+  },
+  {
+    "scene": "level4",
+    "path_id": 858,
+    "offset": 84528,
+    "mText": "16歳～１９歳"
+  },
+  {
+    "scene": "level4",
+    "path_id": 859,
+    "offset": 84704,
+    "mText": "01 Log Display"
+  },
+  {
+    "scene": "level4",
+    "path_id": 861,
+    "offset": 84936,
+    "mText": "01 Log Display"
+  },
+  {
+    "scene": "level4",
+    "path_id": 864,
+    "offset": 85256,
+    "mText": "NAME"
+  },
+  {
+    "scene": "level4",
+    "path_id": 866,
+    "offset": 85480,
+    "mText": "Intra116"
+  },
+  {
+    "scene": "level4",
+    "path_id": 868,
+    "offset": 85736,
+    "mText": "接続中…"
+  },
+  {
+    "scene": "level4",
+    "path_id": 870,
+    "offset": 85992,
+    "mText": "→１ヶ月　20,000円まで"
+  },
+  {
+    "scene": "level4",
+    "path_id": 872,
+    "offset": 86280,
+    "mText": "[憐王]カルマ"
+  },
+  {
+    "scene": "level4",
+    "path_id": 874,
+    "offset": 86560,
+    "mText": "はい"
+  },
+  {
+    "scene": "level4",
+    "path_id": 879,
+    "offset": 87120,
+    "mText": "3ボタンダイアログ"
+  },
+  {
+    "scene": "level4",
+    "path_id": 882,
+    "offset": 87480,
+    "mText": "ON"
+  },
+  {
+    "scene": "level4",
+    "path_id": 886,
+    "offset": 87872,
+    "mText": "OFF"
+  },
+  {
+    "scene": "level4",
+    "path_id": 887,
+    "offset": 88032,
+    "mText": "02 Player Invincible"
+  },
+  {
+    "scene": "level4",
+    "path_id": 893,
+    "offset": 88600,
+    "mText": "09 Soul"
+  },
+  {
+    "scene": "level4",
+    "path_id": 895,
+    "offset": 88848,
+    "mText": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  },
+  {
+    "scene": "level4",
+    "path_id": 896,
+    "offset": 89040,
+    "mText": "あなたのID "
+  },
+  {
+    "scene": "level4",
+    "path_id": 901,
+    "offset": 89552,
+    "mText": "→１ヶ月　5,000円まで"
+  },
+  {
+    "scene": "level4",
+    "path_id": 911,
+    "offset": 90400,
+    "mText": ""
+  },
+  {
+    "scene": "level4",
+    "path_id": 913,
+    "offset": 90616,
+    "mText": "B1"
+  },
+  {
+    "scene": "level4",
+    "path_id": 915,
+    "offset": 90840,
+    "mText": "99999"
+  },
+  {
+    "scene": "level4",
+    "path_id": 918,
+    "offset": 91120,
+    "mText": "07 Quest Failed"
+  },
+  {
+    "scene": "level4",
+    "path_id": 922,
+    "offset": 91592,
+    "mText": "閉じる"
+  },
+  {
+    "scene": "level4",
+    "path_id": 924,
+    "offset": 91840,
+    "mText": "メッセージ1\n"
+  },
+  {
+    "scene": "level4",
+    "path_id": 927,
+    "offset": 92328,
+    "mText": "OK"
+  },
+  {
+    "scene": "level4",
+    "path_id": 930,
+    "offset": 92672,
+    "mText": "SE"
+  },
+  {
+    "scene": "level4",
+    "path_id": 934,
+    "offset": 93128,
+    "mText": "999,999,999"
+  },
+  {
+    "scene": "level4",
+    "path_id": 935,
+    "offset": 93296,
+    "mText": "はい"
+  },
+  {
+    "scene": "level4",
+    "path_id": 936,
+    "offset": 93456,
+    "mText": "検索するユーザー"
+  },
+  {
+    "scene": "level4",
+    "path_id": 941,
+    "offset": 93952,
+    "mText": "SET"
+  },
+  {
+    "scene": "level4",
+    "path_id": 944,
+    "offset": 94240,
+    "mText": "オプション設定"
+  },
+  {
+    "scene": "level4",
+    "path_id": 945,
+    "offset": 94416,
+    "mText": "1ボタンダイアログ"
+  },
+  {
+    "scene": "level4",
+    "path_id": 946,
+    "offset": 94600,
+    "mText": "※覚醒ptがMAXになると\n「究極進化」が可能になります。\n覚醒ptはエネミーを撃破する事で溜まります。"
+  },
+  {
+    "scene": "level4",
+    "path_id": 948,
+    "offset": 94960,
+    "mText": "Release"
+  },
+  {
+    "scene": "level4",
+    "path_id": 949,
+    "offset": 95120,
+    "mText": "/"
+  },
+  {
+    "scene": "level4",
+    "path_id": 951,
+    "offset": 95376,
+    "mText": "覚醒ポイント"
+  },
+  {
+    "scene": "level4",
+    "path_id": 955,
+    "offset": 95840,
+    "mText": "いいえ"
+  },
+  {
+    "scene": "level4",
+    "path_id": 956,
+    "offset": 96008,
+    "mText": "Staging"
+  },
+  {
+    "scene": "level4",
+    "path_id": 958,
+    "offset": 96232,
+    "mText": "ON"
+  },
+  {
+    "scene": "level4",
+    "path_id": 959,
+    "offset": 96392,
+    "mText": "08 Shuffle Panel"
+  },
+  {
+    "scene": "level4",
+    "path_id": 961,
+    "offset": 96624,
+    "mText": "メッセージ2"
+  },
+  {
+    "scene": "level4",
+    "path_id": 963,
+    "offset": 96872,
+    "mText": "pt"
+  },
+  {
+    "scene": "level4",
+    "path_id": 965,
+    "offset": 97120,
+    "mText": "OFF"
+  },
+  {
+    "scene": "level4",
+    "path_id": 968,
+    "offset": 97472,
+    "mText": "月間ログインボーナス　　 回目！"
+  },
+  {
+    "scene": "level4",
+    "path_id": 969,
+    "offset": 97672,
+    "mText": "10 FPS Display"
+  },
+  {
+    "scene": "level4",
+    "path_id": 974,
+    "offset": 98120,
+    "mText": "はい"
+  },
+  {
+    "scene": "level4",
+    "path_id": 978,
+    "offset": 98464,
+    "mText": "---------------------------"
+  },
+  {
+    "scene": "level4",
+    "path_id": 980,
+    "offset": 98752,
+    "mText": "0A FPS Display"
+  },
+  {
+    "scene": "level4",
+    "path_id": 989,
+    "offset": 99464,
+    "mText": "はい"
+  },
+  {
+    "scene": "level4",
+    "path_id": 990,
+    "offset": 99624,
+    "mText": "月間ログインボーナス"
+  },
+  {
+    "scene": "level4",
+    "path_id": 991,
+    "offset": 99808,
+    "mText": "ストーリー用ダイアログ"
+  },
+  {
+    "scene": "level4",
+    "path_id": 993,
+    "offset": 100056,
+    "mText": "FPS:00"
+  },
+  {
+    "scene": "level4",
+    "path_id": 994,
+    "offset": 100216,
+    "mText": "ボタン2"
+  },
+  {
+    "scene": "level4",
+    "path_id": 996,
+    "offset": 100440,
+    "mText": "メッセージ3"
+  },
+  {
+    "scene": "level4",
+    "path_id": 997,
+    "offset": 100608,
+    "mText": "ボタン3"
+  },
+  {
+    "scene": "level4",
+    "path_id": 999,
+    "offset": 100864,
+    "mText": "NAME"
+  },
+  {
+    "scene": "level4",
+    "path_id": 1001,
+    "offset": 101128,
+    "mText": "03 Stamina Recovery"
+  },
+  {
+    "scene": "level4",
+    "path_id": 1004,
+    "offset": 101472,
+    "mText": "通信中です。少々お待ち下さい…"
+  },
+  {
+    "scene": "level4",
+    "path_id": 1007,
+    "offset": 101864,
+    "mText": "ボタン4"
+  },
+  {
+    "scene": "level4",
+    "path_id": 1008,
+    "offset": 102032,
+    "mText": "ON"
+  },
+  {
+    "scene": "level4",
+    "path_id": 1014,
+    "offset": 102592,
+    "mText": "4ボタンダイアログ"
+  }
+]

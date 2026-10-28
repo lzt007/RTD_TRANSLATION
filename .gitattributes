@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# These files preserve source text bytes, including embedded CR/LF in CSV cells.
+/sources/TextDatabase.txt -text
+/translations.csv -text
+/sources/scene-distinct.csv -text
