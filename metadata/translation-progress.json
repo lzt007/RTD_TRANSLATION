@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "total_rows": 9693,
+  "translated": 9693,
+  "pending": 0,
+  "previous_effective_translations": 1850,
+  "added": 7843,
+  "existing_effective_translations_changed": 0,
+  "source_texts_changed": 0,
+  "new_translation_groups": {
+    "other": 1739,
+    "names": 1895,
+    "stories": 693,
+    "dialogue": 2220,
+    "categories": 346,
+    "quests": 950
+  },
+  "missing_glyphs": 0,
+  "format_or_tag_mismatches": 0,
+  "numeric_mismatches_in_new_translations": 0,
+  "new_japanese_or_korean_prose_remaining": 0,
+  "retained_symbol_strings": {
+    "7245": "ヾ(｀口´)ノ",
+    "5365": "秋葉原 %A.+ゞ]?"
+  },
+  "legacy_review": {
+    "gold_amount_errors": 6,
+    "stacking_wording_issues": 53,
+    "main_csv_keeps_legacy_translations": true
+  }
+}

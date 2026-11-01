@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-01",
+  "source_archive": "RTD-translation-only-20261101.zip",
+  "source_archive_sha256": "99aaf97ddd42177f675324df0a15ed451e6ad63f4bc84beab3a2d668ed57a6fd",
+  "total": 9693,
+  "translated": 9693,
+  "pending": 0,
+  "added": 7843,
+  "preserved_previous_effective_translations": 1850,
+  "source_text_changes": 0,
+  "source_and_baseline_metadata_files_byte_identical": 10,
+  "glyph_errors": 0,
+  "format_and_ngui_errors": 0,
+  "new_numeric_mismatches": 0,
+  "tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "run": 10,
+    "failures": 0,
+    "errors": 0
+  },
+  "export": "Exported 9693 translations.",
+  "audit": "translated=9693; pending_rows=0; missing_glyph_entries=[]",
+  "legacy_errata_proposals": 59,
+  "sha256": {
+    "translations.csv": "d52abe2d21a7b474a7c80c9199389da10234234c772b8361cf7a4442046859f2",
+    "dist/translation.json": "5b51878ed6d5818b3e5500261b353a5575ab8643001376f9686b8aa53e84712c"
+  }
+}

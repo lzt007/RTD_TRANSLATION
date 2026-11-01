@@ -2,3 +2,16 @@ dist/
 __pycache__/
 *.py[cod]
 .venv/
+apks/
+
+# Large resources and generated packages (kept locally)
+*.zip
+*.7z
+*.rar
+*.apk
+*.aab
+*.obb
+*.unity3d
+*.assets
+/analysis/
+/sources/fonts/

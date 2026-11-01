@@ -64,11 +64,11 @@ class ExportTests(unittest.TestCase):
             self.assertIn(b'conflicting duplicate', result.stderr)
             self.assertEqual((root / 'old.json').read_text(encoding='utf-8'), '{"old":"published"}')
 
-    def test_real_source_inventory_and_blank_translation_state(self):
+    def test_real_source_inventory_and_translation_contract(self):
         with (ROOT / 'translations.csv').open(encoding='utf-8-sig', newline='') as stream:
             rows = list(csv.reader(stream))
         self.assertEqual(rows[0], ['源文本', '中文文本'])
-        self.assertTrue(all(len(row) == 2 and row[1] == '' for row in rows[1:]))
+        self.assertTrue(all(len(row) == 2 for row in rows[1:]))
         sources = {row[0] for row in rows[1:]}
         textdb = json.loads((ROOT / 'sources/TextDatabase.json').read_text(encoding='utf-8'))
         parts = (ROOT / 'sources/TextDatabase.txt').read_bytes().decode('utf-8').split('\t')
@@ -84,7 +84,9 @@ class ExportTests(unittest.TestCase):
         spec = importlib.util.spec_from_file_location('translation_export', ROOT / 'scripts/export.py')
         exporter = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(exporter)
-        self.assertEqual(exporter.read_mapping(ROOT / 'translations.csv'), {})
+        mapping = exporter.read_mapping(ROOT / 'translations.csv')
+        self.assertTrue(mapping)
+        self.assertTrue(set(mapping) <= sources)
 
 
 if __name__ == '__main__':

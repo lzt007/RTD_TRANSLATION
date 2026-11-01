@@ -1,0 +1,75 @@
+{
+  "imported": 740,
+  "skipped": [
+    {
+      "source": "あと",
+      "targets": [
+        "尚餘",
+        "還有"
+      ],
+      "reason": "conflicting translations for identical Japanese"
+    },
+    {
+      "source": "ベースユニット選択",
+      "targets": [
+        "選擇升級戰士",
+        "選擇高級合成戰士"
+      ],
+      "reason": "conflicting translations for identical Japanese"
+    },
+    {
+      "source": "フレンド検索",
+      "targets": [
+        "搜尋好友",
+        "搜索好友"
+      ],
+      "reason": "conflicting translations for identical Japanese"
+    },
+    {
+      "source": "ユニットについて",
+      "targets": [
+        "MT_HELP_UNION",
+        "有關戰士"
+      ],
+      "reason": "conflicting translations for identical Japanese"
+    },
+    {
+      "source": "機種移行",
+      "targets": [
+        "機種轉移",
+        "轉移帳號"
+      ],
+      "reason": "conflicting translations for identical Japanese"
+    },
+    {
+      "source": "ガチャをプレイしてユニットを獲得できます。\n\n[d9419a][ノーマルガチャ][-]\n１００フレンドポイントで1回プレイできます。\n[d9419a][ノーマルガチャ×10][-]\n１０００フレンドポイントで1回プレイできます。\n[d9419a][レアガチャ][-]\n虹色水晶5個で、1回プレイできます。",
+      "targets": [
+        "進行轉蛋獲得戰士。\n\n[d9419a][友情轉蛋][-]\n使用100好友點數進行一次轉蛋。\n[d9419a][友情轉蛋×10][-]\n使用1000好友點數進行一次轉蛋。\n[d9419a][稀有轉蛋][-]\n使用5個虹石，進行一次轉蛋。\n[d9419a][稀有轉蛋x10][-]\n使用50個虹石，進行一次轉蛋。"
+      ],
+      "reason": "NGUI tags differ"
+    },
+    {
+      "source": "[d9419a][ヘルプ][-]\nゲーム中に出てくるさまざまな項目の説明を表示します。",
+      "targets": [
+        "[d9419a][HELP][-]\n對遊戲各項目進行說明。"
+      ],
+      "reason": "NGUI tags differ"
+    },
+    {
+      "source": "ドラ助メダル[59e5c7] 1個[-]獲得！",
+      "targets": [
+        "獲得[ff6000] 1個[-]龍之助獎章！"
+      ],
+      "reason": "NGUI tags differ"
+    },
+    {
+      "source": "スキル・アブソーブ",
+      "targets": [
+        "隊伍的羈絆"
+      ],
+      "reason": "missing font glyph"
+    }
+  ],
+  "font": "sharedassets1.assets object 97, texture 41",
+  "apk_sha256": "8d9a1186c2477d9438a2253cb9b70afe2aa2cb1730cdc570d026282920005084"
+}

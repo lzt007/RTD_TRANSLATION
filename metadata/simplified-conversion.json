@@ -1,0 +1,7 @@
+{
+  "method": "Windows LCMapStringEx LCMAP_SIMPLIFIED_CHINESE zh-CN; translation values only",
+  "changed_entries": 8384,
+  "entries": 9693,
+  "font": "C:/Windows/Fonts/SIMYOU.TTF",
+  "runtime_conversion": false
+}
